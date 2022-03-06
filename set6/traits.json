@@ -1,0 +1,170 @@
+[
+  {
+     "key":"Set6_Bruiser",
+     "name":"Bruiser",
+     "description":"Your team gains bonus maximum Health. Bruisers gain double the bonus.<br><expandRow>(@MinUnits@) @BonusHealth@ Health</expandRow>",
+     "type":"class"
+  },
+  {
+     "key":"Set6_YordleLord",
+     "name":"Yordle-Lord",
+     "description":"(1) Benefits from the Yordle trait.<br><br>Veigar is summoned from a Yordle Portal when every Yordle is 3-star.<br><br>",
+     "type":"origin"
+  },
+  {
+     "key":"Set6_Twinshot",
+     "name":"Twinshot",
+     "description":"Twinshots gain bonus Attack Damage. When a Twinshot attacks, they have a chance to attack twice instead.<br><br><expandRow>(@MinUnits@) @BonusAD@ Attack Damage, @ProcChance@% chance</expandRow><br>",
+     "type":"class"
+  },
+  {
+     "key":"Set6_Mercenary",
+     "name":"Mercenary",
+     "description":"Gain a treasure chest that opens when you win combat against a player. At the start of each planning phase vs a player, dice rolls add loot to the chest. The longer you've gone without opening the chest, the luckier the dice.<br><br><row>(@MinUnits@) Roll 2 dice </row><br><row>(@MinUnits@) The dice are even luckier! </row><br><row>(@MinUnits@) Upon winning, roll a 3rd die that grants bonus loot. </row>",
+     "type":"origin"
+  },
+  {
+     "key":"Set6_Imperial",
+     "name":"Imperial",
+     "description":"At the start of combat, the Imperial who dealt the most damage last combat becomes the Tyrant. The Tyrant deals bonus damage. When the Tyrant dies, the Imperial who has dealt the most damage this combat becomes the new Tyrant.<br><br><row>(@MinUnits@) The Tyrant deals @TyrantTooltipBonusDamage@% bonus damage</row><br><row>(@MinUnits@) The Tyrant deals @TyrantTooltipBonusDamage@% bonus damage and the other Imperials deal @ImperialBonusDamage@% bonus damage</row>",
+     "type":"origin"
+  },
+  {
+     "key":"Set6_Chemtech",
+     "name":"Chemtech",
+     "description":"After dropping below @HealthThreshold@% Health, Chemtech champions gain @DamageReduction@% damage reduction, @AttackSpeed@% Attack Speed, and regenerate @HealthRegen@% of their maximum Health each second.<br><row>(@MinUnits@) Lasts @Duration@ seconds</row><br><row>(@MinUnits@) Lasts @Duration@ seconds</row><br><row>(@MinUnits@) Lasts @Duration@ seconds</row><br><row>(@MinUnits@) Lasts until combat ends, @IncreasedHealthRegen@% regeneration</row>",
+     "type":"origin"
+  },
+  {
+     "key":"Set6_Innovator",
+     "name":"Innovator",
+     "description":"Innovators build a mechanical companion to join the battle. The companion receives bonus Health and Attack Damage based on allied Innovators' star levels. <br><br><row>(@MinUnits@) Mechanical Scarab </row><br><row>(@MinUnits@) Mechanical Bear</row><br><row>(@MinUnits@) Mechanical Dragon </row>",
+     "type":"class"
+  },
+  {
+     "key":"Set6_Sister",
+     "name":"Sister",
+     "description":"(@MinUnits@) Sisters gain empowered skills to compete with each other. <br>Vi's Ability range increases by 2 hexes.<br><br>Jinx gains @JinxEmpoweredAS*100@% Attack Speed for @JinxASDuration@ seconds after scoring a takedown.",
+     "type":"origin"
+  },
+  {
+     "key":"Set6_Scholar",
+     "name":"Scholar",
+     "description":"Your team gains Mana every @TickRate@ seconds.<br><br><expandRow>(@MinUnits@) @ManaPerTick@ Mana</expandRow>",
+     "type":"class"
+  },
+  {
+     "key":"Set6_Socialite",
+     "name":"Socialite",
+     "description":"Socialites reveal a spotlight on the battlefield. The unit standing in the spotlight at the start of combat gains unique bonuses.<br><br><row>(@MinUnits@) @DamagePercent*100@% bonus damage</row><br><row>(@MinUnits@) and @ManaPerSecond@ Mana per second</row><br><row>(@MinUnits@) and heal for @OmnivampPercent*100@% of all damage they deal</row>",
+     "type":"origin"
+  },
+  {
+     "key":"Set6_Academy",
+     "name":"Academy ",
+     "description":"Academics have bonus Attack Damage and Ability Power. They also learn from their allies, gaining an additional bonus whenever an ally casts their Ability.<br><br><expandRow>(@MinUnits@) @ADAPBase@ Attack Damage and Ability Power; @ADAPPerCast@ from allies' casts</expandRow>",
+     "type":"origin"
+  },
+  {
+     "key":"Set6_Mutant",
+     "name":"Mutant",
+     "description":"Mutants gain a different Trait bonus from game to game.<br><br><tftstrong>Cybernetic Enhancement</tftstrong> grants bonus stats to Mutants with at least 1 item.<br><tftstrong>Voracious Appetite</tftstrong> strengthens Mutants on each ally's death.<br><tftstrong>Voidborne</tftstrong> executes targets below a Health threshold and deals true damage. <br><tftstrong>Hyper-Adrenal Glands</tftstrong> give a chance for Mutants to deal additional attacks.<br><tftstrong>Synaptic Web</tftstrong> reduces the Mana cost of Mutants' Abilities.<br><tftstrong>Bio-Leeching</tftstrong> grants Omnivamp (healing for a percentage of damage dealt) to your team.<br><tftstrong>Metamorphosis</tftstrong> grants stacking bonuses to Mutants at regular intervals.",
+     "type":"origin"
+  },
+  {
+     "key":"Set6_Cuddly",
+     "name":"Cuddly",
+     "description":"At the start of combat, Yuumi attaches herself to the nearest ally, or to the lowest Health ally after being unattached for @AttachCooldown@ seconds. Attaching to an ally grants them a shield equal to @ShieldPercent@% of Yuumi's maximum Health. Yuumi detaches if the shield breaks.<br><br>While attached, Yuumi is untargetable and cannot attack, but gains @ManaPerSecond@ Mana per second, and @ManaPerAllyAttack@ Mana whenever the ally attacks.",
+     "type":"origin"
+  },
+  {
+     "key":"Set6_Protector",
+     "name":"Protector",
+     "description":"Protectors shield themselves for @Duration@ seconds whenever they cast an Ability. This shield doesn't stack.<br><br><expandRow> (@MinUnits@) @ShieldPercent@% maximum Health shield</expandRow>",
+     "type":"class"
+  },
+  {
+     "key":"Set6_Glutton",
+     "name":"Glutton",
+     "description":"An ally can be fed to Tahm Kench once per planning phase, permanently granting him either Ability Power, Health, Armor, or Magic Resist.<br><br><tftitemrules>To feed, hold an ally over Tahm Kench until his mouth opens, then release.</tftitemrules>",
+     "type":"origin"
+  },
+  {
+     "key":"Set6_Enforcer",
+     "name":"Enforcer",
+     "description":"Enforcers stun enemies at the start of combat. They break free after @DetainDuration@ seconds, or after losing @HPPercent*100@% of their maximum Health. Enforcers will not try to stun enemies who are immune to crowd control effects.<br><br><row>(@MinUnits@) The enemy who has the most Health</row><br><row>(@MinUnits@) And the enemy who dealt the most damage last combat</row>",
+     "type":"origin"
+  },
+  {
+     "key":"Set6_Arcanist",
+     "name":"Arcanist",
+     "description":"Arcanists increase the Ability Power of your team.<br><row>(@MinUnits@) Your team gains @TeamAbilityPower@ Ability Power</row><br><row>(@MinUnits@) Your team gains @TeamAbilityPower@ Ability Power, Arcanists gain an additional @ArcanistAbilityPower@</row><br><row>(@MinUnits@) Your team gains @TeamAbilityPower@ Ability Power, Arcanists gain an additional @ArcanistAbilityPower@</row><br><row>(@MinUnits@) Your team gains @TeamAbilityPower@ Ability Power</row>",
+     "type":"class"
+  },
+  {
+     "key":"Set6_Clockwork",
+     "name":"Clockwork",
+     "description":"Your team has increased Attack Speed, with an additional increase per augment in the Hexcore.<br><br><expandRow>(@MinUnits@) @AttackSpeedBonus*100@% Attack Speed + @BonusPerAugment*100@% per augment </expandRow><br><br>",
+     "type":"origin"
+  },
+  {
+     "key":"Set6_Yordle",
+     "name":"Yordle",
+     "description":"<row>(@MinUnits@) After each player combat, a random Yordle is added to your bench for free.</row><br><row>(@MinUnits@) And Yordles' Abilities cost @PercentManaReduction@% less to cast.</row><br>",
+     "type":"origin"
+  },
+  {
+     "key":"Set6_Assassin",
+     "name":"Assassin",
+     "description":"Innate: When combat starts, Assassins leap to the enemy backline.<br><br>Assassins' Abilities can critically strike and they gain bonus Critical Strike Chance and bonus Critical Strike Damage.<br><br><expandRow>(@MinUnits@) +@CritChanceAmpPercent@% Crit Chance and +@CritAmpPercent@% Crit Damage</expandRow><br>",
+     "type":"class"
+  },
+  {
+     "key":"Set6_Colossus",
+     "name":"Colossus",
+     "description":"Innate: Colossi are bigger, more powerful, and immune to crowd control effects. However, each Colossus requires 2 team slots.<br><row>(@MinUnits@) Colossus champions take @DamageReduction*100@% less damage</row>",
+     "type":"class"
+  },
+  {
+     "key":"Set6_Transformer",
+     "name":"Transformer",
+     "description":"Jayce adopts melee form when placed in the front 2 rows, and ranged form in the back 2 rows.",
+     "type":"class"
+  },
+  {
+     "key":"Set6_Bodyguard",
+     "name":"Bodyguard",
+     "description":"Bodyguards have increased Armor. Shortly after combat begins, Bodyguards gain a Shield and taunt adjacent enemies, forcing them to attack the Bodyguard .<br><br><expandRow>(@MinUnits@) @BonusArmor@ Armor, @ShieldAmount@ Shield</expandRow>",
+     "type":"class"
+  },
+  {
+     "key":"Set6_Scrap",
+     "name":"Scrap",
+     "description":"At the start of combat, components held by Scrap champions turn into full items for the rest of combat. Also, your team gains a shield for each component equipped by your team, including those that are part of a full item.<br><br><row>(@MinUnits@) @NumComponents@ component, @HPShieldAmount@ shield</row><br><row>(@MinUnits@) @NumComponents@ components, @HPShieldAmount@ shield</row><br><row>(@MinUnits@) All components, @HPShieldAmount@ shield</row>",
+     "type":"origin"
+  },
+  {
+     "key":"Set6_Enchanter",
+     "name":"Enchanter",
+     "description":"Your team has bonus Magic Resist. Enchanters gain bonus healing and shielding.<br><expandRow>(@MinUnits@) +@MagicResistance@ Magic Resist; @HealShieldBoost*100@% healing and shielding</expandRow><br>",
+     "type":"class"
+  },
+  {
+     "key":"Set6_Sniper",
+     "name":"Sniper",
+     "description":"Innate: Snipers gain @HexRangeIncrease@ hex Attack Range. <br><br>Snipers deal bonus damage for each hex between themselves and their target.<br><expandRow>(@MinUnits@) @PercentDamageIncrease@% bonus damage</expandRow>",
+     "type":"class"
+  },
+  {
+     "key":"Set6_Challenger",
+     "name":"Challenger",
+     "description":"Challengers get bonus Attack Speed. Upon scoring a takedown, Challengers dash to a new target and double this bonus for @BurstDuration@ seconds.<br><expandRow>(@MinUnits@) @BonusAS@% Attack Speed</expandRow>",
+     "type":"class"
+  },
+  {
+     "key":"Set6_Syndicate",
+     "name":"Syndicate",
+     "description":"Certain allies are cloaked in shadows, gaining @Armor@ Armor, @MagicResist@ Magic Resist and @PercentOmnivamp@% Omnivamp (healing for a percentage of all damage dealt.)<br><br><row>(@MinUnits@) The Syndicate champion with the lowest percent Health</row><br><row>(@MinUnits@) All Syndicate champions</row><br><row>(@MinUnits@) Your whole team, and the effects are increased by @SyndicateIncrease*100@%</row><br>",
+     "type":"origin"
+  }
+]
