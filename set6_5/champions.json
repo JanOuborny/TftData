@@ -1,0 +1,612 @@
+[
+  {
+    "link": "/champions/ahri",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Ahri.png",
+    "name": "Ahri",
+    "key": "Ahri",
+    "traits": [
+      "Syndicate",
+      "Arcanist"
+    ]
+  },
+  {
+    "link": "/champions/alistar",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Alistar.png",
+    "name": "Alistar",
+    "key": "Alistar",
+    "traits": [
+      "Hextech",
+      "Colossus"
+    ]
+  },
+  {
+    "link": "/champions/ashe",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Ashe.png",
+    "name": "Ashe",
+    "key": "Ashe",
+    "traits": [
+      "Syndicate",
+      "Sniper"
+    ]
+  },
+  {
+    "link": "/champions/blitzcrank",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Blitzcrank.png",
+    "name": "Blitzcrank",
+    "key": "Blitzcrank",
+    "traits": [
+      "Scrap",
+      "Bodyguard"
+    ]
+  },
+  {
+    "link": "/champions/brand",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Brand.png",
+    "name": "Brand",
+    "key": "Brand",
+    "traits": [
+      "Debonair",
+      "Arcanist"
+    ]
+  },
+  {
+    "link": "/champions/braum",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Braum.png",
+    "name": "Braum",
+    "key": "Braum",
+    "traits": [
+      "Syndicate",
+      "Bodyguard"
+    ]
+  },
+  {
+    "link": "/champions/caitlyn",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Caitlyn.png",
+    "name": "Caitlyn",
+    "key": "Caitlyn",
+    "traits": [
+      "Enforcer",
+      "Sniper"
+    ]
+  },
+  {
+    "link": "/champions/camille",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Camille.png",
+    "name": "Camille",
+    "key": "Camille",
+    "traits": [
+      "Clockwork",
+      "Challenger"
+    ]
+  },
+  {
+    "link": "/champions/chogath",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Chogath.png",
+    "name": "Chogath",
+    "key": "Chogath",
+    "traits": [
+      "Mutant",
+      "Bruiser",
+      "Colossus"
+    ]
+  },
+  {
+    "link": "/champions/corki",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Corki.png",
+    "name": "Corki",
+    "key": "Corki",
+    "traits": [
+      "Yordle",
+      "Twinshot"
+    ]
+  },
+  {
+    "link": "/champions/darius",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Darius.png",
+    "name": "Darius",
+    "key": "Darius",
+    "traits": [
+      "Syndicate",
+      "Bodyguard"
+    ]
+  },
+  {
+    "link": "/champions/draven",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Draven.png",
+    "name": "Draven",
+    "key": "Draven",
+    "traits": [
+      "Debonair",
+      "Challenger"
+    ]
+  },
+  {
+    "link": "/champions/ekko",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Ekko.png",
+    "name": "Ekko",
+    "key": "Ekko",
+    "traits": [
+      "Scrap",
+      "Assassin",
+      "Innovator"
+    ]
+  },
+  {
+    "link": "/champions/ezreal",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Ezreal.png",
+    "name": "Ezreal",
+    "key": "Ezreal",
+    "traits": [
+      "Scrap",
+      "Innovator"
+    ]
+  },
+  {
+    "link": "/champions/galio",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Galio.png",
+    "name": "Galio",
+    "key": "Galio",
+    "traits": [
+      "Socialite",
+      "Bodyguard",
+      "Colossus"
+    ]
+  },
+  {
+    "link": "/champions/gangplank",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Gangplank.png",
+    "name": "Gangplank",
+    "key": "Gangplank",
+    "traits": [
+      "Mercenary",
+      "Twinshot"
+    ]
+  },
+  {
+    "link": "/champions/gnar",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Gnar.png",
+    "name": "Gnar",
+    "key": "Gnar",
+    "traits": [
+      "Socialite",
+      "Yordle",
+      "Striker"
+    ]
+  },
+  {
+    "link": "/champions/illaoi",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Illaoi.png",
+    "name": "Illaoi",
+    "key": "Illaoi",
+    "traits": [
+      "Mercenary",
+      "Bruiser"
+    ]
+  },
+  {
+    "link": "/champions/irelia",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Irelia.png",
+    "name": "Irelia",
+    "key": "Irelia",
+    "traits": [
+      "Scrap",
+      "Striker"
+    ]
+  },
+  {
+    "link": "/champions/jarvan_iv",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/JarvanIV.png",
+    "name": "Jarvan IV",
+    "key": "JarvanIV",
+    "traits": [
+      "Hextech",
+      "Striker"
+    ]
+  },
+  {
+    "link": "/champions/jayce",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Jayce.png",
+    "name": "Jayce",
+    "key": "Jayce",
+    "traits": [
+      "Enforcer",
+      "Innovator",
+      "Transformer"
+    ]
+  },
+  {
+    "link": "/champions/jhin",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Jhin.png",
+    "name": "Jhin",
+    "key": "Jhin",
+    "traits": [
+      "Clockwork",
+      "Sniper"
+    ]
+  },
+  {
+    "link": "/champions/jinx",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Jinx.png",
+    "name": "Jinx",
+    "key": "Jinx",
+    "traits": [
+      "Rival",
+      "Scrap",
+      "Twinshot"
+    ]
+  },
+  {
+    "link": "/champions/kaisa",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Kaisa.png",
+    "name": "Kaisa",
+    "key": "Kaisa",
+    "traits": [
+      "Mutant",
+      "Challenger"
+    ]
+  },
+  {
+    "link": "/champions/kassadin",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Kassadin.png",
+    "name": "Kassadin",
+    "key": "Kassadin",
+    "traits": [
+      "Mutant",
+      "Scholar"
+    ]
+  },
+  {
+    "link": "/champions/khazix",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Khazix.png",
+    "name": "Khazix",
+    "key": "Khazix",
+    "traits": [
+      "Mutant",
+      "Assassin"
+    ]
+  },
+  {
+    "link": "/champions/leona",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Leona.png",
+    "name": "Leona",
+    "key": "Leona",
+    "traits": [
+      "Debonair",
+      "Bodyguard"
+    ]
+  },
+  {
+    "link": "/champions/lucian",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Lucian.png",
+    "name": "Lucian",
+    "key": "Lucian",
+    "traits": [
+      "Hextech",
+      "Twinshot"
+    ]
+  },
+  {
+    "link": "/champions/lulu",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Lulu.png",
+    "name": "Lulu",
+    "key": "Lulu",
+    "traits": [
+      "Yordle",
+      "Enchanter"
+    ]
+  },
+  {
+    "link": "/champions/malzahar",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Malzahar.png",
+    "name": "Malzahar",
+    "key": "Malzahar",
+    "traits": [
+      "Mutant",
+      "Arcanist"
+    ]
+  },
+  {
+    "link": "/champions/miss_fortune",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/MissFortune.png",
+    "name": "Miss Fortune",
+    "key": "MissFortune",
+    "traits": [
+      "Mercenary",
+      "Sniper"
+    ]
+  },
+  {
+    "link": "/champions/morgana",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Morgana.png",
+    "name": "Morgana",
+    "key": "Morgana",
+    "traits": [
+      "Syndicate",
+      "Enchanter"
+    ]
+  },
+  {
+    "link": "/champions/nocturne",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Nocturne.png",
+    "name": "Nocturne",
+    "key": "Nocturne",
+    "traits": [
+      "Hextech",
+      "Assassin"
+    ]
+  },
+  {
+    "link": "/champions/orianna",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Orianna.png",
+    "name": "Orianna",
+    "key": "Orianna",
+    "traits": [
+      "Clockwork",
+      "Enchanter"
+    ]
+  },
+  {
+    "link": "/champions/poppy",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Poppy.png",
+    "name": "Poppy",
+    "key": "Poppy",
+    "traits": [
+      "Yordle",
+      "Bodyguard"
+    ]
+  },
+  {
+    "link": "/champions/quinn",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Quinn.png",
+    "name": "Quinn",
+    "key": "Quinn",
+    "traits": [
+      "Mercenary",
+      "Challenger"
+    ]
+  },
+  {
+    "link": "/champions/reksai",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/RekSai.png",
+    "name": "RekSai",
+    "key": "RekSai",
+    "traits": [
+      "Mutant",
+      "Bruiser",
+      "Striker"
+    ]
+  },
+  {
+    "link": "/champions/renata_glasc",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/RenataGlasc.png",
+    "name": "Renata Glasc",
+    "key": "RenataGlasc",
+    "traits": [
+      "Chemtech",
+      "Scholar"
+    ]
+  },
+  {
+    "link": "/champions/sejuani",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Sejuani.png",
+    "name": "Sejuani",
+    "key": "Sejuani",
+    "traits": [
+      "Enforcer",
+      "Hextech",
+      "Bruiser"
+    ]
+  },
+  {
+    "link": "/champions/senna",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Senna.png",
+    "name": "Senna",
+    "key": "Senna",
+    "traits": [
+      "Socialite",
+      "Enchanter"
+    ]
+  },
+  {
+    "link": "/champions/seraphine",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Seraphine.png",
+    "name": "Seraphine",
+    "key": "Seraphine",
+    "traits": [
+      "Socialite",
+      "Innovator"
+    ]
+  },
+  {
+    "link": "/champions/silco",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Silco.png",
+    "name": "Silco",
+    "key": "Silco",
+    "traits": [
+      "Mastermind",
+      "Scholar"
+    ]
+  },
+  {
+    "link": "/champions/singed",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Singed.png",
+    "name": "Singed",
+    "key": "Singed",
+    "traits": [
+      "Chemtech",
+      "Innovator"
+    ]
+  },
+  {
+    "link": "/champions/sivir",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Sivir.png",
+    "name": "Sivir",
+    "key": "Sivir",
+    "traits": [
+      "Hextech",
+      "Striker"
+    ]
+  },
+  {
+    "link": "/champions/swain",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Swain.png",
+    "name": "Swain",
+    "key": "Swain",
+    "traits": [
+      "Hextech",
+      "Arcanist"
+    ]
+  },
+  {
+    "link": "/champions/syndra",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Syndra.png",
+    "name": "Syndra",
+    "key": "Syndra",
+    "traits": [
+      "Debonair",
+      "Scholar"
+    ]
+  },
+  {
+    "link": "/champions/tahm_kench",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/TahmKench.png",
+    "name": "Tahm Kench",
+    "key": "TahmKench",
+    "traits": [
+      "Glutton",
+      "Mercenary",
+      "Bruiser"
+    ]
+  },
+  {
+    "link": "/champions/talon",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Talon.png",
+    "name": "Talon",
+    "key": "Talon",
+    "traits": [
+      "Debonair",
+      "Assassin"
+    ]
+  },
+  {
+    "link": "/champions/tryndamere",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Tryndamere.png",
+    "name": "Tryndamere",
+    "key": "Tryndamere",
+    "traits": [
+      "Chemtech",
+      "Challenger"
+    ]
+  },
+  {
+    "link": "/champions/twitch",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Twitch.png",
+    "name": "Twitch",
+    "key": "Twitch",
+    "traits": [
+      "Chemtech",
+      "Assassin"
+    ]
+  },
+  {
+    "link": "/champions/veigar",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Veigar.png",
+    "name": "Veigar",
+    "key": "Veigar",
+    "traits": [
+      "Yordle-Lord"
+    ]
+  },
+  {
+    "link": "/champions/vex",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Vex.png",
+    "name": "Vex",
+    "key": "Vex",
+    "traits": [
+      "Yordle",
+      "Arcanist"
+    ]
+  },
+  {
+    "link": "/champions/vi",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Vi.png",
+    "name": "Vi",
+    "key": "Vi",
+    "traits": [
+      "Enforcer",
+      "Rival",
+      "Bruiser"
+    ]
+  },
+  {
+    "link": "/champions/viktor",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Viktor.png",
+    "name": "Viktor",
+    "key": "Viktor",
+    "traits": [
+      "Chemtech",
+      "Arcanist"
+    ]
+  },
+  {
+    "link": "/champions/warwick",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Warwick.png",
+    "name": "Warwick",
+    "key": "Warwick",
+    "traits": [
+      "Chemtech",
+      "Challenger"
+    ]
+  },
+  {
+    "link": "/champions/zac",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Zac.png",
+    "name": "Zac",
+    "key": "Zac",
+    "traits": [
+      "Chemtech",
+      "Bruiser"
+    ]
+  },
+  {
+    "link": "/champions/zeri",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Zeri.png",
+    "name": "Zeri",
+    "key": "Zeri",
+    "traits": [
+      "Debonair",
+      "Sniper"
+    ]
+  },
+  {
+    "link": "/champions/ziggs",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Ziggs.png",
+    "name": "Ziggs",
+    "key": "Ziggs",
+    "traits": [
+      "Scrap",
+      "Yordle",
+      "Arcanist"
+    ]
+  },
+  {
+    "link": "/champions/zilean",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Zilean.png",
+    "name": "Zilean",
+    "key": "Zilean",
+    "traits": [
+      "Clockwork",
+      "Innovator"
+    ]
+  },
+  {
+    "link": "/champions/zyra",
+    "image": "https://rerollcdn.com/characters/Skin/6.5/Zyra.png",
+    "name": "Zyra",
+    "key": "Zyra",
+    "traits": [
+      "Syndicate",
+      "Scholar"
+    ]
+  }
+]
