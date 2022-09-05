@@ -1,0 +1,696 @@
+[
+    {
+        "championId": "TFT7_AoShin",
+        "link": "/champions/ao_shin",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/AoShin.png",
+        "name": "Ao Shin",
+        "traits": [
+            "tempest",
+            "dragon"
+        ],
+        "cost": 8
+    },
+    {
+        "championId": "TFT7_Aphelios",
+        "link": "/champions/aphelios",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Aphelios.png",
+        "name": "Aphelios",
+        "traits": [
+            "darkflight",
+            "cannoneer"
+        ],
+        "cost": 2
+    },
+    {
+        "championId": "TFT7_AurelionSol",
+        "link": "/champions/aurelion_sol",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/AurelionSol.png",
+        "name": "Aurelion Sol",
+        "traits": [
+            "astral",
+            "dragon",
+            "evoker"
+        ],
+        "cost": 8
+    },
+    {
+        "championId": "TFT7_Bard",
+        "link": "/champions/bard",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Bard.png",
+        "name": "Bard",
+        "traits": [
+            "guild",
+            "bard",
+            "mystic"
+        ],
+        "cost": 5
+    },
+    {
+        "championId": "TFT7_Braum",
+        "link": "/champions/braum",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Braum.png",
+        "name": "Braum",
+        "traits": [
+            "scalescorn",
+            "guardian"
+        ],
+        "cost": 2
+    },
+    {
+        "championId": "TFT7_Daeja",
+        "link": "/champions/daeja",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Daeja.png",
+        "name": "Daeja",
+        "traits": [
+            "mirage",
+            "dragon"
+        ],
+        "cost": 7
+    },
+    {
+        "championId": "TFT7_Diana",
+        "link": "/champions/diana",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Diana.png",
+        "name": "Diana",
+        "traits": [
+            "scalescorn",
+            "assassin"
+        ],
+        "cost": 3
+    },
+    {
+        "championId": "TFT7_Ezreal",
+        "link": "/champions/ezreal",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Ezreal.png",
+        "name": "Ezreal",
+        "traits": [
+            "tempest",
+            "swiftshot"
+        ],
+        "cost": 1
+    },
+    {
+        "championId": "TFT7_Gnar",
+        "link": "/champions/gnar",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Gnar.png",
+        "name": "Gnar",
+        "traits": [
+            "jade",
+            "shapeshifter"
+        ],
+        "cost": 2
+    },
+    {
+        "championId": "TFT7_Graves",
+        "link": "/champions/graves",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Graves.png",
+        "name": "Graves",
+        "traits": [
+            "tempest",
+            "cannoneer"
+        ],
+        "cost": 4
+    },
+    {
+        "championId": "TFT7_Hecarim",
+        "link": "/champions/hecarim",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Hecarim.png",
+        "name": "Hecarim",
+        "traits": [
+            "ragewing",
+            "cavalier"
+        ],
+        "cost": 4
+    },
+    {
+        "championId": "TFT7_Heimerdinger",
+        "link": "/champions/heimerdinger",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Heimerdinger.png",
+        "name": "Heimerdinger",
+        "traits": [
+            "mage"
+        ],
+        "cost": 1
+    },
+    {
+        "championId": "TFT7_Idas",
+        "link": "/champions/idas",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Idas.png",
+        "name": "Idas",
+        "traits": [
+            "shimmerscale",
+            "dragon",
+            "guardian"
+        ],
+        "cost": 7
+    },
+    {
+        "championId": "TFT7_Jax",
+        "link": "/champions/jax",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Jax.png",
+        "name": "Jax",
+        "traits": [
+            "jade",
+            "shimmerscale",
+            "bruiser"
+        ],
+        "cost": 2
+    },
+    {
+        "championId": "TFT7_Jayce",
+        "link": "/champions/jayce",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Jayce.png",
+        "name": "Jayce",
+        "traits": [
+            "guild",
+            "shapeshifter"
+        ],
+        "cost": 4
+    },
+    {
+        "championId": "TFT7_Kaisa",
+        "link": "/champions/kaisa",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Kaisa.png",
+        "name": "Kaisa",
+        "traits": [
+            "lagoon",
+            "dragonmancer"
+        ],
+        "cost": 2
+    },
+    {
+        "championId": "TFT7_Karma",
+        "link": "/champions/karma",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Karma.png",
+        "name": "Karma",
+        "traits": [
+            "jade",
+            "dragonmancer"
+        ],
+        "cost": 1
+    },
+    {
+        "championId": "TFT7_LeeSin",
+        "link": "/champions/lee_sin",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/LeeSin.png",
+        "name": "Lee Sin",
+        "traits": [
+            "tempest",
+            "dragonmancer"
+        ],
+        "cost": 3
+    },
+    {
+        "championId": "TFT7_Leona",
+        "link": "/champions/leona",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Leona.png",
+        "name": "Leona",
+        "traits": [
+            "mirage",
+            "guardian"
+        ],
+        "cost": 1
+    },
+    {
+        "championId": "TFT7_Lillia",
+        "link": "/champions/lillia",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Lillia.png",
+        "name": "Lillia",
+        "traits": [
+            "scalescorn",
+            "cavalier",
+            "mage"
+        ],
+        "cost": 2
+    },
+    {
+        "championId": "TFT7_Lulu",
+        "link": "/champions/lulu",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Lulu.png",
+        "name": "Lulu",
+        "traits": [
+            "evoker"
+        ],
+        "cost": 3
+    },
+    {
+        "championId": "TFT7_Lux",
+        "link": "/champions/lux",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Lux.png",
+        "name": "Lux",
+        "traits": [
+            "astral",
+            "mage"
+        ],
+        "cost": 2
+    },
+    {
+        "championId": "TFT7_Malphite",
+        "link": "/champions/malphite",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Malphite.png",
+        "name": "Malphite",
+        "traits": [
+            "lagoon",
+            "bruiser"
+        ],
+        "cost": 1
+    },
+    {
+        "championId": "TFT7_Nasus",
+        "link": "/champions/nasus",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Nasus.png",
+        "name": "Nasus",
+        "traits": [
+            "shimmerscale",
+            "guardian"
+        ],
+        "cost": 1
+    },
+    {
+        "championId": "TFT7_Nidalee",
+        "link": "/champions/nidalee",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Nidalee.png",
+        "name": "Nidalee",
+        "traits": [
+            "astral",
+            "shapeshifter"
+        ],
+        "cost": 1
+    },
+    {
+        "championId": "TFT7_Nilah",
+        "link": "/champions/nilah",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Nilah.png",
+        "name": "Nilah",
+        "traits": [
+            "lagoon",
+            "assassin"
+        ],
+        "cost": 4
+    },
+    {
+        "championId": "TFT7_Nomsy",
+        "link": "/champions/nomsy",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Nomsy.png",
+        "name": "Nomsy",
+        "traits": [
+            "prodigy",
+            "dragon"
+        ],
+        "cost": 6
+    },
+    {
+        "championId": "TFT7_Nunu",
+        "link": "/champions/nunu",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Nunu.png",
+        "name": "Nunu",
+        "traits": [
+            "mirage",
+            "cavalier"
+        ],
+        "cost": 3
+    },
+    {
+        "championId": "TFT7_Olaf",
+        "link": "/champions/olaf",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Olaf.png",
+        "name": "Olaf",
+        "traits": [
+            "scalescorn",
+            "bruiser",
+            "warrior"
+        ],
+        "cost": 3
+    },
+    {
+        "championId": "TFT7_Pantheon",
+        "link": "/champions/pantheon",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Pantheon.png",
+        "name": "Pantheon",
+        "traits": [
+            "whispers",
+            "warrior"
+        ],
+        "cost": 4
+    },
+    {
+        "championId": "TFT7_Qiyana",
+        "link": "/champions/qiyana",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Qiyana.png",
+        "name": "Qiyana",
+        "traits": [
+            "tempest",
+            "assassin"
+        ],
+        "cost": 2
+    },
+    {
+        "championId": "TFT7_Rakan",
+        "link": "/champions/rakan",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Rakan.png",
+        "name": "Rakan",
+        "traits": [
+            "ragewing",
+            "guardian",
+            "mystic"
+        ],
+        "cost": 3
+    },
+    {
+        "championId": "TFT7_Rell",
+        "link": "/champions/rell",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Rell.png",
+        "name": "Rell",
+        "traits": [
+            "darkflight",
+            "cavalier"
+        ],
+        "cost": 2
+    },
+    {
+        "championId": "TFT7_Rengar",
+        "link": "/champions/rengar",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Rengar.png",
+        "name": "Rengar",
+        "traits": [
+            "darkflight",
+            "assassin"
+        ],
+        "cost": 3
+    },
+    {
+        "championId": "TFT7_Sejuani",
+        "link": "/champions/sejuani",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Sejuani.png",
+        "name": "Sejuani",
+        "traits": [
+            "guild",
+            "cavalier"
+        ],
+        "cost": 1
+    },
+    {
+        "championId": "TFT7_Senna",
+        "link": "/champions/senna",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Senna.png",
+        "name": "Senna",
+        "traits": [
+            "ragewing",
+            "cannoneer"
+        ],
+        "cost": 1
+    },
+    {
+        "championId": "TFT7_Seraphine",
+        "link": "/champions/seraphine",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Seraphine.png",
+        "name": "Seraphine",
+        "traits": [
+            "lagoon",
+            "evoker",
+            "mystic"
+        ],
+        "cost": 3
+    },
+    {
+        "championId": "TFT7_Sett",
+        "link": "/champions/sett",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Sett.png",
+        "name": "Sett",
+        "traits": [
+            "ragewing",
+            "dragonmancer"
+        ],
+        "cost": 1
+    },
+    {
+        "championId": "TFT7_ShiOhYu",
+        "link": "/champions/shi_oh_yu",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/ShiOhYu.png",
+        "name": "Shi Oh Yu",
+        "traits": [
+            "jade",
+            "dragon",
+            "mystic"
+        ],
+        "cost": 7
+    },
+    {
+        "championId": "TFT7_Shyvana",
+        "link": "/champions/shyvana",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Shyvana.png",
+        "name": "Shyvana",
+        "traits": [
+            "ragewing",
+            "dragon",
+            "shapeshifter"
+        ],
+        "cost": 8
+    },
+    {
+        "championId": "TFT7_Skarner",
+        "link": "/champions/skarner",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Skarner.png",
+        "name": "Skarner",
+        "traits": [
+            "astral",
+            "bruiser"
+        ],
+        "cost": 1
+    },
+    {
+        "championId": "TFT7_Sohm",
+        "link": "/champions/sohm",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Sohm.png",
+        "name": "Sohm",
+        "traits": [
+            "lagoon",
+            "dragon",
+            "mage"
+        ],
+        "cost": 7
+    },
+    {
+        "championId": "TFT7_Soraka",
+        "link": "/champions/soraka",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Soraka.png",
+        "name": "Soraka",
+        "traits": [
+            "jade",
+            "starcaller"
+        ],
+        "cost": 5
+    },
+    {
+        "championId": "TFT7_Swain",
+        "link": "/champions/swain",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Swain.png",
+        "name": "Swain",
+        "traits": [
+            "darkflight",
+            "dragon"
+        ],
+        "cost": 7
+    },
+    {
+        "championId": "TFT7_Syfen",
+        "link": "/champions/syfen",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Syfen.png",
+        "name": "Syfen",
+        "traits": [
+            "whispers",
+            "bruiser",
+            "dragon"
+        ],
+        "cost": 7
+    },
+    {
+        "championId": "TFT7_Sylas",
+        "link": "/champions/sylas",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Sylas.png",
+        "name": "Sylas",
+        "traits": [
+            "whispers",
+            "bruiser",
+            "mage"
+        ],
+        "cost": 3
+    },
+    {
+        "championId": "TFT7_Taliyah",
+        "link": "/champions/taliyah",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Taliyah.png",
+        "name": "Taliyah",
+        "traits": [
+            "lagoon",
+            "mage"
+        ],
+        "cost": 1
+    },
+    {
+        "championId": "TFT7_Terra",
+        "link": "/champions/terra",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Terra.png",
+        "name": "Terra",
+        "traits": [
+            "monolith",
+            "dragon"
+        ],
+        "cost": 8
+    },
+    {
+        "championId": "TFT7_Tristana",
+        "link": "/champions/tristana",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Tristana.png",
+        "name": "Tristana",
+        "traits": [
+            "cannoneer"
+        ],
+        "cost": 2
+    },
+    {
+        "championId": "TFT7_Twitch",
+        "link": "/champions/twitch",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Twitch.png",
+        "name": "Twitch",
+        "traits": [
+            "guild",
+            "swiftshot"
+        ],
+        "cost": 2
+    },
+    {
+        "championId": "TFT7_Varus",
+        "link": "/champions/varus",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Varus.png",
+        "name": "Varus",
+        "traits": [
+            "astral",
+            "swiftshot"
+        ],
+        "cost": 3
+    },
+    {
+        "championId": "TFT7_Vladimir",
+        "link": "/champions/vladimir",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Vladimir.png",
+        "name": "Vladimir",
+        "traits": [
+            "astral",
+            "mage"
+        ],
+        "cost": 1
+    },
+    {
+        "championId": "TFT7_Volibear",
+        "link": "/champions/volibear",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Volibear.png",
+        "name": "Volibear",
+        "traits": [
+            "shimmerscale",
+            "dragonmancer"
+        ],
+        "cost": 3
+    },
+    {
+        "championId": "TFT7_Wukong",
+        "link": "/champions/wukong",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Wukong.png",
+        "name": "Wukong",
+        "traits": [
+            "jade",
+            "warrior"
+        ],
+        "cost": 1
+    },
+    {
+        "championId": "TFT7_Xayah",
+        "link": "/champions/xayah",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Xayah.png",
+        "name": "Xayah",
+        "traits": [
+            "ragewing",
+            "swiftshot"
+        ],
+        "cost": 4
+    },
+    {
+        "championId": "TFT7_Yasuo",
+        "link": "/champions/yasuo",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Yasuo.png",
+        "name": "Yasuo",
+        "traits": [
+            "mirage",
+            "dragonmancer",
+            "warrior"
+        ],
+        "cost": 5
+    },
+    {
+        "championId": "TFT7_Yone",
+        "link": "/champions/yone",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Yone.png",
+        "name": "Yone",
+        "traits": [
+            "mirage",
+            "warrior"
+        ],
+        "cost": 2
+    },
+    {
+        "championId": "TFT7_Zac",
+        "link": "/champions/zac",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Zac.png",
+        "name": "Zac",
+        "traits": [
+            "lagoon",
+            "guardian"
+        ],
+        "cost": 2
+    },
+    {
+        "championId": "TFT7_Zeri",
+        "link": "/champions/zeri",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Zeri.png",
+        "name": "Zeri",
+        "traits": [
+            "lagoon",
+            "cannoneer"
+        ],
+        "cost": 3
+    },
+    {
+        "championId": "TFT7_Zippy",
+        "link": "/champions/zippy",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Zippy.png",
+        "name": "Zippy",
+        "traits": [
+            "guild",
+            "dragon"
+        ],
+        "cost": 6
+    },
+    {
+        "championId": "TFT7_Zoe",
+        "link": "/champions/zoe",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Zoe.png",
+        "name": "Zoe",
+        "traits": [
+            "shimmerscale",
+            "mage",
+            "spell-thief"
+        ],
+        "cost": 5
+    },
+    {
+        "championId": "TFT7_Zyra",
+        "link": "/champions/zyra",
+        "image": "https://rerollcdn.com/characters/Skin/7.5/Zyra.png",
+        "name": "Zyra",
+        "traits": [
+            "whispers",
+            "evoker"
+        ],
+        "cost": 2
+    }
+]

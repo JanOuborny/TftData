@@ -1,0 +1,182 @@
+[
+  {
+    "key": "assassin",
+    "image": "https://rerollcdn.com/icons/assassin.png",
+    "name": "Assassin",
+    "type": "class"
+  },
+  {
+    "key": "bard",
+    "image": "https://rerollcdn.com/icons/bard.png",
+    "name": "Bard",
+    "type": "class"
+  },
+  {
+    "key": "bruiser",
+    "image": "https://rerollcdn.com/icons/bruiser.png",
+    "name": "Bruiser",
+    "type": "class"
+  },
+  {
+    "key": "cannoneer",
+    "image": "https://rerollcdn.com/icons/cannoneer.png",
+    "name": "Cannoneer",
+    "type": "class"
+  },
+  {
+    "key": "cavalier",
+    "image": "https://rerollcdn.com/icons/cavalier.png",
+    "name": "Cavalier",
+    "type": "class"
+  },
+  {
+    "key": "dragon",
+    "image": "https://rerollcdn.com/icons/dragon.png",
+    "name": "Dragon",
+    "type": "class"
+  },
+  {
+    "key": "dragonmancer",
+    "image": "https://rerollcdn.com/icons/dragonmancer.png",
+    "name": "Dragonmancer",
+    "type": "class"
+  },
+  {
+    "key": "evoker",
+    "image": "https://rerollcdn.com/icons/evoker.png",
+    "name": "Evoker",
+    "type": "class"
+  },
+  {
+    "key": "guardian",
+    "image": "https://rerollcdn.com/icons/guardian.png",
+    "name": "Guardian",
+    "type": "class"
+  },
+  {
+    "key": "mage",
+    "image": "https://rerollcdn.com/icons/mage.png",
+    "name": "Mage",
+    "type": "class"
+  },
+  {
+    "key": "mystic",
+    "image": "https://rerollcdn.com/icons/mystic.png",
+    "name": "Mystic",
+    "type": "class"
+  },
+  {
+    "key": "shapeshifter",
+    "image": "https://rerollcdn.com/icons/shapeshifter.png",
+    "name": "Shapeshifter",
+    "type": "class"
+  },
+  {
+    "key": "spell-thief",
+    "image": "https://rerollcdn.com/icons/spell-thief.png",
+    "name": "Spell-Thief",
+    "type": "class"
+  },
+  {
+    "key": "starcaller",
+    "image": "https://rerollcdn.com/icons/starcaller.png",
+    "name": "Starcaller",
+    "type": "class"
+  },
+  {
+    "key": "swiftshot",
+    "image": "https://rerollcdn.com/icons/swiftshot.png",
+    "name": "Swiftshot",
+    "type": "class"
+  },
+  {
+    "key": "warrior",
+    "image": "https://rerollcdn.com/icons/warrior.png",
+    "name": "Warrior",
+    "type": "class"
+  },
+  {
+    "key": "astral",
+    "image": "https://rerollcdn.com/icons/astral.png",
+    "name": "Astral",
+    "type": "origin"
+  },
+  {
+    "key": "darkflight",
+    "image": "https://rerollcdn.com/icons/darkflight.png",
+    "name": "Darkflight",
+    "type": "origin"
+  },
+  {
+    "key": "guild",
+    "image": "https://rerollcdn.com/icons/guild.png",
+    "name": "Guild",
+    "type": "origin"
+  },
+  {
+    "key": "jade",
+    "image": "https://rerollcdn.com/icons/jade.png",
+    "name": "Jade",
+    "type": "origin"
+  },
+  {
+    "key": "lagoon",
+    "image": "https://rerollcdn.com/icons/lagoon.png",
+    "name": "Lagoon",
+    "type": "origin"
+  },
+  {
+    "key": "mirage",
+    "image": "https://rerollcdn.com/icons/mirage.png",
+    "name": "Mirage",
+    "type": "origin"
+  },
+  {
+    "key": "monolith",
+    "image": "https://rerollcdn.com/icons/monolith.png",
+    "name": "Monolith",
+    "type": "origin"
+  },
+  {
+    "key": "prodigy",
+    "image": "https://rerollcdn.com/icons/prodigy.png",
+    "name": "Prodigy",
+    "type": "origin"
+  },
+  {
+    "key": "ragewing",
+    "image": "https://rerollcdn.com/icons/ragewing.png",
+    "name": "Ragewing",
+    "type": "origin"
+  },
+  {
+    "key": "scalescorn",
+    "image": "https://rerollcdn.com/icons/scalescorn.png",
+    "name": "Scalescorn",
+    "type": "origin"
+  },
+  {
+    "key": "shimmerscale",
+    "image": "https://rerollcdn.com/icons/shimmerscale.png",
+    "name": "Shimmerscale",
+    "type": "origin"
+  },
+  {
+    "key": "tempest",
+    "image": "https://rerollcdn.com/icons/tempest.png",
+    "name": "Tempest",
+    "type": "origin"
+  },
+  {
+    "key": "trainer",
+    "image": "https://rerollcdn.com/icons/trainer.png",
+    "name": "Trainer",
+    "type": "origin"
+  },
+  {
+    "key": "whispers",
+    "image": "https://rerollcdn.com/icons/whispers.png",
+    "name": "Whispers",
+    "type": "origin"
+  }
+]

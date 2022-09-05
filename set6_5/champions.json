@@ -1,612 +1,672 @@
 [
   {
+    "championId": "TFT6_Ahri",
     "link": "/champions/ahri",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Ahri.png",
     "name": "Ahri",
-    "key": "Ahri",
     "traits": [
-      "Syndicate",
-      "Arcanist"
-    ]
+      "syndicate",
+      "arcanist"
+    ],
+    "cost": 4
   },
   {
+    "championId": "TFT6_Alistar",
     "link": "/champions/alistar",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Alistar.png",
     "name": "Alistar",
-    "key": "Alistar",
     "traits": [
-      "Hextech",
-      "Colossus"
-    ]
+      "hextech",
+      "colossus"
+    ],
+    "cost": 4
   },
   {
+    "championId": "TFT6_Ashe",
     "link": "/champions/ashe",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Ashe.png",
     "name": "Ashe",
-    "key": "Ashe",
     "traits": [
-      "Syndicate",
-      "Sniper"
-    ]
+      "syndicate",
+      "sniper"
+    ],
+    "cost": 2
   },
   {
+    "championId": "TFT6_Blitzcrank",
     "link": "/champions/blitzcrank",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Blitzcrank.png",
     "name": "Blitzcrank",
-    "key": "Blitzcrank",
     "traits": [
-      "Scrap",
-      "Bodyguard"
-    ]
+      "scrap",
+      "bodyguard"
+    ],
+    "cost": 2
   },
   {
+    "championId": "TFT6_Brand",
     "link": "/champions/brand",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Brand.png",
     "name": "Brand",
-    "key": "Brand",
     "traits": [
-      "Debonair",
-      "Arcanist"
-    ]
+      "debonair",
+      "arcanist"
+    ],
+    "cost": 1
   },
   {
+    "championId": "TFT6_Braum",
     "link": "/champions/braum",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Braum.png",
     "name": "Braum",
-    "key": "Braum",
     "traits": [
-      "Syndicate",
-      "Bodyguard"
-    ]
+      "syndicate",
+      "bodyguard"
+    ],
+    "cost": 4
   },
   {
+    "championId": "TFT6_Caitlyn",
     "link": "/champions/caitlyn",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Caitlyn.png",
     "name": "Caitlyn",
-    "key": "Caitlyn",
     "traits": [
-      "Enforcer",
-      "Sniper"
-    ]
+      "enforcer",
+      "sniper"
+    ],
+    "cost": 1
   },
   {
+    "championId": "TFT6_Camille",
     "link": "/champions/camille",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Camille.png",
     "name": "Camille",
-    "key": "Camille",
     "traits": [
-      "Clockwork",
-      "Challenger"
-    ]
+      "clockwork",
+      "challenger"
+    ],
+    "cost": 1
   },
   {
+    "championId": "TFT6_Chogath",
     "link": "/champions/chogath",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Chogath.png",
     "name": "Chogath",
-    "key": "Chogath",
     "traits": [
-      "Mutant",
-      "Bruiser",
-      "Colossus"
-    ]
+      "mutant",
+      "bruiser",
+      "colossus"
+    ],
+    "cost": 3
   },
   {
+    "championId": "TFT6_Corki",
     "link": "/champions/corki",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Corki.png",
     "name": "Corki",
-    "key": "Corki",
     "traits": [
-      "Yordle",
-      "Twinshot"
-    ]
+      "yordle",
+      "twinshot"
+    ],
+    "cost": 2
   },
   {
+    "championId": "TFT6_Darius",
     "link": "/champions/darius",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Darius.png",
     "name": "Darius",
-    "key": "Darius",
     "traits": [
-      "Syndicate",
-      "Bodyguard"
-    ]
+      "syndicate",
+      "bodyguard"
+    ],
+    "cost": 1
   },
   {
+    "championId": "TFT6_Draven",
     "link": "/champions/draven",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Draven.png",
     "name": "Draven",
-    "key": "Draven",
     "traits": [
-      "Debonair",
-      "Challenger"
-    ]
+      "debonair",
+      "challenger"
+    ],
+    "cost": 4
   },
   {
+    "championId": "TFT6_Ekko",
     "link": "/champions/ekko",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Ekko.png",
     "name": "Ekko",
-    "key": "Ekko",
     "traits": [
-      "Scrap",
-      "Assassin",
-      "Innovator"
-    ]
+      "scrap",
+      "assassin",
+      "innovator"
+    ],
+    "cost": 3
   },
   {
+    "championId": "TFT6_Ezreal",
     "link": "/champions/ezreal",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Ezreal.png",
     "name": "Ezreal",
-    "key": "Ezreal",
     "traits": [
-      "Scrap",
-      "Innovator"
-    ]
+      "scrap",
+      "innovator"
+    ],
+    "cost": 1
   },
   {
+    "championId": "TFT6_Galio",
     "link": "/champions/galio",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Galio.png",
     "name": "Galio",
-    "key": "Galio",
     "traits": [
-      "Socialite",
-      "Bodyguard",
-      "Colossus"
-    ]
+      "socialite",
+      "bodyguard",
+      "colossus"
+    ],
+    "cost": 5
   },
   {
+    "championId": "TFT6_Gangplank",
     "link": "/champions/gangplank",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Gangplank.png",
     "name": "Gangplank",
-    "key": "Gangplank",
     "traits": [
-      "Mercenary",
-      "Twinshot"
-    ]
+      "mercenary",
+      "twinshot"
+    ],
+    "cost": 3
   },
   {
+    "championId": "TFT6_Gnar",
     "link": "/champions/gnar",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Gnar.png",
     "name": "Gnar",
-    "key": "Gnar",
     "traits": [
-      "Socialite",
-      "Yordle",
-      "Striker"
-    ]
+      "socialite",
+      "yordle",
+      "striker"
+    ],
+    "cost": 3
   },
   {
+    "championId": "TFT6_Illaoi",
     "link": "/champions/illaoi",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Illaoi.png",
     "name": "Illaoi",
-    "key": "Illaoi",
     "traits": [
-      "Mercenary",
-      "Bruiser"
-    ]
+      "mercenary",
+      "bruiser"
+    ],
+    "cost": 1
   },
   {
+    "championId": "TFT6_Irelia",
     "link": "/champions/irelia",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Irelia.png",
     "name": "Irelia",
-    "key": "Irelia",
     "traits": [
-      "Scrap",
-      "Striker"
-    ]
+      "scrap",
+      "striker"
+    ],
+    "cost": 4
   },
   {
+    "championId": "TFT6_JarvanIV",
     "link": "/champions/jarvan_iv",
     "image": "https://rerollcdn.com/characters/Skin/6.5/JarvanIV.png",
     "name": "Jarvan IV",
-    "key": "JarvanIV",
     "traits": [
-      "Hextech",
-      "Striker"
-    ]
+      "hextech",
+      "striker"
+    ],
+    "cost": 1
   },
   {
+    "championId": "TFT6_Jayce",
     "link": "/champions/jayce",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Jayce.png",
     "name": "Jayce",
-    "key": "Jayce",
     "traits": [
-      "Enforcer",
-      "Innovator",
-      "Transformer"
-    ]
+      "enforcer",
+      "innovator",
+      "transformer"
+    ],
+    "cost": 5
   },
   {
+    "championId": "TFT6_Jhin",
     "link": "/champions/jhin",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Jhin.png",
     "name": "Jhin",
-    "key": "Jhin",
     "traits": [
-      "Clockwork",
-      "Sniper"
-    ]
+      "clockwork",
+      "sniper"
+    ],
+    "cost": 4
   },
   {
+    "championId": "TFT6_Jinx",
     "link": "/champions/jinx",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Jinx.png",
     "name": "Jinx",
-    "key": "Jinx",
     "traits": [
-      "Rival",
-      "Scrap",
-      "Twinshot"
-    ]
+      "rival",
+      "scrap",
+      "twinshot"
+    ],
+    "cost": 5
   },
   {
+    "championId": "TFT6_Kaisa",
     "link": "/champions/kaisa",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Kaisa.png",
     "name": "Kaisa",
-    "key": "Kaisa",
     "traits": [
-      "Mutant",
-      "Challenger"
-    ]
+      "mutant",
+      "challenger"
+    ],
+    "cost": 5
   },
   {
+    "championId": "TFT6_Kassadin",
     "link": "/champions/kassadin",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Kassadin.png",
     "name": "Kassadin",
-    "key": "Kassadin",
     "traits": [
-      "Mutant",
-      "Scholar"
-    ]
+      "mutant",
+      "scholar"
+    ],
+    "cost": 1
   },
   {
+    "championId": "TFT6_Khazix",
     "link": "/champions/khazix",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Khazix.png",
     "name": "Khazix",
-    "key": "Khazix",
     "traits": [
-      "Mutant",
-      "Assassin"
-    ]
+      "mutant",
+      "assassin"
+    ],
+    "cost": 4
   },
   {
+    "championId": "TFT6_Leona",
     "link": "/champions/leona",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Leona.png",
     "name": "Leona",
-    "key": "Leona",
     "traits": [
-      "Debonair",
-      "Bodyguard"
-    ]
+      "debonair",
+      "bodyguard"
+    ],
+    "cost": 3
   },
   {
+    "championId": "TFT6_Lucian",
     "link": "/champions/lucian",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Lucian.png",
     "name": "Lucian",
-    "key": "Lucian",
     "traits": [
-      "Hextech",
-      "Twinshot"
-    ]
+      "hextech",
+      "twinshot"
+    ],
+    "cost": 3
   },
   {
+    "championId": "TFT6_Lulu",
     "link": "/champions/lulu",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Lulu.png",
     "name": "Lulu",
-    "key": "Lulu",
     "traits": [
-      "Yordle",
-      "Enchanter"
-    ]
+      "yordle",
+      "enchanter"
+    ],
+    "cost": 2
   },
   {
+    "championId": "TFT6_Malzahar",
     "link": "/champions/malzahar",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Malzahar.png",
     "name": "Malzahar",
-    "key": "Malzahar",
     "traits": [
-      "Mutant",
-      "Arcanist"
-    ]
+      "mutant",
+      "arcanist"
+    ],
+    "cost": 3
   },
   {
+    "championId": "TFT6_MissFortune",
     "link": "/champions/miss_fortune",
     "image": "https://rerollcdn.com/characters/Skin/6.5/MissFortune.png",
     "name": "Miss Fortune",
-    "key": "MissFortune",
     "traits": [
-      "Mercenary",
-      "Sniper"
-    ]
+      "mercenary",
+      "sniper"
+    ],
+    "cost": 3
   },
   {
+    "championId": "TFT6_Morgana",
     "link": "/champions/morgana",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Morgana.png",
     "name": "Morgana",
-    "key": "Morgana",
     "traits": [
-      "Syndicate",
-      "Enchanter"
-    ]
+      "syndicate",
+      "enchanter"
+    ],
+    "cost": 3
   },
   {
+    "championId": "TFT6_Nocturne",
     "link": "/champions/nocturne",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Nocturne.png",
     "name": "Nocturne",
-    "key": "Nocturne",
     "traits": [
-      "Hextech",
-      "Assassin"
-    ]
+      "hextech",
+      "assassin"
+    ],
+    "cost": 1
   },
   {
+    "championId": "TFT6_Orianna",
     "link": "/champions/orianna",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Orianna.png",
     "name": "Orianna",
-    "key": "Orianna",
     "traits": [
-      "Clockwork",
-      "Enchanter"
-    ]
+      "clockwork",
+      "enchanter"
+    ],
+    "cost": 4
   },
   {
+    "championId": "TFT6_Poppy",
     "link": "/champions/poppy",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Poppy.png",
     "name": "Poppy",
-    "key": "Poppy",
     "traits": [
-      "Yordle",
-      "Bodyguard"
-    ]
+      "yordle",
+      "bodyguard"
+    ],
+    "cost": 1
   },
   {
+    "championId": "TFT6_Quinn",
     "link": "/champions/quinn",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Quinn.png",
     "name": "Quinn",
-    "key": "Quinn",
     "traits": [
-      "Mercenary",
-      "Challenger"
-    ]
+      "mercenary",
+      "challenger"
+    ],
+    "cost": 2
   },
   {
+    "championId": "TFT6_RekSai",
     "link": "/champions/reksai",
     "image": "https://rerollcdn.com/characters/Skin/6.5/RekSai.png",
     "name": "RekSai",
-    "key": "RekSai",
     "traits": [
-      "Mutant",
-      "Bruiser",
-      "Striker"
-    ]
+      "mutant",
+      "bruiser",
+      "striker"
+    ],
+    "cost": 2
   },
   {
+    "championId": "TFT6_RenataGlasc",
     "link": "/champions/renata_glasc",
     "image": "https://rerollcdn.com/characters/Skin/6.5/RenataGlasc.png",
     "name": "Renata Glasc",
-    "key": "RenataGlasc",
     "traits": [
-      "Chemtech",
-      "Scholar"
-    ]
+      "chemtech",
+      "scholar"
+    ],
+    "cost": 4
   },
   {
+    "championId": "TFT6_Sejuani",
     "link": "/champions/sejuani",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Sejuani.png",
     "name": "Sejuani",
-    "key": "Sejuani",
     "traits": [
-      "Enforcer",
-      "Hextech",
-      "Bruiser"
-    ]
+      "enforcer",
+      "hextech",
+      "bruiser"
+    ],
+    "cost": 2
   },
   {
+    "championId": "TFT6_Senna",
     "link": "/champions/senna",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Senna.png",
     "name": "Senna",
-    "key": "Senna",
     "traits": [
-      "Socialite",
-      "Enchanter"
-    ]
+      "socialite",
+      "enchanter"
+    ],
+    "cost": 3
   },
   {
+    "championId": "TFT6_Seraphine",
     "link": "/champions/seraphine",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Seraphine.png",
     "name": "Seraphine",
-    "key": "Seraphine",
     "traits": [
-      "Socialite",
-      "Innovator"
-    ]
+      "socialite",
+      "innovator"
+    ],
+    "cost": 4
   },
   {
+    "championId": "TFT6_Silco",
     "link": "/champions/silco",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Silco.png",
     "name": "Silco",
-    "key": "Silco",
     "traits": [
-      "Mastermind",
-      "Scholar"
-    ]
+      "mastermind",
+      "scholar"
+    ],
+    "cost": 5
   },
   {
+    "championId": "TFT6_Singed",
     "link": "/champions/singed",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Singed.png",
     "name": "Singed",
-    "key": "Singed",
     "traits": [
-      "Chemtech",
-      "Innovator"
-    ]
+      "chemtech",
+      "innovator"
+    ],
+    "cost": 1
   },
   {
+    "championId": "TFT6_Sivir",
     "link": "/champions/sivir",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Sivir.png",
     "name": "Sivir",
-    "key": "Sivir",
     "traits": [
-      "Hextech",
-      "Striker"
-    ]
+      "hextech",
+      "striker"
+    ],
+    "cost": 4
   },
   {
+    "championId": "TFT6_Swain",
     "link": "/champions/swain",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Swain.png",
     "name": "Swain",
-    "key": "Swain",
     "traits": [
-      "Hextech",
-      "Arcanist"
-    ]
+      "hextech",
+      "arcanist"
+    ],
+    "cost": 2
   },
   {
+    "championId": "TFT6_Syndra",
     "link": "/champions/syndra",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Syndra.png",
     "name": "Syndra",
-    "key": "Syndra",
     "traits": [
-      "Debonair",
-      "Scholar"
-    ]
+      "debonair",
+      "scholar"
+    ],
+    "cost": 2
   },
   {
+    "championId": "TFT6_TahmKench",
     "link": "/champions/tahm_kench",
     "image": "https://rerollcdn.com/characters/Skin/6.5/TahmKench.png",
     "name": "Tahm Kench",
-    "key": "TahmKench",
     "traits": [
-      "Glutton",
-      "Mercenary",
-      "Bruiser"
-    ]
+      "glutton",
+      "mercenary",
+      "bruiser"
+    ],
+    "cost": 5
   },
   {
+    "championId": "TFT6_Talon",
     "link": "/champions/talon",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Talon.png",
     "name": "Talon",
-    "key": "Talon",
     "traits": [
-      "Debonair",
-      "Assassin"
-    ]
+      "debonair",
+      "assassin"
+    ],
+    "cost": 2
   },
   {
+    "championId": "TFT6_Tryndamere",
     "link": "/champions/tryndamere",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Tryndamere.png",
     "name": "Tryndamere",
-    "key": "Tryndamere",
     "traits": [
-      "Chemtech",
-      "Challenger"
-    ]
+      "chemtech",
+      "challenger"
+    ],
+    "cost": 3
   },
   {
+    "championId": "TFT6_Twitch",
     "link": "/champions/twitch",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Twitch.png",
     "name": "Twitch",
-    "key": "Twitch",
     "traits": [
-      "Chemtech",
-      "Assassin"
-    ]
+      "chemtech",
+      "assassin"
+    ],
+    "cost": 1
   },
   {
+    "championId": "TFT6_Veigar",
     "link": "/champions/veigar",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Veigar.png",
     "name": "Veigar",
-    "key": "Veigar",
     "traits": [
-      "Yordle-Lord"
-    ]
+      "yordle-lord"
+    ],
+    "cost": 5
   },
   {
+    "championId": "TFT6_Vex",
     "link": "/champions/vex",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Vex.png",
     "name": "Vex",
-    "key": "Vex",
     "traits": [
-      "Yordle",
-      "Arcanist"
-    ]
+      "yordle",
+      "arcanist"
+    ],
+    "cost": 3
   },
   {
+    "championId": "TFT6_Vi",
     "link": "/champions/vi",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Vi.png",
     "name": "Vi",
-    "key": "Vi",
     "traits": [
-      "Enforcer",
-      "Rival",
-      "Bruiser"
-    ]
+      "enforcer",
+      "rival",
+      "bruiser"
+    ],
+    "cost": 4
   },
   {
+    "championId": "TFT6_Viktor",
     "link": "/champions/viktor",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Viktor.png",
     "name": "Viktor",
-    "key": "Viktor",
     "traits": [
-      "Chemtech",
-      "Arcanist"
-    ]
+      "chemtech",
+      "arcanist"
+    ],
+    "cost": 5
   },
   {
+    "championId": "TFT6_Warwick",
     "link": "/champions/warwick",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Warwick.png",
     "name": "Warwick",
-    "key": "Warwick",
     "traits": [
-      "Chemtech",
-      "Challenger"
-    ]
+      "chemtech",
+      "challenger"
+    ],
+    "cost": 2
   },
   {
+    "championId": "TFT6_Zac",
     "link": "/champions/zac",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Zac.png",
     "name": "Zac",
-    "key": "Zac",
     "traits": [
-      "Chemtech",
-      "Bruiser"
-    ]
+      "chemtech",
+      "bruiser"
+    ],
+    "cost": 3
   },
   {
+    "championId": "TFT6_Zeri",
     "link": "/champions/zeri",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Zeri.png",
     "name": "Zeri",
-    "key": "Zeri",
     "traits": [
-      "Debonair",
-      "Sniper"
-    ]
+      "debonair",
+      "sniper"
+    ],
+    "cost": 5
   },
   {
+    "championId": "TFT6_Ziggs",
     "link": "/champions/ziggs",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Ziggs.png",
     "name": "Ziggs",
-    "key": "Ziggs",
     "traits": [
-      "Scrap",
-      "Yordle",
-      "Arcanist"
-    ]
+      "scrap",
+      "yordle",
+      "arcanist"
+    ],
+    "cost": 1
   },
   {
+    "championId": "TFT6_Zilean",
     "link": "/champions/zilean",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Zilean.png",
     "name": "Zilean",
-    "key": "Zilean",
     "traits": [
-      "Clockwork",
-      "Innovator"
-    ]
+      "clockwork",
+      "innovator"
+    ],
+    "cost": 2
   },
   {
+    "championId": "TFT6_Zyra",
     "link": "/champions/zyra",
     "image": "https://rerollcdn.com/characters/Skin/6.5/Zyra.png",
     "name": "Zyra",
-    "key": "Zyra",
     "traits": [
-      "Syndicate",
-      "Scholar"
-    ]
+      "syndicate",
+      "scholar"
+    ],
+    "cost": 2
   }
 ]

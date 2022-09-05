@@ -1,0 +1,170 @@
+[
+  {
+    "key": "innovator",
+    "image": "https://rerollcdn.com/icons/innovator.png",
+    "name": "Innovator",
+    "type": "class"
+  },
+  {
+    "key": "assassin",
+    "image": "https://rerollcdn.com/icons/assassin.png",
+    "name": "Assassin",
+    "type": "class"
+  },
+  {
+    "key": "scholar",
+    "image": "https://rerollcdn.com/icons/scholar.png",
+    "name": "Scholar",
+    "type": "class"
+  },
+  {
+    "key": "sniper",
+    "image": "https://rerollcdn.com/icons/sniper.png",
+    "name": "Sniper",
+    "type": "class"
+  },
+  {
+    "key": "striker",
+    "image": "https://rerollcdn.com/icons/striker.png",
+    "name": "Striker",
+    "type": "class"
+  },
+  {
+    "key": "transformer",
+    "image": "https://rerollcdn.com/icons/transformer.png",
+    "name": "Transformer",
+    "type": "class"
+  },
+  {
+    "key": "arcanist",
+    "image": "https://rerollcdn.com/icons/arcanist.png",
+    "name": "Arcanist",
+    "type": "class"
+  },
+  {
+    "key": "bruiser",
+    "image": "https://rerollcdn.com/icons/bruiser.png",
+    "name": "Bruiser",
+    "type": "class"
+  },
+  {
+    "key": "challenger",
+    "image": "https://rerollcdn.com/icons/challenger.png",
+    "name": "Challenger",
+    "type": "class"
+  },
+  {
+    "key": "colossus",
+    "image": "https://rerollcdn.com/icons/colossus.png",
+    "name": "Colossus",
+    "type": "class"
+  },
+  {
+    "key": "enchanter",
+    "image": "https://rerollcdn.com/icons/enchanter.png",
+    "name": "Enchanter",
+    "type": "class"
+  },
+  {
+    "key": "twinshot",
+    "image": "https://rerollcdn.com/icons/twinshot.png",
+    "name": "Twinshot",
+    "type": "class"
+  },
+  {
+    "key": "bodyguard",
+    "image": "https://rerollcdn.com/icons/bodyguard.png",
+    "name": "Bodyguard",
+    "type": "class"
+  },
+  {
+    "key": "enforcer",
+    "image": "https://rerollcdn.com/icons/enforcer.png",
+    "name": "Enforcer",
+    "type": "origin"
+  },
+  {
+    "key": "glutton",
+    "image": "https://rerollcdn.com/icons/glutton.png",
+    "name": "Glutton",
+    "type": "origin"
+  },
+  {
+    "key": "mastermind",
+    "image": "https://rerollcdn.com/icons/mastermind.png",
+    "name": "Mastermind",
+    "type": "origin"
+  },
+  {
+    "key": "yordle-lord",
+    "image": "https://rerollcdn.com/icons/yordle-lord.png",
+    "name": "Yordle-Lord",
+    "type": "origin"
+  },
+  {
+    "key": "debonair",
+    "image": "https://rerollcdn.com/icons/debonair.png",
+    "name": "Debonair",
+    "type": "origin"
+  },
+  {
+    "key": "rival",
+    "image": "https://rerollcdn.com/icons/rival.png",
+    "name": "Rival",
+    "type": "origin"
+  },
+  {
+    "key": "socialite",
+    "image": "https://rerollcdn.com/icons/socialite.png",
+    "name": "Socialite",
+    "type": "origin"
+  },
+  {
+    "key": "syndicate",
+    "image": "https://rerollcdn.com/icons/syndicate.png",
+    "name": "Syndicate",
+    "type": "origin"
+  },
+  {
+    "key": "chemtech",
+    "image": "https://rerollcdn.com/icons/chemtech.png",
+    "name": "Chemtech",
+    "type": "origin"
+  },
+  {
+    "key": "clockwork",
+    "image": "https://rerollcdn.com/icons/clockwork.png",
+    "name": "Clockwork",
+    "type": "origin"
+  },
+  {
+    "key": "hextech",
+    "image": "https://rerollcdn.com/icons/hextech.png",
+    "name": "Hextech",
+    "type": "origin"
+  },
+  {
+    "key": "mutant",
+    "image": "https://rerollcdn.com/icons/mutant.png",
+    "name": "Mutant",
+    "type": "origin"
+  },
+  {
+    "key": "scrap",
+    "image": "https://rerollcdn.com/icons/scrap.png",
+    "name": "Scrap",
+    "type": "origin"
+  },
+  {
+    "key": "mercenary",
+    "image": "https://rerollcdn.com/icons/mercenary.png",
+    "name": "Mercenary",
+    "type": "origin"
+  },
+  {
+    "key": "yordle",
+    "image": "https://rerollcdn.com/icons/yordle.png",
+    "name": "Yordle",
+    "type": "origin"
+  }
+]
