@@ -1,7 +1,7 @@
 const fs = require("fs");
 const client = require("https");
 
-const setVersion = "set7";
+const setVersion = "set7.5";
 
 let rawdata = fs.readFileSync(`./${setVersion}/champions.json`);
 let champions = JSON.parse(rawdata);
@@ -27,10 +27,10 @@ champions.forEach(async (c) => {
     );
 });
 
-// traits.forEach(async (c) => {
-//     console.log("Downloading: " + c.image)
-//     await downloadImage(c.image, `./${setVersion}/images/traits/${c.key}.png`);
-// });
+traits.forEach(async (c) => {
+    console.log("Downloading: " + c.image);
+    await downloadImage(c.image, `./${setVersion}/images/traits/${c.key}.png`);
+});
 
 function downloadImage(url, filepath) {
     return new Promise((resolve, reject) => {
