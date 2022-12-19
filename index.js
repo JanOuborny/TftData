@@ -2,37 +2,39 @@ const puppeteer = require("puppeteer");
 const writeJson = require("write-json");
 
 const championsUrl = "https://tftactics.gg/champions";
-const originsUrl = "https://tftactics.gg/tierlist/origins";
-const classesUrl = "https://tftactics.gg/tierlist/classes";
 
-const setVersion = "7.5";
-const setId = "TFT7_"; // Might differ from version if for example setVersion "7_5" and setId "TFT7"
+const setVersion = "8";
+const setId = "TFT8_"; // Might differ from version if for example setVersion "7_5" and setId "TFT7"
 
 const champions = [];
 
 (async () => {
-    const browser = await puppeteer.launch();
+    const browser = await puppeteer.launch({
+        headless: true,
+        devtools: false,
+    });
     const page = await browser.newPage();
     await page.goto(championsUrl, {
         waitUntil: "networkidle2",
     });
 
-    // Set page setting to custom set
-    await page.evaluate(() => {
-        localStorage.setItem("set", "7.5");
-    });
-    await page.reload({ waitUntil: ["networkidle0", "domcontentloaded"] });
+    // // Set page setting to custom set
+    // await page.evaluate(() => {
+    //     localStorage.setItem("set", "7.5");
+    // });
+    // await page.reload({ waitUntil: ["networkidle0", "domcontentloaded"] });
 
     let results = await page.evaluate(() => {
         const results = [];
 
+        // Gather basic champion data
         const entries = document.querySelectorAll(
             ".main .characters-list .characters-item"
         );
         entries.forEach((e) => {
             let champion = {
                 championId:
-                    "TFT7_" +
+                    "TFT8_" +
                     e
                         .querySelector(".character-name")
                         .textContent.replace(/\s+/g, ""),
@@ -45,6 +47,30 @@ const champions = [];
         return results;
     });
 
+    const traits = await page.evaluate(() => {
+        const traits = [];
+
+        ["Origin", "Class"].forEach((traitCategory) => {
+            document
+                .querySelectorAll(
+                    `.sidebar ul .filters-item[category='${traitCategory}']`
+                )
+                .forEach((trait) => {
+                    traits.push({
+                        key: trait.textContent.toLowerCase(),
+                        image: trait
+                            .querySelector(".filters-icon")
+                            .getAttribute("src"),
+                        name: trait.textContent,
+                        type: traitCategory.toLowerCase(),
+                    });
+                });
+        });
+        return traits;
+    });
+    writeJson(`./set${setVersion}/traits.json`, traits);
+
+    // Gather for each champion its cost and traits
     for (let j = 0; j < results.length; j++) {
         const c = results[j];
         await page.goto("https://tftactics.gg" + c.link);
