@@ -1,0 +1,663 @@
+[
+  {
+    "championId": "TFT8_Aatrox",
+    "link": "/champions/aatrox",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Aatrox.png",
+    "name": "Aatrox",
+    "traits": [
+      "threat"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT8_Alistar",
+    "link": "/champions/alistar",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Alistar.png",
+    "name": "Alistar",
+    "traits": [
+      "ox force",
+      "aegis",
+      "mascot"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT8_Annie",
+    "link": "/champions/annie",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Annie.png",
+    "name": "Annie",
+    "traits": [
+      "gadgeteen",
+      "ox force",
+      "spellslinger"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT8_Ashe",
+    "link": "/champions/ashe",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Ashe.png",
+    "name": "Ashe",
+    "traits": [
+      "lasercorps",
+      "sureshot"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT8_AurelionSol",
+    "link": "/champions/aurelion_sol",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/AurelionSol.png",
+    "name": "Aurelion Sol",
+    "traits": [
+      "threat"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT8_Belveth",
+    "link": "/champions/belveth",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Belveth.png",
+    "name": "Belveth",
+    "traits": [
+      "threat"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT8_Blitzcrank",
+    "link": "/champions/blitzcrank",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Blitzcrank.png",
+    "name": "Blitzcrank",
+    "traits": [
+      "a.d.m.i.n.",
+      "brawler"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT8_Camille",
+    "link": "/champions/camille",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Camille.png",
+    "name": "Camille",
+    "traits": [
+      "a.d.m.i.n.",
+      "renegade"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT8_Draven",
+    "link": "/champions/draven",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Draven.png",
+    "name": "Draven",
+    "traits": [
+      "mecha: prime",
+      "ace"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT8_Ekko",
+    "link": "/champions/ekko",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Ekko.png",
+    "name": "Ekko",
+    "traits": [
+      "star guardian",
+      "aegis",
+      "prankster"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT8_Ezreal",
+    "link": "/champions/ezreal",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Ezreal.png",
+    "name": "Ezreal",
+    "traits": [
+      "parallel",
+      "the underground",
+      "quickdraw"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT8_Fiddlesticks",
+    "link": "/champions/fiddlesticks",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Fiddlesticks.png",
+    "name": "Fiddlesticks",
+    "traits": [
+      "corrupted",
+      "threat"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT8_Fiora",
+    "link": "/champions/fiora",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Fiora.png",
+    "name": "Fiora",
+    "traits": [
+      "ox force",
+      "duelist"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT8_Gangplank",
+    "link": "/champions/gangplank",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Gangplank.png",
+    "name": "Gangplank",
+    "traits": [
+      "supers",
+      "duelist"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT8_Garen",
+    "link": "/champions/garen",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Garen.png",
+    "name": "Garen",
+    "traits": [
+      "mecha: prime",
+      "defender"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT8_Gnar",
+    "link": "/champions/gnar",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Gnar.png",
+    "name": "Gnar",
+    "traits": [
+      "gadgeteen",
+      "prankster"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT8_Janna",
+    "link": "/champions/janna",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Janna.png",
+    "name": "Janna",
+    "traits": [
+      "forecaster",
+      "spellslinger"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT8_Jax",
+    "link": "/champions/jax",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Jax.png",
+    "name": "Jax",
+    "traits": [
+      "mecha: prime",
+      "brawler"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT8_Jhin",
+    "link": "/champions/jhin",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Jhin.png",
+    "name": "Jhin",
+    "traits": [
+      "riftwalker",
+      "renegade"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT8_Jinx",
+    "link": "/champions/jinx",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Jinx.png",
+    "name": "Jinx",
+    "traits": [
+      "anima squad",
+      "prankster"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT8_Kaisa",
+    "link": "/champions/kaisa",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Kaisa.png",
+    "name": "Kaisa",
+    "traits": [
+      "star guardian",
+      "quickdraw"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT8_Kayle",
+    "link": "/champions/kayle",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Kayle.png",
+    "name": "Kayle",
+    "traits": [
+      "the underground",
+      "duelist"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT8_Leblanc",
+    "link": "/champions/leblanc",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Leblanc.png",
+    "name": "Leblanc",
+    "traits": [
+      "a.d.m.i.n.",
+      "hacker",
+      "spellslinger"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT8_LeeSin",
+    "link": "/champions/lee_sin",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/LeeSin.png",
+    "name": "Lee Sin",
+    "traits": [
+      "supers",
+      "brawler",
+      "heart"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT8_Leona",
+    "link": "/champions/leona",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Leona.png",
+    "name": "Leona",
+    "traits": [
+      "mecha: prime",
+      "aegis",
+      "renegade"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT8_Lucian",
+    "link": "/champions/lucian",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Lucian.png",
+    "name": "Lucian",
+    "traits": [
+      "infiniteam",
+      "quickdraw",
+      "renegade"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT8_Lulu",
+    "link": "/champions/lulu",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Lulu.png",
+    "name": "Lulu",
+    "traits": [
+      "gadgeteen",
+      "heart"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT8_Lux",
+    "link": "/champions/lux",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Lux.png",
+    "name": "Lux",
+    "traits": [
+      "star guardian",
+      "spellslinger"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT8_Malphite",
+    "link": "/champions/malphite",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Malphite.png",
+    "name": "Malphite",
+    "traits": [
+      "supers",
+      "mascot"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT8_MissFortune",
+    "link": "/champions/miss_fortune",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/MissFortune.png",
+    "name": "Miss Fortune",
+    "traits": [
+      "anima squad",
+      "ace",
+      "quickdraw"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT8_Mordekaiser",
+    "link": "/champions/mordekaiser",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Mordekaiser.png",
+    "name": "Mordekaiser",
+    "traits": [
+      "lasercorps",
+      "ace"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT8_Morgana",
+    "link": "/champions/morgana",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Morgana.png",
+    "name": "Morgana",
+    "traits": [
+      "threat"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT8_Nasus",
+    "link": "/champions/nasus",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Nasus.png",
+    "name": "Nasus",
+    "traits": [
+      "anima squad",
+      "mascot"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT8_Neeko",
+    "link": "/champions/neeko",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Neeko.png",
+    "name": "Neeko",
+    "traits": [
+      "star guardian",
+      "spellslinger"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT8_Nilah",
+    "link": "/champions/nilah",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Nilah.png",
+    "name": "Nilah",
+    "traits": [
+      "star guardian",
+      "duelist"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT8_Nunu",
+    "link": "/champions/nunu",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Nunu.png",
+    "name": "Nunu",
+    "traits": [
+      "gadgeteen",
+      "mascot"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT8_Pantheon",
+    "link": "/champions/pantheon",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Pantheon.png",
+    "name": "Pantheon",
+    "traits": [
+      "infiniteam",
+      "heart"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT8_Poppy",
+    "link": "/champions/poppy",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Poppy.png",
+    "name": "Poppy",
+    "traits": [
+      "gadgeteen",
+      "defender"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT8_Pyke",
+    "link": "/champions/pyke",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Pyke.png",
+    "name": "Pyke",
+    "traits": [
+      "riftwalker",
+      "hacker"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT8_Rammus",
+    "link": "/champions/rammus",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Rammus.png",
+    "name": "Rammus",
+    "traits": [
+      "threat"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT8_Rell",
+    "link": "/champions/rell",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Rell.png",
+    "name": "Rell",
+    "traits": [
+      "star guardian",
+      "defender"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT8_Renekton",
+    "link": "/champions/renekton",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Renekton.png",
+    "name": "Renekton",
+    "traits": [
+      "lasercorps",
+      "brawler"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT8_Riven",
+    "link": "/champions/riven",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Riven.png",
+    "name": "Riven",
+    "traits": [
+      "anima squad",
+      "brawler",
+      "defender"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT8_Samira",
+    "link": "/champions/samira",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Samira.png",
+    "name": "Samira",
+    "traits": [
+      "the underground",
+      "ace",
+      "sureshot"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT8_Shen",
+    "link": "/champions/shen",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Shen.png",
+    "name": "Shen",
+    "traits": [
+      "infiniteam",
+      "defender",
+      "hacker"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT8_Sivir",
+    "link": "/champions/sivir",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Sivir.png",
+    "name": "Sivir",
+    "traits": [
+      "infiniteam",
+      "sureshot"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT8_Sona",
+    "link": "/champions/sona",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Sona.png",
+    "name": "Sona",
+    "traits": [
+      "the underground",
+      "heart",
+      "spellslinger"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT8_Sylas",
+    "link": "/champions/sylas",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Sylas.png",
+    "name": "Sylas",
+    "traits": [
+      "anima squad",
+      "renegade"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT8_Syndra",
+    "link": "/champions/syndra",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Syndra.png",
+    "name": "Syndra",
+    "traits": [
+      "star guardian",
+      "heart"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT8_TwistedFate",
+    "link": "/champions/twisted_fate",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/TwistedFate.png",
+    "name": "Twisted Fate",
+    "traits": [
+      "infiniteam",
+      "duelist",
+      "spellslinger"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT8_UltimateEzreal",
+    "link": "/champions/ultimate_ezreal",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/UltimateEzreal.png",
+    "name": "Ultimate Ezreal",
+    "traits": [
+      "infiniteam",
+      "parallel",
+      "sureshot"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT8_Urgot",
+    "link": "/champions/urgot",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Urgot.png",
+    "name": "Urgot",
+    "traits": [
+      "threat"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT8_Vayne",
+    "link": "/champions/vayne",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Vayne.png",
+    "name": "Vayne",
+    "traits": [
+      "anima squad",
+      "duelist"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT8_Vex",
+    "link": "/champions/vex",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Vex.png",
+    "name": "Vex",
+    "traits": [
+      "riftwalker",
+      "mascot"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT8_Vi",
+    "link": "/champions/vi",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Vi.png",
+    "name": "Vi",
+    "traits": [
+      "the underground",
+      "aegis",
+      "brawler"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT8_Viego",
+    "link": "/champions/viego",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Viego.png",
+    "name": "Viego",
+    "traits": [
+      "ox force",
+      "heart",
+      "renegade"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT8_Warwick",
+    "link": "/champions/warwick",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Warwick.png",
+    "name": "Warwick",
+    "traits": [
+      "a.d.m.i.n.",
+      "lasercorps",
+      "brawler"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT8_Wukong",
+    "link": "/champions/wukong",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Wukong.png",
+    "name": "Wukong",
+    "traits": [
+      "mecha: prime",
+      "defender"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT8_Yasuo",
+    "link": "/champions/yasuo",
+    "image": "https://rerollcdn.com/characters/Skin/8.5/Yasuo.png",
+    "name": "Yasuo",
+    "traits": [
+      "lasercorps",
+      "duelist"
+    ],
+    "cost": 2
+  }
+]

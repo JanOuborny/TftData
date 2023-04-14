@@ -1,0 +1,170 @@
+[
+  {
+    "key": "a.d.m.i.n.",
+    "image": "https://rerollcdn.com/icons/a.d.m.i.n..png",
+    "name": "A.D.M.I.N.",
+    "type": "origin"
+  },
+  {
+    "key": "anima squad",
+    "image": "https://rerollcdn.com/icons/animasquad.png",
+    "name": "Anima Squad",
+    "type": "origin"
+  },
+  {
+    "key": "corrupted",
+    "image": "https://rerollcdn.com/icons/corrupted.png",
+    "name": "Corrupted",
+    "type": "origin"
+  },
+  {
+    "key": "forecaster",
+    "image": "https://rerollcdn.com/icons/forecaster.png",
+    "name": "Forecaster",
+    "type": "origin"
+  },
+  {
+    "key": "gadgeteen",
+    "image": "https://rerollcdn.com/icons/gadgeteen.png",
+    "name": "Gadgeteen",
+    "type": "origin"
+  },
+  {
+    "key": "infiniteam",
+    "image": "https://rerollcdn.com/icons/infiniteam.png",
+    "name": "InfiniTeam",
+    "type": "origin"
+  },
+  {
+    "key": "lasercorps",
+    "image": "https://rerollcdn.com/icons/lasercorps.png",
+    "name": "LaserCorps",
+    "type": "origin"
+  },
+  {
+    "key": "mecha: prime",
+    "image": "https://rerollcdn.com/icons/mechaprime.png",
+    "name": "Mecha: PRIME",
+    "type": "origin"
+  },
+  {
+    "key": "ox force",
+    "image": "https://rerollcdn.com/icons/oxforce.png",
+    "name": "Ox Force",
+    "type": "origin"
+  },
+  {
+    "key": "parallel",
+    "image": "https://rerollcdn.com/icons/parallel.png",
+    "name": "Parallel",
+    "type": "origin"
+  },
+  {
+    "key": "riftwalker",
+    "image": "https://rerollcdn.com/icons/riftwalker.png",
+    "name": "Riftwalker",
+    "type": "origin"
+  },
+  {
+    "key": "star guardian",
+    "image": "https://rerollcdn.com/icons/starguardian.png",
+    "name": "Star Guardian",
+    "type": "origin"
+  },
+  {
+    "key": "supers",
+    "image": "https://rerollcdn.com/icons/supers.png",
+    "name": "Supers",
+    "type": "origin"
+  },
+  {
+    "key": "threat",
+    "image": "https://rerollcdn.com/icons/threat.png",
+    "name": "Threat",
+    "type": "origin"
+  },
+  {
+    "key": "the underground",
+    "image": "https://rerollcdn.com/icons/theunderground.png",
+    "name": "The Underground",
+    "type": "origin"
+  },
+  {
+    "key": "ace",
+    "image": "https://rerollcdn.com/icons/ace.png",
+    "name": "Ace",
+    "type": "class"
+  },
+  {
+    "key": "aegis",
+    "image": "https://rerollcdn.com/icons/aegis.png",
+    "name": "Aegis",
+    "type": "class"
+  },
+  {
+    "key": "brawler",
+    "image": "https://rerollcdn.com/icons/brawler.png",
+    "name": "Brawler",
+    "type": "class"
+  },
+  {
+    "key": "defender",
+    "image": "https://rerollcdn.com/icons/defender.png",
+    "name": "Defender",
+    "type": "class"
+  },
+  {
+    "key": "duelist",
+    "image": "https://rerollcdn.com/icons/duelist.png",
+    "name": "Duelist",
+    "type": "class"
+  },
+  {
+    "key": "hacker",
+    "image": "https://rerollcdn.com/icons/hacker.png",
+    "name": "Hacker",
+    "type": "class"
+  },
+  {
+    "key": "heart",
+    "image": "https://rerollcdn.com/icons/heart.png",
+    "name": "Heart",
+    "type": "class"
+  },
+  {
+    "key": "mascot",
+    "image": "https://rerollcdn.com/icons/mascot.png",
+    "name": "Mascot",
+    "type": "class"
+  },
+  {
+    "key": "prankster",
+    "image": "https://rerollcdn.com/icons/prankster.png",
+    "name": "Prankster",
+    "type": "class"
+  },
+  {
+    "key": "quickdraw",
+    "image": "https://rerollcdn.com/icons/quickdraw.png",
+    "name": "Quickdraw",
+    "type": "class"
+  },
+  {
+    "key": "renegade",
+    "image": "https://rerollcdn.com/icons/renegade.png",
+    "name": "Renegade",
+    "type": "class"
+  },
+  {
+    "key": "spellslinger",
+    "image": "https://rerollcdn.com/icons/spellslinger.png",
+    "name": "Spellslinger",
+    "type": "class"
+  },
+  {
+    "key": "sureshot",
+    "image": "https://rerollcdn.com/icons/sureshot.png",
+    "name": "Sureshot",
+    "type": "class"
+  }
+]
