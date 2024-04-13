@@ -1,36 +1,33 @@
 const fs = require("fs");
 const client = require("https");
 
-const setVersion = "set7.5";
+async function download(imagesDirectoryPath, champions, traits) {
+    if (!fs.existsSync(imagesDirectoryPath)) {
+        fs.mkdirSync(imagesDirectoryPath);
+    }
+    if (!fs.existsSync(imagesDirectoryPath + "champions")) {
+        fs.mkdirSync(imagesDirectoryPath + "champions");
+    }
+    if (!fs.existsSync(imagesDirectoryPath + "traits")) {
+        fs.mkdirSync(imagesDirectoryPath + "traits");
+    }
 
-let rawdata = fs.readFileSync(`./${setVersion}/champions.json`);
-let champions = JSON.parse(rawdata);
+    champions.forEach(async (c) => {
+        console.log("Downloading: " + c.image);
+        await downloadImage(
+            c.image,
+            imagesDirectoryPath + `champions/${c.championId}.png`
+        );
+    });
 
-rawdata = fs.readFileSync(`./${setVersion}/traits.json`);
-let traits = JSON.parse(rawdata);
-
-if (!fs.existsSync(`./${setVersion}/images`)) {
-    fs.mkdirSync(`./${setVersion}/images`);
+    traits.forEach(async (c) => {
+        console.log("Downloading: " + c.image);
+        await downloadImage(
+            c.image,
+            imagesDirectoryPath + `traits/${c.key}.png`
+        );
+    });
 }
-if (!fs.existsSync(`./${setVersion}/images/champions`)) {
-    fs.mkdirSync(`./${setVersion}/images/champions`);
-}
-if (!fs.existsSync(`./${setVersion}/images/traits`)) {
-    fs.mkdirSync(`./${setVersion}/images/traits`);
-}
-
-champions.forEach(async (c) => {
-    console.log("Downloading: " + c.image);
-    await downloadImage(
-        c.image,
-        `./${setVersion}/images/champions/${c.championId}.png`
-    );
-});
-
-traits.forEach(async (c) => {
-    console.log("Downloading: " + c.image);
-    await downloadImage(c.image, `./${setVersion}/images/traits/${c.key}.png`);
-});
 
 function downloadImage(url, filepath) {
     return new Promise((resolve, reject) => {
@@ -51,3 +48,5 @@ function downloadImage(url, filepath) {
         });
     });
 }
+
+module.exports = { download };
