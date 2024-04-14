@@ -7,7 +7,8 @@ const DATA_DIRECTORY_PATH = process.env.IMAGE_DIRECTORY_PATH || "./data/";
 
 (async () => {
     //const setVersion = await data.scrapeLatestSet(DATA_DIRECTORY_PATH);
-    const setVersion = "Set10";
+    const setVersion = "Set11";
+    console.log("Set version: " + setVersion);
 
     if (setVersion) {
         let rawChampions = fs.readFileSync(

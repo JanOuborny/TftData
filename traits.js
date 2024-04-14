@@ -10,37 +10,50 @@ const setId = "TFT11_"; // Might differ from version if for example setVersion "
 
 const champions = [];
 
-(async () => {
+const promiseTraits = [
+    [originsUrl, "origin"],
+    [classesUrl, "class"],
+].reduce(async (previousPromise, traitCategory) => {
+    let traitsArray = await previousPromise;
+
+    let resultTraits = await fetchTraitCategory(traitCategory);
+    traitsArray.push(...resultTraits);
+    return traitsArray;
+}, Promise.resolve([]));
+promiseTraits.then(function (result) {
+    console.log(result);
+    writeJson(`./set${setVersion}/traits.json`, result);
+});
+
+async function fetchTraitCategory(traitCategory) {
     const browser = await puppeteer.launch({
         headless: true,
         devtools: false,
     });
     const page = await browser.newPage();
-    await page.goto(originsUrl, {
+    await page.goto(traitCategory[0], {
         waitUntil: "networkidle2",
     });
 
-    const traits = await page.evaluate(() => {
+    const traits = await page.evaluate((traitCategory) => {
         const traits = [];
-        ["Origin"].forEach((traitCategory) => {
-            document
-                .querySelectorAll(
-                    `.rt-table .characters-item.trait-table .character-wrapper`
-                )
-                .forEach((trait) => {
-                    traits.push({
-                        key: trait.textContent.toLowerCase(),
-                        image: trait
-                            .querySelector(".character-icon")
-                            .getAttribute("src"),
-                        name: trait.querySelector("div").textContent,
-                        type: trait.querySelector("div").textContent.toLowerCase(),
-                    });
+        document
+            .querySelectorAll(
+                `.d-md-block .rt-table .characters-item.trait-table .character-wrapper`
+            )
+            .forEach((trait) => {
+                traits.push({
+                    key: trait.textContent.toLowerCase(),
+                    image: trait
+                        .querySelector(".character-icon")
+                        .getAttribute("src"),
+                    name: trait.querySelector("div").textContent,
+                    type: traitCategory[1],
                 });
-        });
+            });
         return traits;
-    });
-    writeJson(`./set${setVersion}/traits.json`, traits);
-    console.log(traits);
+    }, traitCategory);
+
     await browser.close();
-})();
+    return traits;
+}
