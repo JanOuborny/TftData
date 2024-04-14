@@ -1,0 +1,164 @@
+[
+  {
+    "key": "dragonlord",
+    "image": "https://rerollcdn.com/icons/dragonlord.png",
+    "name": "Dragonlord",
+    "type": "origin"
+  },
+  {
+    "key": "dryad",
+    "image": "https://rerollcdn.com/icons/dryad.png",
+    "name": "Dryad",
+    "type": "origin"
+  },
+  {
+    "key": "fated",
+    "image": "https://rerollcdn.com/icons/fated.png",
+    "name": "Fated",
+    "type": "origin"
+  },
+  {
+    "key": "fortune",
+    "image": "https://rerollcdn.com/icons/fortune.png",
+    "name": "Fortune",
+    "type": "origin"
+  },
+  {
+    "key": "ghostly",
+    "image": "https://rerollcdn.com/icons/ghostly.png",
+    "name": "Ghostly",
+    "type": "origin"
+  },
+  {
+    "key": "heavenly",
+    "image": "https://rerollcdn.com/icons/heavenly.png",
+    "name": "Heavenly",
+    "type": "origin"
+  },
+  {
+    "key": "inkshadow",
+    "image": "https://rerollcdn.com/icons/inkshadow.png",
+    "name": "Inkshadow",
+    "type": "origin"
+  },
+  {
+    "key": "lovers",
+    "image": "https://rerollcdn.com/icons/lovers.png",
+    "name": "Lovers",
+    "type": "origin"
+  },
+  {
+    "key": "mythic",
+    "image": "https://rerollcdn.com/icons/mythic.png",
+    "name": "Mythic",
+    "type": "origin"
+  },
+  {
+    "key": "porcelain",
+    "image": "https://rerollcdn.com/icons/porcelain.png",
+    "name": "Porcelain",
+    "type": "origin"
+  },
+  {
+    "key": "storyweaver",
+    "image": "https://rerollcdn.com/icons/storyweaver.png",
+    "name": "Storyweaver",
+    "type": "origin"
+  },
+  {
+    "key": "umbral",
+    "image": "https://rerollcdn.com/icons/umbral.png",
+    "name": "Umbral",
+    "type": "origin"
+  },
+  {
+    "key": "altruist",
+    "image": "https://rerollcdn.com/icons/altruist.png",
+    "name": "Altruist",
+    "type": "class"
+  },
+  {
+    "key": "arcanist",
+    "image": "https://rerollcdn.com/icons/arcanist.png",
+    "name": "Arcanist",
+    "type": "class"
+  },
+  {
+    "key": "artist",
+    "image": "https://rerollcdn.com/icons/artist.png",
+    "name": "Artist",
+    "type": "class"
+  },
+  {
+    "key": "behemoth",
+    "image": "https://rerollcdn.com/icons/behemoth.png",
+    "name": "Behemoth",
+    "type": "class"
+  },
+  {
+    "key": "bruiser",
+    "image": "https://rerollcdn.com/icons/bruiser.png",
+    "name": "Bruiser",
+    "type": "class"
+  },
+  {
+    "key": "duelist",
+    "image": "https://rerollcdn.com/icons/duelist.png",
+    "name": "Duelist",
+    "type": "class"
+  },
+  {
+    "key": "exalted",
+    "image": "https://rerollcdn.com/icons/exalted.png",
+    "name": "Exalted",
+    "type": "class"
+  },
+  {
+    "key": "great",
+    "image": "https://rerollcdn.com/icons/great.png",
+    "name": "Great",
+    "type": "class"
+  },
+  {
+    "key": "invoker",
+    "image": "https://rerollcdn.com/icons/invoker.png",
+    "name": "Invoker",
+    "type": "class"
+  },
+  {
+    "key": "reaper",
+    "image": "https://rerollcdn.com/icons/reaper.png",
+    "name": "Reaper",
+    "type": "class"
+  },
+  {
+    "key": "sage",
+    "image": "https://rerollcdn.com/icons/sage.png",
+    "name": "Sage",
+    "type": "class"
+  },
+  {
+    "key": "sniper",
+    "image": "https://rerollcdn.com/icons/sniper.png",
+    "name": "Sniper",
+    "type": "class"
+  },
+  {
+    "key": "spirit walker",
+    "image": "https://rerollcdn.com/icons/spiritwalker.png",
+    "name": "Spirit Walker",
+    "type": "class"
+  },
+  {
+    "key": "trickshot",
+    "image": "https://rerollcdn.com/icons/trickshot.png",
+    "name": "Trickshot",
+    "type": "class"
+  },
+  {
+    "key": "warden",
+    "image": "https://rerollcdn.com/icons/warden.png",
+    "name": "Warden",
+    "type": "class"
+  }
+]

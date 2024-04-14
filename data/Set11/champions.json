@@ -1,0 +1,682 @@
+[
+  {
+    "championId": "TFT11_Aatrox",
+    "link": "/champions/aatrox/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Aatrox.png",
+    "name": "Aatrox",
+    "traits": [
+      "ghostly",
+      "inkshadow",
+      "bruiser"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT11_Ahri",
+    "link": "/champions/ahri/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Ahri.png",
+    "name": "Ahri",
+    "traits": [
+      "fated",
+      "arcanist"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT11_Alune",
+    "link": "/champions/alune/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Alune.png",
+    "name": "Alune",
+    "traits": [
+      "umbral",
+      "invoker"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT11_Amumu",
+    "link": "/champions/amumu/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Amumu.png",
+    "name": "Amumu",
+    "traits": [
+      "porcelain",
+      "warden"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT11_Annie",
+    "link": "/champions/annie/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Annie.png",
+    "name": "Annie",
+    "traits": [
+      "fortune",
+      "invoker"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT11_Aphelios",
+    "link": "/champions/aphelios/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Aphelios.png",
+    "name": "Aphelios",
+    "traits": [
+      "fated",
+      "sniper"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT11_Ashe",
+    "link": "/champions/ashe/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Ashe.png",
+    "name": "Ashe",
+    "traits": [
+      "porcelain",
+      "sniper"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT11_Azir",
+    "link": "/champions/azir/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Azir.png",
+    "name": "Azir",
+    "traits": [
+      "dryad",
+      "invoker"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT11_Bard",
+    "link": "/champions/bard/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Bard.png",
+    "name": "Bard",
+    "traits": [
+      "mythic",
+      "trickshot"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT11_Caitlyn",
+    "link": "/champions/caitlyn/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Caitlyn.png",
+    "name": "Caitlyn",
+    "traits": [
+      "ghostly",
+      "sniper"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT11_Chogath",
+    "link": "/champions/chogath/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Chogath.png",
+    "name": "Chogath",
+    "traits": [
+      "mythic",
+      "behemoth"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT11_Darius",
+    "link": "/champions/darius/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Darius.png",
+    "name": "Darius",
+    "traits": [
+      "umbral",
+      "duelist"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT11_Diana",
+    "link": "/champions/diana/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Diana.png",
+    "name": "Diana",
+    "traits": [
+      "dragonlord",
+      "sage"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT11_Galio",
+    "link": "/champions/galio/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Galio.png",
+    "name": "Galio",
+    "traits": [
+      "storyweaver",
+      "bruiser"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT11_Garen",
+    "link": "/champions/garen/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Garen.png",
+    "name": "Garen",
+    "traits": [
+      "storyweaver",
+      "warden"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT11_Gnar",
+    "link": "/champions/gnar/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Gnar.png",
+    "name": "Gnar",
+    "traits": [
+      "dryad",
+      "warden"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT11_Hwei",
+    "link": "/champions/hwei/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Hwei.png",
+    "name": "Hwei",
+    "traits": [
+      "mythic",
+      "artist"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT11_Illaoi",
+    "link": "/champions/illaoi/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Illaoi.png",
+    "name": "Illaoi",
+    "traits": [
+      "ghostly",
+      "arcanist",
+      "warden"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT11_Irelia",
+    "link": "/champions/irelia/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Irelia.png",
+    "name": "Irelia",
+    "traits": [
+      "storyweaver",
+      "duelist"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT11_Janna",
+    "link": "/champions/janna/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Janna.png",
+    "name": "Janna",
+    "traits": [
+      "dragonlord",
+      "invoker"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT11_Jax",
+    "link": "/champions/jax/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Jax.png",
+    "name": "Jax",
+    "traits": [
+      "inkshadow",
+      "warden"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT11_Kaisa",
+    "link": "/champions/kaisa/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Kaisa.png",
+    "name": "Kaisa",
+    "traits": [
+      "inkshadow",
+      "trickshot"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT11_Kayle",
+    "link": "/champions/kayle/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Kayle.png",
+    "name": "Kayle",
+    "traits": [],
+    "cost": 0
+  },
+  {
+    "championId": "TFT11_Kayn",
+    "link": "/champions/kayn/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Kayn.png",
+    "name": "Kayn",
+    "traits": [
+      "ghostly",
+      "reaper"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT11_Khazix",
+    "link": "/champions/khazix/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Khazix.png",
+    "name": "Khazix",
+    "traits": [
+      "heavenly",
+      "reaper"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT11_Kindred",
+    "link": "/champions/kindred/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Kindred.png",
+    "name": "Kindred",
+    "traits": [
+      "dryad",
+      "fated",
+      "reaper"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT11_Kobuko",
+    "link": "/champions/kobuko/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Kobuko.png",
+    "name": "Kobuko",
+    "traits": [
+      "fortune",
+      "bruiser"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT11_KogMaw",
+    "link": "/champions/kogmaw/",
+    "image": "https://rerollcdn.com/characters/Skin/11/KogMaw.png",
+    "name": "KogMaw",
+    "traits": [
+      "mythic",
+      "invoker",
+      "sniper"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT11_LeeSin",
+    "link": "/champions/lee_sin/",
+    "image": "https://rerollcdn.com/characters/Skin/11/LeeSin.png",
+    "name": "Lee Sin",
+    "traits": [
+      "dragonlord",
+      "duelist"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT11_Lillia",
+    "link": "/champions/lillia/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Lillia.png",
+    "name": "Lillia",
+    "traits": [
+      "mythic",
+      "invoker"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT11_Lissandra",
+    "link": "/champions/lissandra/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Lissandra.png",
+    "name": "Lissandra",
+    "traits": [
+      "porcelain",
+      "arcanist"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT11_Lux",
+    "link": "/champions/lux/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Lux.png",
+    "name": "Lux",
+    "traits": [
+      "porcelain",
+      "arcanist"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT11_Malphite",
+    "link": "/champions/malphite/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Malphite.png",
+    "name": "Malphite",
+    "traits": [
+      "heavenly",
+      "behemoth"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT11_Morgana",
+    "link": "/champions/morgana/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Morgana.png",
+    "name": "Morgana",
+    "traits": [
+      "ghostly",
+      "sage"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT11_Nautilus",
+    "link": "/champions/nautilus/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Nautilus.png",
+    "name": "Nautilus",
+    "traits": [
+      "mythic",
+      "warden"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT11_Neeko",
+    "link": "/champions/neeko/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Neeko.png",
+    "name": "Neeko",
+    "traits": [
+      "heavenly",
+      "mythic",
+      "arcanist"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT11_Ornn",
+    "link": "/champions/ornn/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Ornn.png",
+    "name": "Ornn",
+    "traits": [
+      "dryad",
+      "behemoth"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT11_Qiyana",
+    "link": "/champions/qiyana/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Qiyana.png",
+    "name": "Qiyana",
+    "traits": [
+      "heavenly",
+      "duelist"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT11_Rakan",
+    "link": "/champions/rakan/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Rakan.png",
+    "name": "Rakan",
+    "traits": [
+      "dragonlord",
+      "lovers",
+      "altruist"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT11_RekSai",
+    "link": "/champions/reksai/",
+    "image": "https://rerollcdn.com/characters/Skin/11/RekSai.png",
+    "name": "RekSai",
+    "traits": [
+      "dryad",
+      "bruiser"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT11_Riven",
+    "link": "/champions/riven/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Riven.png",
+    "name": "Riven",
+    "traits": [
+      "storyweaver",
+      "altruist",
+      "bruiser"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT11_Senna",
+    "link": "/champions/senna/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Senna.png",
+    "name": "Senna",
+    "traits": [
+      "inkshadow",
+      "sniper"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT11_Sett",
+    "link": "/champions/sett/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Sett.png",
+    "name": "Sett",
+    "traits": [
+      "fated",
+      "umbral",
+      "warden"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT11_Shen",
+    "link": "/champions/shen/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Shen.png",
+    "name": "Shen",
+    "traits": [
+      "ghostly",
+      "behemoth"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT11_Sivir",
+    "link": "/champions/sivir/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Sivir.png",
+    "name": "Sivir",
+    "traits": [
+      "storyweaver",
+      "trickshot"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT11_Soraka",
+    "link": "/champions/soraka/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Soraka.png",
+    "name": "Soraka",
+    "traits": [
+      "heavenly",
+      "altruist"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT11_Sylas",
+    "link": "/champions/sylas/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Sylas.png",
+    "name": "Sylas",
+    "traits": [
+      "umbral",
+      "bruiser"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT11_Syndra",
+    "link": "/champions/syndra/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Syndra.png",
+    "name": "Syndra",
+    "traits": [
+      "fated",
+      "arcanist"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT11_TahmKench",
+    "link": "/champions/tahm_kench/",
+    "image": "https://rerollcdn.com/characters/Skin/11/TahmKench.png",
+    "name": "Tahm Kench",
+    "traits": [
+      "mythic",
+      "bruiser"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT11_Teemo",
+    "link": "/champions/teemo/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Teemo.png",
+    "name": "Teemo",
+    "traits": [
+      "fortune",
+      "trickshot"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT11_Thresh",
+    "link": "/champions/thresh/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Thresh.png",
+    "name": "Thresh",
+    "traits": [
+      "fated",
+      "behemoth"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT11_Tristana",
+    "link": "/champions/tristana/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Tristana.png",
+    "name": "Tristana",
+    "traits": [
+      "fortune",
+      "duelist"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT11_Udyr",
+    "link": "/champions/udyr/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Udyr.png",
+    "name": "Udyr",
+    "traits": [
+      "inkshadow",
+      "behemoth",
+      "spirit walker"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT11_Volibear",
+    "link": "/champions/volibear/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Volibear.png",
+    "name": "Volibear",
+    "traits": [
+      "inkshadow",
+      "duelist"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT11_Wukong",
+    "link": "/champions/wukong/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Wukong.png",
+    "name": "Wukong",
+    "traits": [
+      "heavenly",
+      "great",
+      "sage"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT11_Xayah",
+    "link": "/champions/xayah/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Xayah.png",
+    "name": "Xayah",
+    "traits": [
+      "dragonlord",
+      "lovers",
+      "trickshot"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT11_Yasuo",
+    "link": "/champions/yasuo/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Yasuo.png",
+    "name": "Yasuo",
+    "traits": [
+      "fated",
+      "duelist"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT11_Yone",
+    "link": "/champions/yone/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Yone.png",
+    "name": "Yone",
+    "traits": [
+      "umbral",
+      "reaper"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT11_Yorick",
+    "link": "/champions/yorick/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Yorick.png",
+    "name": "Yorick",
+    "traits": [
+      "umbral",
+      "behemoth"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT11_Zoe",
+    "link": "/champions/zoe/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Zoe.png",
+    "name": "Zoe",
+    "traits": [
+      "fortune",
+      "storyweaver",
+      "arcanist"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT11_Zyra",
+    "link": "/champions/zyra/",
+    "image": "https://rerollcdn.com/characters/Skin/11/Zyra.png",
+    "name": "Zyra",
+    "traits": [
+      "storyweaver",
+      "sage"
+    ],
+    "cost": 2
+  }
+]
