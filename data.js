@@ -1,6 +1,7 @@
 const puppeteer = require("puppeteer");
 const writeJson = require("write-json");
 const fs = require("fs");
+const traitsScrape = require("./traits");
 
 const CHAMPIONS_URL = "https://tftactics.gg/champions";
 
@@ -66,28 +67,7 @@ async function scrapeLatestSet(dataDirectoryPath) {
         return results;
     }, SET_VERSION_NUMBER);
 
-    const traits = await page.evaluate(() => {
-        const results = [];
-
-        ["Origin", "Class"].forEach((traitCategory) => {
-            document
-                .querySelectorAll(
-                    `.sidebar ul .filters-item[category='${traitCategory}']`
-                )
-                .forEach((trait) => {
-                    results.push({
-                        key: trait.textContent.toLowerCase(),
-                        image: trait
-                            .querySelector(".filters-icon")
-                            .getAttribute("src"),
-                        name: trait.textContent,
-                        type: traitCategory.toLowerCase(),
-                    });
-                });
-        });
-        return results;
-    });
-    writeJson(SET_PATH + "/traits.json", traits);
+    const traits = await traitsScrape.scrapeTraits();
 
     // Gather for each champion its cost and traits
     for (let j = 0; j < champions.length; j++) {
@@ -117,6 +97,7 @@ async function scrapeLatestSet(dataDirectoryPath) {
     }
 
     //console.log(champions);
+    writeJson(SET_PATH + "/traits.json", traits);
     writeJson(SET_PATH + "/champions.json", champions);
     await browser.close();
 }
