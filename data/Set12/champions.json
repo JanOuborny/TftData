@@ -1,0 +1,671 @@
+[
+  {
+    "championId": "TFT12_Ahri",
+    "link": "/champions/ahri/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Ahri.png",
+    "name": "Ahri",
+    "traits": [
+      "arcana",
+      "scholar"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT12_Akali",
+    "link": "/champions/akali/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Akali.png",
+    "name": "Akali",
+    "traits": [
+      "pyro",
+      "multistriker",
+      "warrior"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT12_Ashe",
+    "link": "/champions/ashe/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Ashe.png",
+    "name": "Ashe",
+    "traits": [
+      "eldritch",
+      "multistriker"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT12_Bard",
+    "link": "/champions/bard/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Bard.png",
+    "name": "Bard",
+    "traits": [
+      "sugarcraft",
+      "preserver",
+      "scholar"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT12_Blitzcrank",
+    "link": "/champions/blitzcrank/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Blitzcrank.png",
+    "name": "Blitzcrank",
+    "traits": [
+      "honeymancy",
+      "vanguard"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT12_Briar",
+    "link": "/champions/briar/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Briar.png",
+    "name": "Briar",
+    "traits": [
+      "eldritch",
+      "ravenous",
+      "shapeshifter"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT12_Camille",
+    "link": "/champions/camille/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Camille.png",
+    "name": "Camille",
+    "traits": [
+      "chrono",
+      "multistriker"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT12_Cassiopeia",
+    "link": "/champions/cassiopeia/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Cassiopeia.png",
+    "name": "Cassiopeia",
+    "traits": [
+      "witchcraft",
+      "incantor"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT12_Diana",
+    "link": "/champions/diana/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Diana.png",
+    "name": "Diana",
+    "traits": [
+      "frost",
+      "bastion"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT12_Elise",
+    "link": "/champions/elise/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Elise.png",
+    "name": "Elise",
+    "traits": [
+      "eldritch",
+      "shapeshifter"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT12_Ezreal",
+    "link": "/champions/ezreal/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Ezreal.png",
+    "name": "Ezreal",
+    "traits": [
+      "portal",
+      "blaster"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT12_Fiora",
+    "link": "/champions/fiora/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Fiora.png",
+    "name": "Fiora",
+    "traits": [
+      "witchcraft",
+      "warrior"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT12_Galio",
+    "link": "/champions/galio/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Galio.png",
+    "name": "Galio",
+    "traits": [
+      "portal",
+      "mage",
+      "vanguard"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT12_Gwen",
+    "link": "/champions/gwen/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Gwen.png",
+    "name": "Gwen",
+    "traits": [
+      "sugarcraft",
+      "warrior"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT12_Hecarim",
+    "link": "/champions/hecarim/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Hecarim.png",
+    "name": "Hecarim",
+    "traits": [
+      "arcana",
+      "bastion",
+      "multistriker"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT12_Hwei",
+    "link": "/champions/hwei/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Hwei.png",
+    "name": "Hwei",
+    "traits": [
+      "frost",
+      "blaster"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT12_Jax",
+    "link": "/champions/jax/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Jax.png",
+    "name": "Jax",
+    "traits": [
+      "chrono",
+      "multistriker"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT12_Jayce",
+    "link": "/champions/jayce/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Jayce.png",
+    "name": "Jayce",
+    "traits": [
+      "portal",
+      "shapeshifter"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT12_Jinx",
+    "link": "/champions/jinx/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Jinx.png",
+    "name": "Jinx",
+    "traits": [
+      "sugarcraft",
+      "hunter"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT12_Kalista",
+    "link": "/champions/kalista/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Kalista.png",
+    "name": "Kalista",
+    "traits": [
+      "faerie",
+      "multistriker"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT12_Karma",
+    "link": "/champions/karma/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Karma.png",
+    "name": "Karma",
+    "traits": [
+      "chrono",
+      "incantor"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT12_Kassadin",
+    "link": "/champions/kassadin/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Kassadin.png",
+    "name": "Kassadin",
+    "traits": [
+      "portal",
+      "multistriker"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT12_Katarina",
+    "link": "/champions/katarina/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Katarina.png",
+    "name": "Katarina",
+    "traits": [
+      "faerie",
+      "warrior"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT12_KogMaw",
+    "link": "/champions/kogmaw/",
+    "image": "https://rerollcdn.com/characters/Skin/12/KogMaw.png",
+    "name": "KogMaw",
+    "traits": [
+      "honeymancy",
+      "hunter"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT12_Lillia",
+    "link": "/champions/lillia/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Lillia.png",
+    "name": "Lillia",
+    "traits": [
+      "faerie",
+      "bastion"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT12_Milio",
+    "link": "/champions/milio/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Milio.png",
+    "name": "Milio",
+    "traits": [
+      "faerie",
+      "scholar"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT12_Mordekaiser",
+    "link": "/champions/mordekaiser/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Mordekaiser.png",
+    "name": "Mordekaiser",
+    "traits": [
+      "eldritch",
+      "vanguard"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT12_Morgana",
+    "link": "/champions/morgana/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Morgana.png",
+    "name": "Morgana",
+    "traits": [
+      "witchcraft",
+      "bat queen",
+      "preserver"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT12_Nami",
+    "link": "/champions/nami/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Nami.png",
+    "name": "Nami",
+    "traits": [
+      "eldritch",
+      "mage"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT12_Nasus",
+    "link": "/champions/nasus/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Nasus.png",
+    "name": "Nasus",
+    "traits": [
+      "pyro",
+      "shapeshifter"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT12_Neeko",
+    "link": "/champions/neeko/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Neeko.png",
+    "name": "Neeko",
+    "traits": [
+      "witchcraft",
+      "shapeshifter"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT12_Nilah",
+    "link": "/champions/nilah/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Nilah.png",
+    "name": "Nilah",
+    "traits": [
+      "eldritch",
+      "warrior"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT12_Nomsy",
+    "link": "/champions/nomsy/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Nomsy.png",
+    "name": "Nomsy",
+    "traits": [
+      "dragon",
+      "hunter"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT12_NorraYuumi",
+    "link": "/champions/norra_&_yuumi/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Norra&Yuumi.png",
+    "name": "Norra & Yuumi",
+    "traits": [
+      "portal",
+      "best friends",
+      "mage"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT12_Nunu",
+    "link": "/champions/nunu/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Nunu.png",
+    "name": "Nunu",
+    "traits": [
+      "honeymancy",
+      "bastion"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT12_Olaf",
+    "link": "/champions/olaf/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Olaf.png",
+    "name": "Olaf",
+    "traits": [
+      "frost",
+      "hunter"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT12_Poppy",
+    "link": "/champions/poppy/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Poppy.png",
+    "name": "Poppy",
+    "traits": [
+      "witchcraft",
+      "bastion"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT12_Rakan",
+    "link": "/champions/rakan/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Rakan.png",
+    "name": "Rakan",
+    "traits": [
+      "faerie",
+      "preserver"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT12_Rumble",
+    "link": "/champions/rumble/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Rumble.png",
+    "name": "Rumble",
+    "traits": [
+      "sugarcraft",
+      "blaster",
+      "vanguard"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT12_Ryze",
+    "link": "/champions/ryze/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Ryze.png",
+    "name": "Ryze",
+    "traits": [
+      "portal",
+      "scholar"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT12_Seraphine",
+    "link": "/champions/seraphine/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Seraphine.png",
+    "name": "Seraphine",
+    "traits": [
+      "faerie",
+      "mage"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT12_Shen",
+    "link": "/champions/shen/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Shen.png",
+    "name": "Shen",
+    "traits": [
+      "pyro",
+      "bastion"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT12_Shyvana",
+    "link": "/champions/shyvana/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Shyvana.png",
+    "name": "Shyvana",
+    "traits": [
+      "dragon",
+      "shapeshifter"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT12_Smolder",
+    "link": "/champions/smolder/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Smolder.png",
+    "name": "Smolder",
+    "traits": [
+      "dragon",
+      "blaster"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT12_Soraka",
+    "link": "/champions/soraka/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Soraka.png",
+    "name": "Soraka",
+    "traits": [
+      "sugarcraft",
+      "mage"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT12_Swain",
+    "link": "/champions/swain/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Swain.png",
+    "name": "Swain",
+    "traits": [
+      "frost",
+      "shapeshifter"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT12_Syndra",
+    "link": "/champions/syndra/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Syndra.png",
+    "name": "Syndra",
+    "traits": [
+      "eldritch",
+      "incantor"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT12_TahmKench",
+    "link": "/champions/tahm_kench/",
+    "image": "https://rerollcdn.com/characters/Skin/12/TahmKench.png",
+    "name": "Tahm Kench",
+    "traits": [
+      "arcana",
+      "vanguard"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT12_Taric",
+    "link": "/champions/taric/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Taric.png",
+    "name": "Taric",
+    "traits": [
+      "portal",
+      "bastion"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT12_Tristana",
+    "link": "/champions/tristana/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Tristana.png",
+    "name": "Tristana",
+    "traits": [
+      "faerie",
+      "blaster"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT12_Twitch",
+    "link": "/champions/twitch/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Twitch.png",
+    "name": "Twitch",
+    "traits": [
+      "frost",
+      "hunter"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT12_Varus",
+    "link": "/champions/varus/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Varus.png",
+    "name": "Varus",
+    "traits": [
+      "pyro",
+      "blaster"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT12_Veigar",
+    "link": "/champions/veigar/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Veigar.png",
+    "name": "Veigar",
+    "traits": [
+      "honeymancy",
+      "mage"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT12_Vex",
+    "link": "/champions/vex/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Vex.png",
+    "name": "Vex",
+    "traits": [
+      "chrono",
+      "mage"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT12_Warwick",
+    "link": "/champions/warwick/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Warwick.png",
+    "name": "Warwick",
+    "traits": [
+      "frost",
+      "vanguard"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT12_Wukong",
+    "link": "/champions/wukong/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Wukong.png",
+    "name": "Wukong",
+    "traits": [
+      "druid"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT12_Xerath",
+    "link": "/champions/xerath/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Xerath.png",
+    "name": "Xerath",
+    "traits": [
+      "arcana",
+      "ascendant"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT12_Ziggs",
+    "link": "/champions/ziggs/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Ziggs.png",
+    "name": "Ziggs",
+    "traits": [
+      "honeymancy",
+      "incantor"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT12_Zilean",
+    "link": "/champions/zilean/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Zilean.png",
+    "name": "Zilean",
+    "traits": [
+      "chrono",
+      "frost",
+      "preserver"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT12_Zoe",
+    "link": "/champions/zoe/",
+    "image": "https://rerollcdn.com/characters/Skin/12/Zoe.png",
+    "name": "Zoe",
+    "traits": [
+      "portal",
+      "witchcraft",
+      "scholar"
+    ],
+    "cost": 1
+  }
+]

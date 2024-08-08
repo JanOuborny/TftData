@@ -1,0 +1,164 @@
+[
+  {
+    "key": "arcana",
+    "image": "https://rerollcdn.com/icons/arcana.png",
+    "name": "Arcana",
+    "type": "origin"
+  },
+  {
+    "key": "chrono",
+    "image": "https://rerollcdn.com/icons/chrono.png",
+    "name": "Chrono",
+    "type": "origin"
+  },
+  {
+    "key": "dragon",
+    "image": "https://rerollcdn.com/icons/dragon.png",
+    "name": "Dragon",
+    "type": "origin"
+  },
+  {
+    "key": "druid",
+    "image": "https://rerollcdn.com/icons/druid.png",
+    "name": "Druid",
+    "type": "origin"
+  },
+  {
+    "key": "eldritch",
+    "image": "https://rerollcdn.com/icons/eldritch.png",
+    "name": "Eldritch",
+    "type": "origin"
+  },
+  {
+    "key": "faerie",
+    "image": "https://rerollcdn.com/icons/faerie.png",
+    "name": "Faerie",
+    "type": "origin"
+  },
+  {
+    "key": "frost",
+    "image": "https://rerollcdn.com/icons/frost.png",
+    "name": "Frost",
+    "type": "origin"
+  },
+  {
+    "key": "honeymancy",
+    "image": "https://rerollcdn.com/icons/honeymancy.png",
+    "name": "Honeymancy",
+    "type": "origin"
+  },
+  {
+    "key": "portal",
+    "image": "https://rerollcdn.com/icons/portal.png",
+    "name": "Portal",
+    "type": "origin"
+  },
+  {
+    "key": "pyro",
+    "image": "https://rerollcdn.com/icons/pyro.png",
+    "name": "Pyro",
+    "type": "origin"
+  },
+  {
+    "key": "ravenous",
+    "image": "https://rerollcdn.com/icons/ravenous.png",
+    "name": "Ravenous",
+    "type": "origin"
+  },
+  {
+    "key": "sugarcraft",
+    "image": "https://rerollcdn.com/icons/sugarcraft.png",
+    "name": "Sugarcraft",
+    "type": "origin"
+  },
+  {
+    "key": "witchcraft",
+    "image": "https://rerollcdn.com/icons/witchcraft.png",
+    "name": "Witchcraft",
+    "type": "origin"
+  },
+  {
+    "key": "ascendant",
+    "image": "https://rerollcdn.com/icons/ascendant.png",
+    "name": "Ascendant",
+    "type": "class"
+  },
+  {
+    "key": "bastion",
+    "image": "https://rerollcdn.com/icons/bastion.png",
+    "name": "Bastion",
+    "type": "class"
+  },
+  {
+    "key": "bat queen",
+    "image": "https://rerollcdn.com/icons/batqueen.png",
+    "name": "Bat Queen",
+    "type": "class"
+  },
+  {
+    "key": "best friends",
+    "image": "https://rerollcdn.com/icons/bestfriends.png",
+    "name": "Best Friends",
+    "type": "class"
+  },
+  {
+    "key": "blaster",
+    "image": "https://rerollcdn.com/icons/blaster.png",
+    "name": "Blaster",
+    "type": "class"
+  },
+  {
+    "key": "hunter",
+    "image": "https://rerollcdn.com/icons/hunter.png",
+    "name": "Hunter",
+    "type": "class"
+  },
+  {
+    "key": "incantor",
+    "image": "https://rerollcdn.com/icons/incantor.png",
+    "name": "Incantor",
+    "type": "class"
+  },
+  {
+    "key": "mage",
+    "image": "https://rerollcdn.com/icons/mage.png",
+    "name": "Mage",
+    "type": "class"
+  },
+  {
+    "key": "multistriker",
+    "image": "https://rerollcdn.com/icons/multistriker.png",
+    "name": "Multistriker",
+    "type": "class"
+  },
+  {
+    "key": "preserver",
+    "image": "https://rerollcdn.com/icons/preserver.png",
+    "name": "Preserver",
+    "type": "class"
+  },
+  {
+    "key": "scholar",
+    "image": "https://rerollcdn.com/icons/scholar.png",
+    "name": "Scholar",
+    "type": "class"
+  },
+  {
+    "key": "shapeshifter",
+    "image": "https://rerollcdn.com/icons/shapeshifter.png",
+    "name": "Shapeshifter",
+    "type": "class"
+  },
+  {
+    "key": "vanguard",
+    "image": "https://rerollcdn.com/icons/vanguard.png",
+    "name": "Vanguard",
+    "type": "class"
+  },
+  {
+    "key": "warrior",
+    "image": "https://rerollcdn.com/icons/warrior.png",
+    "name": "Warrior",
+    "type": "class"
+  }
+]

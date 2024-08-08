@@ -6,8 +6,8 @@ const IMAGE_DIRECTORY_PATH = process.env.IMAGE_DIRECTORY_PATH || "./images/";
 const DATA_DIRECTORY_PATH = process.env.DATA_DIRECTORY_PATH || "./data/";
 
 (async () => {
-    const setVersion = await data.scrapeLatestSet(DATA_DIRECTORY_PATH);
-    //const setVersion = "Set11";
+    // const setVersion = await data.scrapeLatestSet(DATA_DIRECTORY_PATH);
+    const setVersion = "Set12";
     console.log("Set version: " + setVersion);
 
     if (setVersion) {
@@ -20,6 +20,6 @@ const DATA_DIRECTORY_PATH = process.env.DATA_DIRECTORY_PATH || "./data/";
 
         let champions = JSON.parse(rawChampions);
         let traits = JSON.parse(rawTraits);
-        //await images.download(IMAGE_DIRECTORY_PATH, champions, traits);
+        await images.download(IMAGE_DIRECTORY_PATH, champions, traits);
     }
 })();
