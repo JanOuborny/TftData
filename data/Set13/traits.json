@@ -1,0 +1,176 @@
+[
+  {
+    "key": "academy",
+    "image": "https://rerollcdn.com/icons/academy.png",
+    "name": "Academy",
+    "type": "origin"
+  },
+  {
+    "key": "automata",
+    "image": "https://rerollcdn.com/icons/automata.png",
+    "name": "Automata",
+    "type": "origin"
+  },
+  {
+    "key": "black rose",
+    "image": "https://rerollcdn.com/icons/blackrose.png",
+    "name": "Black Rose",
+    "type": "origin"
+  },
+  {
+    "key": "chem-baron",
+    "image": "https://rerollcdn.com/icons/chem-baron.png",
+    "name": "Chem-Baron",
+    "type": "origin"
+  },
+  {
+    "key": "conqueror",
+    "image": "https://rerollcdn.com/icons/conqueror.png",
+    "name": "Conqueror",
+    "type": "origin"
+  },
+  {
+    "key": "emissary",
+    "image": "https://rerollcdn.com/icons/emissary.png",
+    "name": "Emissary",
+    "type": "origin"
+  },
+  {
+    "key": "enforcer",
+    "image": "https://rerollcdn.com/icons/enforcer.png",
+    "name": "Enforcer",
+    "type": "origin"
+  },
+  {
+    "key": "experiment",
+    "image": "https://rerollcdn.com/icons/experiment.png",
+    "name": "Experiment",
+    "type": "origin"
+  },
+  {
+    "key": "family",
+    "image": "https://rerollcdn.com/icons/family.png",
+    "name": "Family",
+    "type": "origin"
+  },
+  {
+    "key": "firelight",
+    "image": "https://rerollcdn.com/icons/firelight.png",
+    "name": "Firelight",
+    "type": "origin"
+  },
+  {
+    "key": "high roller",
+    "image": "https://rerollcdn.com/icons/highroller.png",
+    "name": "High Roller",
+    "type": "origin"
+  },
+  {
+    "key": "junker king",
+    "image": "https://rerollcdn.com/icons/junkerking.png",
+    "name": "Junker King",
+    "type": "origin"
+  },
+  {
+    "key": "rebel",
+    "image": "https://rerollcdn.com/icons/rebel.png",
+    "name": "Rebel",
+    "type": "origin"
+  },
+  {
+    "key": "scrap",
+    "image": "https://rerollcdn.com/icons/scrap.png",
+    "name": "Scrap",
+    "type": "origin"
+  },
+  {
+    "key": "ambusher",
+    "image": "https://rerollcdn.com/icons/ambusher.png",
+    "name": "Ambusher",
+    "type": "class"
+  },
+  {
+    "key": "artillerist",
+    "image": "https://rerollcdn.com/icons/artillerist.png",
+    "name": "Artillerist",
+    "type": "class"
+  },
+  {
+    "key": "bruiser",
+    "image": "https://rerollcdn.com/icons/bruiser.png",
+    "name": "Bruiser",
+    "type": "class"
+  },
+  {
+    "key": "dominator",
+    "image": "https://rerollcdn.com/icons/dominator.png",
+    "name": "Dominator",
+    "type": "class"
+  },
+  {
+    "key": "form swapper",
+    "image": "https://rerollcdn.com/icons/formswapper.png",
+    "name": "Form Swapper",
+    "type": "class"
+  },
+  {
+    "key": "pit fighter",
+    "image": "https://rerollcdn.com/icons/pitfighter.png",
+    "name": "Pit Fighter",
+    "type": "class"
+  },
+  {
+    "key": "quickstriker",
+    "image": "https://rerollcdn.com/icons/quickstriker.png",
+    "name": "Quickstriker",
+    "type": "class"
+  },
+  {
+    "key": "sentinel",
+    "image": "https://rerollcdn.com/icons/sentinel.png",
+    "name": "Sentinel",
+    "type": "class"
+  },
+  {
+    "key": "sniper",
+    "image": "https://rerollcdn.com/icons/sniper.png",
+    "name": "Sniper",
+    "type": "class"
+  },
+  {
+    "key": "sorcerer",
+    "image": "https://rerollcdn.com/icons/sorcerer.png",
+    "name": "Sorcerer",
+    "type": "class"
+  },
+  {
+    "key": "visionary",
+    "image": "https://rerollcdn.com/icons/visionary.png",
+    "name": "Visionary",
+    "type": "class"
+  },
+  {
+    "key": "watcher",
+    "image": "https://rerollcdn.com/icons/watcher.png",
+    "name": "Watcher",
+    "type": "class"
+  },
+  {
+    "key": "banished mage",
+    "image": "https://rerollcdn.com/icons/banishedmage.png",
+    "name": "Banished Mage",
+    "type": "class"
+  },
+  {
+    "key": "blood hunter",
+    "image": "https://rerollcdn.com/icons/bloodhunter.png",
+    "name": "Blood Hunter",
+    "type": "class"
+  },
+  {
+    "key": "machine herald",
+    "image": "https://rerollcdn.com/icons/machineherald.png",
+    "name": "Machine Herald",
+    "type": "class"
+  }
+]

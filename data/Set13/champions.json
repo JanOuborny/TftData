@@ -1,0 +1,706 @@
+[
+  {
+    "championId": "TFT13_Akali",
+    "link": "/champions/akali/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Akali.png",
+    "name": "Akali",
+    "traits": [
+      "rebel",
+      "quickstriker"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT13_Ambessa",
+    "link": "/champions/ambessa/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Ambessa.png",
+    "name": "Ambessa",
+    "traits": [
+      "conqueror",
+      "emissary",
+      "quickstriker"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT13_Amumu",
+    "link": "/champions/amumu/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Amumu.png",
+    "name": "Amumu",
+    "traits": [
+      "automata",
+      "watcher"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT13_Blitzcrank",
+    "link": "/champions/blitzcrank/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Blitzcrank.png",
+    "name": "Blitzcrank",
+    "traits": [
+      "automata",
+      "dominator"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT13_Caitlyn",
+    "link": "/champions/caitlyn/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Caitlyn.png",
+    "name": "Caitlyn",
+    "traits": [
+      "enforcer",
+      "sniper"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT13_Camille",
+    "link": "/champions/camille/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Camille.png",
+    "name": "Camille",
+    "traits": [
+      "enforcer",
+      "ambusher"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT13_Cassiopeia",
+    "link": "/champions/cassiopeia/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Cassiopeia.png",
+    "name": "Cassiopeia",
+    "traits": [
+      "black rose",
+      "dominator"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT13_Corki",
+    "link": "/champions/corki/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Corki.png",
+    "name": "Corki",
+    "traits": [
+      "scrap",
+      "artillerist"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT13_Darius",
+    "link": "/champions/darius/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Darius.png",
+    "name": "Darius",
+    "traits": [
+      "conqueror",
+      "watcher"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT13_DrMundo",
+    "link": "/champions/dr_mundo/",
+    "image": "https://rerollcdn.com/characters/Skin/13/DrMundo.png",
+    "name": "Dr Mundo",
+    "traits": [
+      "experiment",
+      "dominator"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT13_Draven",
+    "link": "/champions/draven/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Draven.png",
+    "name": "Draven",
+    "traits": [
+      "conqueror",
+      "pit fighter"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT13_Ekko",
+    "link": "/champions/ekko/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Ekko.png",
+    "name": "Ekko",
+    "traits": [
+      "firelight",
+      "scrap",
+      "ambusher"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT13_Elise",
+    "link": "/champions/elise/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Elise.png",
+    "name": "Elise",
+    "traits": [
+      "black rose",
+      "bruiser",
+      "form swapper"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT13_Ezreal",
+    "link": "/champions/ezreal/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Ezreal.png",
+    "name": "Ezreal",
+    "traits": [
+      "academy",
+      "rebel",
+      "artillerist"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT13_Gangplank",
+    "link": "/champions/gangplank/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Gangplank.png",
+    "name": "Gangplank",
+    "traits": [
+      "scrap",
+      "form swapper",
+      "pit fighter"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT13_Garen",
+    "link": "/champions/garen/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Garen.png",
+    "name": "Garen",
+    "traits": [
+      "emissary",
+      "watcher"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT13_Heimerdinger",
+    "link": "/champions/heimerdinger/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Heimerdinger.png",
+    "name": "Heimerdinger",
+    "traits": [
+      "academy",
+      "visionary"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT13_Illaoi",
+    "link": "/champions/illaoi/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Illaoi.png",
+    "name": "Illaoi",
+    "traits": [
+      "rebel",
+      "sentinel"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT13_Irelia",
+    "link": "/champions/irelia/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Irelia.png",
+    "name": "Irelia",
+    "traits": [
+      "rebel",
+      "sentinel"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT13_Jayce",
+    "link": "/champions/jayce/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Jayce.png",
+    "name": "Jayce",
+    "traits": [
+      "academy",
+      "form swapper"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT13_Jinx",
+    "link": "/champions/jinx/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Jinx.png",
+    "name": "Jinx",
+    "traits": [
+      "rebel",
+      "ambusher"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT13_Kogmaw",
+    "link": "/champions/kogmaw/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Kogmaw.png",
+    "name": "Kogmaw",
+    "traits": [
+      "automata",
+      "sniper"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT13_Leblanc",
+    "link": "/champions/leblanc/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Leblanc.png",
+    "name": "Leblanc",
+    "traits": [
+      "black rose",
+      "sorcerer"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT13_Leona",
+    "link": "/champions/leona/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Leona.png",
+    "name": "Leona",
+    "traits": [
+      "academy",
+      "sentinel"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT13_Loris",
+    "link": "/champions/loris/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Loris.png",
+    "name": "Loris",
+    "traits": [
+      "enforcer",
+      "sentinel"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT13_Lux",
+    "link": "/champions/lux/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Lux.png",
+    "name": "Lux",
+    "traits": [
+      "academy",
+      "sorcerer"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT13_Maddie",
+    "link": "/champions/maddie/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Maddie.png",
+    "name": "Maddie",
+    "traits": [
+      "enforcer",
+      "sniper"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT13_Malzahar",
+    "link": "/champions/malzahar/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Malzahar.png",
+    "name": "Malzahar",
+    "traits": [
+      "automata",
+      "visionary"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT13_Mel",
+    "link": "/champions/mel/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Mel.png",
+    "name": "Mel",
+    "traits": [
+      "banished mage"
+    ],
+    "cost": 6
+  },
+  {
+    "championId": "TFT13_Mordekaiser",
+    "link": "/champions/mordekaiser/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Mordekaiser.png",
+    "name": "Mordekaiser",
+    "traits": [
+      "conqueror",
+      "dominator"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT13_Morgana",
+    "link": "/champions/morgana/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Morgana.png",
+    "name": "Morgana",
+    "traits": [
+      "black rose",
+      "visionary"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT13_Nami",
+    "link": "/champions/nami/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Nami.png",
+    "name": "Nami",
+    "traits": [
+      "emissary",
+      "sorcerer"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT13_Nocturne",
+    "link": "/champions/nocturne/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Nocturne.png",
+    "name": "Nocturne",
+    "traits": [
+      "automata",
+      "quickstriker"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT13_Nunu",
+    "link": "/champions/nunu/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Nunu.png",
+    "name": "Nunu",
+    "traits": [
+      "experiment",
+      "bruiser",
+      "visionary"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT13_Powder",
+    "link": "/champions/powder/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Powder.png",
+    "name": "Powder",
+    "traits": [
+      "family",
+      "scrap",
+      "ambusher"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT13_Rell",
+    "link": "/champions/rell/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Rell.png",
+    "name": "Rell",
+    "traits": [
+      "conqueror",
+      "sentinel",
+      "visionary"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT13_Renata",
+    "link": "/champions/renata/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Renata.png",
+    "name": "Renata",
+    "traits": [
+      "chem-baron",
+      "visionary"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT13_Renni",
+    "link": "/champions/renni/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Renni.png",
+    "name": "Renni",
+    "traits": [
+      "chem-baron",
+      "bruiser"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT13_Rumble",
+    "link": "/champions/rumble/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Rumble.png",
+    "name": "Rumble",
+    "traits": [
+      "junker king",
+      "scrap",
+      "sentinel"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT13_Scar",
+    "link": "/champions/scar/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Scar.png",
+    "name": "Scar",
+    "traits": [
+      "firelight",
+      "watcher"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT13_Sett",
+    "link": "/champions/sett/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Sett.png",
+    "name": "Sett",
+    "traits": [
+      "rebel",
+      "bruiser"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT13_Sevika",
+    "link": "/champions/sevika/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Sevika.png",
+    "name": "Sevika",
+    "traits": [
+      "chem-baron",
+      "high roller",
+      "pit fighter"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT13_Silco",
+    "link": "/champions/silco/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Silco.png",
+    "name": "Silco",
+    "traits": [
+      "chem-baron",
+      "dominator"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT13_Singed",
+    "link": "/champions/singed/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Singed.png",
+    "name": "Singed",
+    "traits": [
+      "chem-baron",
+      "sentinel"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT13_Smeech",
+    "link": "/champions/smeech/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Smeech.png",
+    "name": "Smeech",
+    "traits": [
+      "chem-baron",
+      "ambusher"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT13_Steb",
+    "link": "/champions/steb/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Steb.png",
+    "name": "Steb",
+    "traits": [
+      "enforcer",
+      "bruiser"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT13_Swain",
+    "link": "/champions/swain/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Swain.png",
+    "name": "Swain",
+    "traits": [
+      "conqueror",
+      "form swapper",
+      "sorcerer"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT13_Tristana",
+    "link": "/champions/tristana/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Tristana.png",
+    "name": "Tristana",
+    "traits": [
+      "emissary",
+      "artillerist"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT13_Trundle",
+    "link": "/champions/trundle/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Trundle.png",
+    "name": "Trundle",
+    "traits": [
+      "scrap",
+      "bruiser"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT13_TwistedFate",
+    "link": "/champions/twisted_fate/",
+    "image": "https://rerollcdn.com/characters/Skin/13/TwistedFate.png",
+    "name": "Twisted Fate",
+    "traits": [
+      "enforcer",
+      "quickstriker"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT13_Twitch",
+    "link": "/champions/twitch/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Twitch.png",
+    "name": "Twitch",
+    "traits": [
+      "experiment",
+      "sniper"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT13_Urgot",
+    "link": "/champions/urgot/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Urgot.png",
+    "name": "Urgot",
+    "traits": [
+      "experiment",
+      "artillerist",
+      "pit fighter"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT13_Vander",
+    "link": "/champions/vander/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Vander.png",
+    "name": "Vander",
+    "traits": [
+      "family",
+      "watcher"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT13_Vex",
+    "link": "/champions/vex/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Vex.png",
+    "name": "Vex",
+    "traits": [
+      "rebel",
+      "visionary"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT13_Vi",
+    "link": "/champions/vi/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Vi.png",
+    "name": "Vi",
+    "traits": [
+      "enforcer",
+      "pit fighter"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT13_Viktor",
+    "link": "/champions/viktor/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Viktor.png",
+    "name": "Viktor",
+    "traits": [
+      "machine herald"
+    ],
+    "cost": 6
+  },
+  {
+    "championId": "TFT13_Violet",
+    "link": "/champions/violet/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Violet.png",
+    "name": "Violet",
+    "traits": [
+      "family",
+      "pit fighter"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT13_Vladimir",
+    "link": "/champions/vladimir/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Vladimir.png",
+    "name": "Vladimir",
+    "traits": [
+      "black rose",
+      "sorcerer",
+      "watcher"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT13_Warwick",
+    "link": "/champions/warwick/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Warwick.png",
+    "name": "Warwick",
+    "traits": [
+      "experiment",
+      "blood hunter"
+    ],
+    "cost": 6
+  },
+  {
+    "championId": "TFT13_Zeri",
+    "link": "/champions/zeri/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Zeri.png",
+    "name": "Zeri",
+    "traits": [
+      "firelight",
+      "sniper"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT13_Ziggs",
+    "link": "/champions/ziggs/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Ziggs.png",
+    "name": "Ziggs",
+    "traits": [
+      "scrap",
+      "dominator"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT13_Zoe",
+    "link": "/champions/zoe/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Zoe.png",
+    "name": "Zoe",
+    "traits": [
+      "rebel",
+      "sorcerer"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT13_Zyra",
+    "link": "/champions/zyra/",
+    "image": "https://rerollcdn.com/characters/Skin/13/Zyra.png",
+    "name": "Zyra",
+    "traits": [
+      "experiment",
+      "sorcerer"
+    ],
+    "cost": 1
+  }
+]
