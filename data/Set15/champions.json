@@ -1,0 +1,711 @@
+[
+  {
+    "championId": "TFT15_Aatrox",
+    "link": "/champions/aatrox/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Aatrox.png",
+    "name": "Aatrox",
+    "traits": [
+      "mighty mech",
+      "heavyweight",
+      "juggernaut"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT15_Ahri",
+    "link": "/champions/ahri/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Ahri.png",
+    "name": "Ahri",
+    "traits": [
+      "star guardian",
+      "sorcerer"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT15_Akali",
+    "link": "/champions/akali/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Akali.png",
+    "name": "Akali",
+    "traits": [
+      "supreme cells",
+      "executioner"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT15_Ashe",
+    "link": "/champions/ashe/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Ashe.png",
+    "name": "Ashe",
+    "traits": [
+      "crystal gambit",
+      "duelist"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT15_Braum",
+    "link": "/champions/braum/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Braum.png",
+    "name": "Braum",
+    "traits": [
+      "luchador",
+      "the champ",
+      "bastion"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT15_Caitlyn",
+    "link": "/champions/caitlyn/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Caitlyn.png",
+    "name": "Caitlyn",
+    "traits": [
+      "battle academia",
+      "sniper"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT15_Darius",
+    "link": "/champions/darius/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Darius.png",
+    "name": "Darius",
+    "traits": [
+      "supreme cells",
+      "heavyweight"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT15_DrMundo",
+    "link": "/champions/dr_mundo/",
+    "image": "https://sunderarmor.com/characters/Skin/15/DrMundo.png",
+    "name": "Dr Mundo",
+    "traits": [
+      "luchador",
+      "juggernaut"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT15_Ezreal",
+    "link": "/champions/ezreal/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Ezreal.png",
+    "name": "Ezreal",
+    "traits": [
+      "battle academia",
+      "prodigy"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT15_Gangplank",
+    "link": "/champions/gangplank/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Gangplank.png",
+    "name": "Gangplank",
+    "traits": [
+      "mighty mech",
+      "duelist"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT15_Garen",
+    "link": "/champions/garen/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Garen.png",
+    "name": "Garen",
+    "traits": [
+      "battle academia",
+      "bastion"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT15_Gnar",
+    "link": "/champions/gnar/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Gnar.png",
+    "name": "Gnar",
+    "traits": [
+      "luchador",
+      "sniper"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT15_Gwen",
+    "link": "/champions/gwen/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Gwen.png",
+    "name": "Gwen",
+    "traits": [
+      "soul fighter",
+      "sorcerer"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT15_Janna",
+    "link": "/champions/janna/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Janna.png",
+    "name": "Janna",
+    "traits": [
+      "crystal gambit",
+      "protector",
+      "strategist"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT15_JarvanIV",
+    "link": "/champions/jarvan_iv/",
+    "image": "https://sunderarmor.com/characters/Skin/15/JarvanIV.png",
+    "name": "Jarvan IV",
+    "traits": [
+      "mighty mech",
+      "strategist"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT15_Jayce",
+    "link": "/champions/jayce/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Jayce.png",
+    "name": "Jayce",
+    "traits": [
+      "battle academia",
+      "heavyweight"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT15_Jhin",
+    "link": "/champions/jhin/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Jhin.png",
+    "name": "Jhin",
+    "traits": [
+      "wraith",
+      "sniper"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT15_Jinx",
+    "link": "/champions/jinx/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Jinx.png",
+    "name": "Jinx",
+    "traits": [
+      "star guardian",
+      "sniper"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT15_KSante",
+    "link": "/champions/ksante/",
+    "image": "https://sunderarmor.com/characters/Skin/15/KSante.png",
+    "name": "KSante",
+    "traits": [
+      "wraith",
+      "protector"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT15_Kaisa",
+    "link": "/champions/kaisa/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Kaisa.png",
+    "name": "Kaisa",
+    "traits": [
+      "supreme cells",
+      "duelist"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT15_Kalista",
+    "link": "/champions/kalista/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Kalista.png",
+    "name": "Kalista",
+    "traits": [
+      "soul fighter",
+      "executioner"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT15_Karma",
+    "link": "/champions/karma/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Karma.png",
+    "name": "Karma",
+    "traits": [
+      "mighty mech",
+      "sorcerer"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT15_Katarina",
+    "link": "/champions/katarina/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Katarina.png",
+    "name": "Katarina",
+    "traits": [
+      "battle academia",
+      "executioner"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT15_Kayle",
+    "link": "/champions/kayle/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Kayle.png",
+    "name": "Kayle",
+    "traits": [
+      "wraith",
+      "duelist"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT15_Kennen",
+    "link": "/champions/kennen/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Kennen.png",
+    "name": "Kennen",
+    "traits": [
+      "supreme cells",
+      "protector",
+      "sorcerer"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT15_Kobuko",
+    "link": "/champions/kobuko/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Kobuko.png",
+    "name": "Kobuko",
+    "traits": [
+      "mentor",
+      "heavyweight"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT15_Kogmaw",
+    "link": "/champions/kogmaw/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Kogmaw.png",
+    "name": "Kogmaw",
+    "traits": [
+      "monster trainer"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT15_LeeSin",
+    "link": "/champions/lee_sin/",
+    "image": "https://sunderarmor.com/characters/Skin/15/LeeSin.png",
+    "name": "Lee Sin",
+    "traits": [
+      "stance master",
+      "duelist",
+      "executioner",
+      "juggernaut"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT15_Leona",
+    "link": "/champions/leona/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Leona.png",
+    "name": "Leona",
+    "traits": [
+      "battle academia",
+      "bastion"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT15_Lucian",
+    "link": "/champions/lucian/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Lucian.png",
+    "name": "Lucian",
+    "traits": [
+      "mighty mech",
+      "sorcerer"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT15_Lulu",
+    "link": "/champions/lulu/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Lulu.png",
+    "name": "Lulu",
+    "traits": [
+      "monster trainer"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT15_Lux",
+    "link": "/champions/lux/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Lux.png",
+    "name": "Lux",
+    "traits": [
+      "soul fighter",
+      "sorcerer"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT15_Malphite",
+    "link": "/champions/malphite/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Malphite.png",
+    "name": "Malphite",
+    "traits": [
+      "the crew",
+      "protector"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT15_Malzahar",
+    "link": "/champions/malzahar/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Malzahar.png",
+    "name": "Malzahar",
+    "traits": [
+      "wraith",
+      "prodigy"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT15_Naafiri",
+    "link": "/champions/naafiri/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Naafiri.png",
+    "name": "Naafiri",
+    "traits": [
+      "soul fighter",
+      "juggernaut"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT15_Neeko",
+    "link": "/champions/neeko/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Neeko.png",
+    "name": "Neeko",
+    "traits": [
+      "star guardian",
+      "protector"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT15_Poppy",
+    "link": "/champions/poppy/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Poppy.png",
+    "name": "Poppy",
+    "traits": [
+      "star guardian",
+      "heavyweight"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT15_Rakan",
+    "link": "/champions/rakan/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Rakan.png",
+    "name": "Rakan",
+    "traits": [
+      "battle academia",
+      "protector"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT15_Rammus",
+    "link": "/champions/rammus/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Rammus.png",
+    "name": "Rammus",
+    "traits": [
+      "monster trainer"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT15_Rell",
+    "link": "/champions/rell/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Rell.png",
+    "name": "Rell",
+    "traits": [
+      "star guardian",
+      "bastion"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT15_Ryze",
+    "link": "/champions/ryze/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Ryze.png",
+    "name": "Ryze",
+    "traits": [
+      "mentor",
+      "executioner",
+      "strategist"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT15_Samira",
+    "link": "/champions/samira/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Samira.png",
+    "name": "Samira",
+    "traits": [
+      "soul fighter",
+      "edgelord"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT15_Senna",
+    "link": "/champions/senna/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Senna.png",
+    "name": "Senna",
+    "traits": [
+      "mighty mech",
+      "executioner"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT15_Seraphine",
+    "link": "/champions/seraphine/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Seraphine.png",
+    "name": "Seraphine",
+    "traits": [
+      "star guardian",
+      "prodigy"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT15_Sett",
+    "link": "/champions/sett/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Sett.png",
+    "name": "Sett",
+    "traits": [
+      "soul fighter",
+      "juggernaut"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT15_Shen",
+    "link": "/champions/shen/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Shen.png",
+    "name": "Shen",
+    "traits": [
+      "the crew",
+      "bastion",
+      "edgelord"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT15_Sivir",
+    "link": "/champions/sivir/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Sivir.png",
+    "name": "Sivir",
+    "traits": [
+      "the crew",
+      "sniper"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT15_Smolder",
+    "link": "/champions/smolder/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Smolder.png",
+    "name": "Smolder",
+    "traits": [
+      "monster trainer"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT15_Swain",
+    "link": "/champions/swain/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Swain.png",
+    "name": "Swain",
+    "traits": [
+      "crystal gambit",
+      "bastion",
+      "sorcerer"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT15_Syndra",
+    "link": "/champions/syndra/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Syndra.png",
+    "name": "Syndra",
+    "traits": [
+      "crystal gambit",
+      "prodigy"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT15_TwistedFate",
+    "link": "/champions/twisted_fate/",
+    "image": "https://sunderarmor.com/characters/Skin/15/TwistedFate.png",
+    "name": "Twisted Fate",
+    "traits": [
+      "rogue captain"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT15_Udyr",
+    "link": "/champions/udyr/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Udyr.png",
+    "name": "Udyr",
+    "traits": [
+      "mentor",
+      "duelist",
+      "juggernaut"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT15_Varus",
+    "link": "/champions/varus/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Varus.png",
+    "name": "Varus",
+    "traits": [
+      "wraith",
+      "sniper"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT15_Vi",
+    "link": "/champions/vi/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Vi.png",
+    "name": "Vi",
+    "traits": [
+      "crystal gambit",
+      "juggernaut"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT15_Viego",
+    "link": "/champions/viego/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Viego.png",
+    "name": "Viego",
+    "traits": [
+      "soul fighter",
+      "duelist"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT15_Volibear",
+    "link": "/champions/volibear/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Volibear.png",
+    "name": "Volibear",
+    "traits": [
+      "luchador",
+      "edgelord"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT15_Xayah",
+    "link": "/champions/xayah/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Xayah.png",
+    "name": "Xayah",
+    "traits": [
+      "star guardian",
+      "edgelord"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT15_XinZhao",
+    "link": "/champions/xin_zhao/",
+    "image": "https://sunderarmor.com/characters/Skin/15/XinZhao.png",
+    "name": "Xin Zhao",
+    "traits": [
+      "soul fighter",
+      "bastion"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT15_Yasuo",
+    "link": "/champions/yasuo/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Yasuo.png",
+    "name": "Yasuo",
+    "traits": [
+      "mentor",
+      "edgelord"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT15_Yone",
+    "link": "/champions/yone/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Yone.png",
+    "name": "Yone",
+    "traits": [
+      "mighty mech",
+      "edgelord"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT15_Yuumi",
+    "link": "/champions/yuumi/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Yuumi.png",
+    "name": "Yuumi",
+    "traits": [
+      "battle academia",
+      "prodigy"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT15_Zac",
+    "link": "/champions/zac/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Zac.png",
+    "name": "Zac",
+    "traits": [
+      "wraith",
+      "heavyweight"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT15_Ziggs",
+    "link": "/champions/ziggs/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Ziggs.png",
+    "name": "Ziggs",
+    "traits": [
+      "the crew",
+      "strategist"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT15_Zyra",
+    "link": "/champions/zyra/",
+    "image": "https://sunderarmor.com/characters/Skin/15/Zyra.png",
+    "name": "Zyra",
+    "traits": [
+      "crystal gambit",
+      "rosemother"
+    ],
+    "cost": 5
+  }
+]
