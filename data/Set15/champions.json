@@ -290,16 +290,6 @@
     "cost": 2
   },
   {
-    "championId": "TFT15_Kogmaw",
-    "link": "/champions/kogmaw/",
-    "image": "https://sunderarmor.com/characters/Skin/15/Kogmaw.png",
-    "name": "Kogmaw",
-    "traits": [
-      "monster trainer"
-    ],
-    "cost": 3
-  },
-  {
     "championId": "TFT15_LeeSin",
     "link": "/champions/lee_sin/",
     "image": "https://sunderarmor.com/characters/Skin/15/LeeSin.png",
@@ -422,16 +412,6 @@
     "cost": 2
   },
   {
-    "championId": "TFT15_Rammus",
-    "link": "/champions/rammus/",
-    "image": "https://sunderarmor.com/characters/Skin/15/Rammus.png",
-    "name": "Rammus",
-    "traits": [
-      "monster trainer"
-    ],
-    "cost": 3
-  },
-  {
     "championId": "TFT15_Rell",
     "link": "/champions/rell/",
     "image": "https://sunderarmor.com/characters/Skin/15/Rell.png",
@@ -520,16 +500,6 @@
       "sniper"
     ],
     "cost": 1
-  },
-  {
-    "championId": "TFT15_Smolder",
-    "link": "/champions/smolder/",
-    "image": "https://sunderarmor.com/characters/Skin/15/Smolder.png",
-    "name": "Smolder",
-    "traits": [
-      "monster trainer"
-    ],
-    "cost": 3
   },
   {
     "championId": "TFT15_Swain",
