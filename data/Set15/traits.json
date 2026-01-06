@@ -1,0 +1,158 @@
+[
+  {
+    "key": "battle academia",
+    "image": "https://sunderarmor.com/icons/battleacademia.png",
+    "name": "Battle Academia",
+    "type": "origin"
+  },
+  {
+    "key": "crystal gambit",
+    "image": "https://sunderarmor.com/icons/crystalgambit.png",
+    "name": "Crystal Gambit",
+    "type": "origin"
+  },
+  {
+    "key": "luchador",
+    "image": "https://sunderarmor.com/icons/luchador.png",
+    "name": "Luchador",
+    "type": "origin"
+  },
+  {
+    "key": "mentor",
+    "image": "https://sunderarmor.com/icons/mentor.png",
+    "name": "Mentor",
+    "type": "origin"
+  },
+  {
+    "key": "mighty mech",
+    "image": "https://sunderarmor.com/icons/mightymech.png",
+    "name": "Mighty Mech",
+    "type": "origin"
+  },
+  {
+    "key": "monster trainer",
+    "image": "https://sunderarmor.com/icons/monstertrainer.png",
+    "name": "Monster Trainer",
+    "type": "origin"
+  },
+  {
+    "key": "rogue captain",
+    "image": "https://sunderarmor.com/icons/roguecaptain.png",
+    "name": "Rogue Captain",
+    "type": "origin"
+  },
+  {
+    "key": "rosemother",
+    "image": "https://sunderarmor.com/icons/rosemother.png",
+    "name": "Rosemother",
+    "type": "origin"
+  },
+  {
+    "key": "soul fighter",
+    "image": "https://sunderarmor.com/icons/soulfighter.png",
+    "name": "Soul Fighter",
+    "type": "origin"
+  },
+  {
+    "key": "stance master",
+    "image": "https://sunderarmor.com/icons/stancemaster.png",
+    "name": "Stance Master",
+    "type": "origin"
+  },
+  {
+    "key": "star guardian",
+    "image": "https://sunderarmor.com/icons/starguardian.png",
+    "name": "Star Guardian",
+    "type": "origin"
+  },
+  {
+    "key": "supreme cells",
+    "image": "https://sunderarmor.com/icons/supremecells.png",
+    "name": "Supreme Cells",
+    "type": "origin"
+  },
+  {
+    "key": "the champ",
+    "image": "https://sunderarmor.com/icons/thechamp.png",
+    "name": "The Champ",
+    "type": "origin"
+  },
+  {
+    "key": "the crew",
+    "image": "https://sunderarmor.com/icons/thecrew.png",
+    "name": "The Crew",
+    "type": "origin"
+  },
+  {
+    "key": "wraith",
+    "image": "https://sunderarmor.com/icons/wraith.png",
+    "name": "Wraith",
+    "type": "origin"
+  },
+  {
+    "key": "bastion",
+    "image": "https://sunderarmor.com/icons/bastion.png",
+    "name": "Bastion",
+    "type": "class"
+  },
+  {
+    "key": "duelist",
+    "image": "https://sunderarmor.com/icons/duelist.png",
+    "name": "Duelist",
+    "type": "class"
+  },
+  {
+    "key": "edgelord",
+    "image": "https://sunderarmor.com/icons/edgelord.png",
+    "name": "Edgelord",
+    "type": "class"
+  },
+  {
+    "key": "executioner",
+    "image": "https://sunderarmor.com/icons/executioner.png",
+    "name": "Executioner",
+    "type": "class"
+  },
+  {
+    "key": "heavyweight",
+    "image": "https://sunderarmor.com/icons/heavyweight.png",
+    "name": "Heavyweight",
+    "type": "class"
+  },
+  {
+    "key": "juggernaut",
+    "image": "https://sunderarmor.com/icons/juggernaut.png",
+    "name": "Juggernaut",
+    "type": "class"
+  },
+  {
+    "key": "prodigy",
+    "image": "https://sunderarmor.com/icons/prodigy.png",
+    "name": "Prodigy",
+    "type": "class"
+  },
+  {
+    "key": "protector",
+    "image": "https://sunderarmor.com/icons/protector.png",
+    "name": "Protector",
+    "type": "class"
+  },
+  {
+    "key": "sniper",
+    "image": "https://sunderarmor.com/icons/sniper.png",
+    "name": "Sniper",
+    "type": "class"
+  },
+  {
+    "key": "sorcerer",
+    "image": "https://sunderarmor.com/icons/sorcerer.png",
+    "name": "Sorcerer",
+    "type": "class"
+  },
+  {
+    "key": "strategist",
+    "image": "https://sunderarmor.com/icons/strategist.png",
+    "name": "Strategist",
+    "type": "class"
+  }
+]

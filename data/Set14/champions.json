@@ -1,0 +1,669 @@
+[
+  {
+    "championId": "TFT14_Alistar",
+    "link": "/champions/alistar/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Alistar.png",
+    "name": "Alistar",
+    "traits": [
+      "golden ox",
+      "bruiser"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT14_Annie",
+    "link": "/champions/annie/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Annie.png",
+    "name": "Annie",
+    "traits": [
+      "golden ox",
+      "a.m.p."
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT14_Aphelios",
+    "link": "/champions/aphelios/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Aphelios.png",
+    "name": "Aphelios",
+    "traits": [
+      "golden ox",
+      "marksman"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT14_Aurora",
+    "link": "/champions/aurora/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Aurora.png",
+    "name": "Aurora",
+    "traits": [
+      "anima squad",
+      "dynamo"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT14_Brand",
+    "link": "/champions/brand/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Brand.png",
+    "name": "Brand",
+    "traits": [
+      "street demon",
+      "techie"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT14_Braum",
+    "link": "/champions/braum/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Braum.png",
+    "name": "Braum",
+    "traits": [
+      "syndicate",
+      "vanguard"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT14_Chogath",
+    "link": "/champions/chogath/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Chogath.png",
+    "name": "Chogath",
+    "traits": [
+      "boombots",
+      "bruiser"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT14_Darius",
+    "link": "/champions/darius/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Darius.png",
+    "name": "Darius",
+    "traits": [
+      "syndicate",
+      "bruiser"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT14_DrMundo",
+    "link": "/champions/dr_mundo/",
+    "image": "https://sunderarmor.com/characters/Skin/14/DrMundo.png",
+    "name": "Dr Mundo",
+    "traits": [
+      "street demon",
+      "bruiser",
+      "slayer"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT14_Draven",
+    "link": "/champions/draven/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Draven.png",
+    "name": "Draven",
+    "traits": [
+      "cypher",
+      "rapidfire"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT14_Ekko",
+    "link": "/champions/ekko/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Ekko.png",
+    "name": "Ekko",
+    "traits": [
+      "street demon",
+      "strategist"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT14_Elise",
+    "link": "/champions/elise/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Elise.png",
+    "name": "Elise",
+    "traits": [
+      "nitro",
+      "dynamo"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT14_Fiddlesticks",
+    "link": "/champions/fiddlesticks/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Fiddlesticks.png",
+    "name": "Fiddlesticks",
+    "traits": [
+      "boombots",
+      "techie"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT14_Galio",
+    "link": "/champions/galio/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Galio.png",
+    "name": "Galio",
+    "traits": [
+      "cypher",
+      "bastion"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT14_Garen",
+    "link": "/champions/garen/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Garen.png",
+    "name": "Garen",
+    "traits": [
+      "god of the net"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT14_Gragas",
+    "link": "/champions/gragas/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Gragas.png",
+    "name": "Gragas",
+    "traits": [
+      "divinicorp",
+      "bruiser"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT14_Graves",
+    "link": "/champions/graves/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Graves.png",
+    "name": "Graves",
+    "traits": [
+      "golden ox",
+      "executioner"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT14_Illaoi",
+    "link": "/champions/illaoi/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Illaoi.png",
+    "name": "Illaoi",
+    "traits": [
+      "anima squad",
+      "bastion"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT14_JarvanIV",
+    "link": "/champions/jarvan_iv/",
+    "image": "https://sunderarmor.com/characters/Skin/14/JarvanIV.png",
+    "name": "Jarvan IV",
+    "traits": [
+      "golden ox",
+      "slayer",
+      "vanguard"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT14_Jax",
+    "link": "/champions/jax/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Jax.png",
+    "name": "Jax",
+    "traits": [
+      "exotech",
+      "bastion"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT14_Jhin",
+    "link": "/champions/jhin/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Jhin.png",
+    "name": "Jhin",
+    "traits": [
+      "exotech",
+      "dynamo",
+      "marksman"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT14_Jinx",
+    "link": "/champions/jinx/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Jinx.png",
+    "name": "Jinx",
+    "traits": [
+      "street demon",
+      "marksman"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT14_Kindred",
+    "link": "/champions/kindred/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Kindred.png",
+    "name": "Kindred",
+    "traits": [
+      "nitro",
+      "marksman",
+      "rapidfire"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT14_Kobuko",
+    "link": "/champions/kobuko/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Kobuko.png",
+    "name": "Kobuko",
+    "traits": [
+      "cyberboss",
+      "bruiser"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT14_Kogmaw",
+    "link": "/champions/kogmaw/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Kogmaw.png",
+    "name": "Kogmaw",
+    "traits": [
+      "boombots",
+      "rapidfire"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT14_Leblanc",
+    "link": "/champions/leblanc/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Leblanc.png",
+    "name": "Leblanc",
+    "traits": [
+      "cypher",
+      "strategist"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT14_Leona",
+    "link": "/champions/leona/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Leona.png",
+    "name": "Leona",
+    "traits": [
+      "anima squad",
+      "vanguard"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT14_MissFortune",
+    "link": "/champions/miss_fortune/",
+    "image": "https://sunderarmor.com/characters/Skin/14/MissFortune.png",
+    "name": "Miss Fortune",
+    "traits": [
+      "syndicate",
+      "dynamo"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT14_Mordekaiser",
+    "link": "/champions/mordekaiser/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Mordekaiser.png",
+    "name": "Mordekaiser",
+    "traits": [
+      "exotech",
+      "bruiser",
+      "techie"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT14_Morgana",
+    "link": "/champions/morgana/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Morgana.png",
+    "name": "Morgana",
+    "traits": [
+      "divinicorp",
+      "dynamo"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT14_Naafiri",
+    "link": "/champions/naafiri/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Naafiri.png",
+    "name": "Naafiri",
+    "traits": [
+      "exotech",
+      "a.m.p."
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT14_Neeko",
+    "link": "/champions/neeko/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Neeko.png",
+    "name": "Neeko",
+    "traits": [
+      "street demon",
+      "strategist"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT14_Nidalee",
+    "link": "/champions/nidalee/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Nidalee.png",
+    "name": "Nidalee",
+    "traits": [
+      "nitro",
+      "a.m.p."
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT14_Poppy",
+    "link": "/champions/poppy/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Poppy.png",
+    "name": "Poppy",
+    "traits": [
+      "cyberboss",
+      "bastion"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT14_Renekton",
+    "link": "/champions/renekton/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Renekton.png",
+    "name": "Renekton",
+    "traits": [
+      "divinicorp",
+      "overlord",
+      "bastion"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT14_Rengar",
+    "link": "/champions/rengar/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Rengar.png",
+    "name": "Rengar",
+    "traits": [
+      "street demon",
+      "executioner"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT14_Rhaast",
+    "link": "/champions/rhaast/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Rhaast.png",
+    "name": "Rhaast",
+    "traits": [
+      "divinicorp",
+      "vanguard"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT14_Samira",
+    "link": "/champions/samira/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Samira.png",
+    "name": "Samira",
+    "traits": [
+      "street demon",
+      "a.m.p."
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT14_Sejuani",
+    "link": "/champions/sejuani/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Sejuani.png",
+    "name": "Sejuani",
+    "traits": [
+      "exotech",
+      "bastion"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT14_Senna",
+    "link": "/champions/senna/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Senna.png",
+    "name": "Senna",
+    "traits": [
+      "divinicorp",
+      "slayer"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT14_Seraphine",
+    "link": "/champions/seraphine/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Seraphine.png",
+    "name": "Seraphine",
+    "traits": [
+      "anima squad",
+      "techie"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT14_Shaco",
+    "link": "/champions/shaco/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Shaco.png",
+    "name": "Shaco",
+    "traits": [
+      "syndicate",
+      "slayer"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT14_Shyvana",
+    "link": "/champions/shyvana/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Shyvana.png",
+    "name": "Shyvana",
+    "traits": [
+      "nitro",
+      "bastion",
+      "techie"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT14_Skarner",
+    "link": "/champions/skarner/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Skarner.png",
+    "name": "Skarner",
+    "traits": [
+      "boombots",
+      "vanguard"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT14_Sylas",
+    "link": "/champions/sylas/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Sylas.png",
+    "name": "Sylas",
+    "traits": [
+      "anima squad",
+      "vanguard"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT14_TwistedFate",
+    "link": "/champions/twisted_fate/",
+    "image": "https://sunderarmor.com/characters/Skin/14/TwistedFate.png",
+    "name": "Twisted Fate",
+    "traits": [
+      "syndicate",
+      "rapidfire"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT14_Urgot",
+    "link": "/champions/urgot/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Urgot.png",
+    "name": "Urgot",
+    "traits": [
+      "boombots",
+      "executioner"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT14_Varus",
+    "link": "/champions/varus/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Varus.png",
+    "name": "Varus",
+    "traits": [
+      "exotech",
+      "executioner"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT14_Vayne",
+    "link": "/champions/vayne/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Vayne.png",
+    "name": "Vayne",
+    "traits": [
+      "anima squad",
+      "slayer"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT14_Veigar",
+    "link": "/champions/veigar/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Veigar.png",
+    "name": "Veigar",
+    "traits": [
+      "cyberboss",
+      "techie"
+    ],
+    "cost": 2
+  },
+  {
+    "championId": "TFT14_Vex",
+    "link": "/champions/vex/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Vex.png",
+    "name": "Vex",
+    "traits": [
+      "divinicorp",
+      "executioner"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT14_Vi",
+    "link": "/champions/vi/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Vi.png",
+    "name": "Vi",
+    "traits": [
+      "cypher",
+      "vanguard"
+    ],
+    "cost": 1
+  },
+  {
+    "championId": "TFT14_Viego",
+    "link": "/champions/viego/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Viego.png",
+    "name": "Viego",
+    "traits": [
+      "golden ox",
+      "soul killer",
+      "techie"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT14_Xayah",
+    "link": "/champions/xayah/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Xayah.png",
+    "name": "Xayah",
+    "traits": [
+      "anima squad",
+      "marksman"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT14_Yuumi",
+    "link": "/champions/yuumi/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Yuumi.png",
+    "name": "Yuumi",
+    "traits": [
+      "anima squad",
+      "a.m.p.",
+      "strategist"
+    ],
+    "cost": 3
+  },
+  {
+    "championId": "TFT14_Zac",
+    "link": "/champions/zac/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Zac.png",
+    "name": "Zac",
+    "traits": [
+      "virus"
+    ],
+    "cost": 5
+  },
+  {
+    "championId": "TFT14_Zed",
+    "link": "/champions/zed/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Zed.png",
+    "name": "Zed",
+    "traits": [
+      "cypher",
+      "slayer"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT14_Zeri",
+    "link": "/champions/zeri/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Zeri.png",
+    "name": "Zeri",
+    "traits": [
+      "exotech",
+      "rapidfire"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT14_Ziggs",
+    "link": "/champions/ziggs/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Ziggs.png",
+    "name": "Ziggs",
+    "traits": [
+      "cyberboss",
+      "strategist"
+    ],
+    "cost": 4
+  },
+  {
+    "championId": "TFT14_Zyra",
+    "link": "/champions/zyra/",
+    "image": "https://sunderarmor.com/characters/Skin/14/Zyra.png",
+    "name": "Zyra",
+    "traits": [
+      "street demon",
+      "techie"
+    ],
+    "cost": 1
+  }
+]

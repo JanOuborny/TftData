@@ -1,0 +1,152 @@
+[
+  {
+    "key": "anima squad",
+    "image": "https://sunderarmor.com/icons/animasquad.png",
+    "name": "Anima Squad",
+    "type": "origin"
+  },
+  {
+    "key": "boombots",
+    "image": "https://sunderarmor.com/icons/boombots.png",
+    "name": "BoomBots",
+    "type": "origin"
+  },
+  {
+    "key": "cyberboss",
+    "image": "https://sunderarmor.com/icons/cyberboss.png",
+    "name": "Cyberboss",
+    "type": "origin"
+  },
+  {
+    "key": "cypher",
+    "image": "https://sunderarmor.com/icons/cypher.png",
+    "name": "Cypher",
+    "type": "origin"
+  },
+  {
+    "key": "divinicorp",
+    "image": "https://sunderarmor.com/icons/divinicorp.png",
+    "name": "Divinicorp",
+    "type": "origin"
+  },
+  {
+    "key": "exotech",
+    "image": "https://sunderarmor.com/icons/exotech.png",
+    "name": "Exotech",
+    "type": "origin"
+  },
+  {
+    "key": "god of the net",
+    "image": "https://sunderarmor.com/icons/godofthenet.png",
+    "name": "God of the Net",
+    "type": "origin"
+  },
+  {
+    "key": "golden ox",
+    "image": "https://sunderarmor.com/icons/goldenox.png",
+    "name": "Golden Ox",
+    "type": "origin"
+  },
+  {
+    "key": "nitro",
+    "image": "https://sunderarmor.com/icons/nitro.png",
+    "name": "Nitro",
+    "type": "origin"
+  },
+  {
+    "key": "overlord",
+    "image": "https://sunderarmor.com/icons/overlord.png",
+    "name": "Overlord",
+    "type": "origin"
+  },
+  {
+    "key": "soul killer",
+    "image": "https://sunderarmor.com/icons/soulkiller.png",
+    "name": "Soul Killer",
+    "type": "origin"
+  },
+  {
+    "key": "street demon",
+    "image": "https://sunderarmor.com/icons/streetdemon.png",
+    "name": "Street Demon",
+    "type": "origin"
+  },
+  {
+    "key": "syndicate",
+    "image": "https://sunderarmor.com/icons/syndicate.png",
+    "name": "Syndicate",
+    "type": "origin"
+  },
+  {
+    "key": "virus",
+    "image": "https://sunderarmor.com/icons/virus.png",
+    "name": "Virus",
+    "type": "origin"
+  },
+  {
+    "key": "a.m.p.",
+    "image": "https://sunderarmor.com/icons/a.m.p..png",
+    "name": "A.M.P.",
+    "type": "class"
+  },
+  {
+    "key": "bastion",
+    "image": "https://sunderarmor.com/icons/bastion.png",
+    "name": "Bastion",
+    "type": "class"
+  },
+  {
+    "key": "bruiser",
+    "image": "https://sunderarmor.com/icons/bruiser.png",
+    "name": "Bruiser",
+    "type": "class"
+  },
+  {
+    "key": "dynamo",
+    "image": "https://sunderarmor.com/icons/dynamo.png",
+    "name": "Dynamo",
+    "type": "class"
+  },
+  {
+    "key": "executioner",
+    "image": "https://sunderarmor.com/icons/executioner.png",
+    "name": "Executioner",
+    "type": "class"
+  },
+  {
+    "key": "marksman",
+    "image": "https://sunderarmor.com/icons/marksman.png",
+    "name": "Marksman",
+    "type": "class"
+  },
+  {
+    "key": "rapidfire",
+    "image": "https://sunderarmor.com/icons/rapidfire.png",
+    "name": "Rapidfire",
+    "type": "class"
+  },
+  {
+    "key": "slayer",
+    "image": "https://sunderarmor.com/icons/slayer.png",
+    "name": "Slayer",
+    "type": "class"
+  },
+  {
+    "key": "strategist",
+    "image": "https://sunderarmor.com/icons/strategist.png",
+    "name": "Strategist",
+    "type": "class"
+  },
+  {
+    "key": "techie",
+    "image": "https://sunderarmor.com/icons/techie.png",
+    "name": "Techie",
+    "type": "class"
+  },
+  {
+    "key": "vanguard",
+    "image": "https://sunderarmor.com/icons/vanguard.png",
+    "name": "Vanguard",
+    "type": "class"
+  }
+]
