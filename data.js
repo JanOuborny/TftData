@@ -52,6 +52,12 @@ async function scrapeLatestSet(dataDirectoryPath) {
             ".main .characters-list .characters-item"
         );
         entries.forEach((e) => {
+            // Find the cost class (e.g., 'c3', 'c5')
+            const costClass = Array.from(e.classList).find((cls) =>
+                /^c\d+$/.test(cls)
+            );
+            const cost = costClass ? parseInt(costClass.substring(1)) : null;
+
             let champion = {
                 championId:
                     `TFT${setVersionNumber}_` +
@@ -61,6 +67,7 @@ async function scrapeLatestSet(dataDirectoryPath) {
                 link: e.getAttribute("href"),
                 image: e.querySelector(".character-icon").getAttribute("src"),
                 name: e.querySelector(".character-name").textContent,
+                cost: cost,
             };
             results.push(champion);
         });
@@ -86,13 +93,6 @@ async function scrapeLatestSet(dataDirectoryPath) {
                 );
             }
             return traits;
-        });
-        c.cost = await page.evaluate(() => {
-            return parseInt(
-                document
-                    .querySelector(".character-stats li")
-                    .textContent.match(/\d/)[0]
-            );
         });
     }
 

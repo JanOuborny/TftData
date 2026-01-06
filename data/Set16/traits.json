@@ -1,0 +1,290 @@
+[
+  {
+    "key": "assimilator",
+    "image": "https://sunderarmor.com/icons/assimilator.png",
+    "name": "Assimilator",
+    "type": "origin"
+  },
+  {
+    "key": "bilgewater",
+    "image": "https://sunderarmor.com/icons/bilgewater.png",
+    "name": "Bilgewater",
+    "type": "origin"
+  },
+  {
+    "key": "blacksmith",
+    "image": "https://sunderarmor.com/icons/blacksmith.png",
+    "name": "Blacksmith",
+    "type": "origin"
+  },
+  {
+    "key": "caretaker",
+    "image": "https://sunderarmor.com/icons/caretaker.png",
+    "name": "Caretaker",
+    "type": "origin"
+  },
+  {
+    "key": "chainbreaker",
+    "image": "https://sunderarmor.com/icons/chainbreaker.png",
+    "name": "Chainbreaker",
+    "type": "origin"
+  },
+  {
+    "key": "chronokeeper",
+    "image": "https://sunderarmor.com/icons/chronokeeper.png",
+    "name": "Chronokeeper",
+    "type": "origin"
+  },
+  {
+    "key": "dark child",
+    "image": "https://sunderarmor.com/icons/darkchild.png",
+    "name": "Dark Child",
+    "type": "origin"
+  },
+  {
+    "key": "darkin",
+    "image": "https://sunderarmor.com/icons/darkin.png",
+    "name": "Darkin",
+    "type": "origin"
+  },
+  {
+    "key": "demacia",
+    "image": "https://sunderarmor.com/icons/demacia.png",
+    "name": "Demacia",
+    "type": "origin"
+  },
+  {
+    "key": "dragonborn",
+    "image": "https://sunderarmor.com/icons/dragonborn.png",
+    "name": "Dragonborn",
+    "type": "origin"
+  },
+  {
+    "key": "emperor",
+    "image": "https://sunderarmor.com/icons/emperor.png",
+    "name": "Emperor",
+    "type": "origin"
+  },
+  {
+    "key": "eternal",
+    "image": "https://sunderarmor.com/icons/eternal.png",
+    "name": "Eternal",
+    "type": "origin"
+  },
+  {
+    "key": "freljord",
+    "image": "https://sunderarmor.com/icons/freljord.png",
+    "name": "Freljord",
+    "type": "origin"
+  },
+  {
+    "key": "glutton",
+    "image": "https://sunderarmor.com/icons/glutton.png",
+    "name": "Glutton",
+    "type": "origin"
+  },
+  {
+    "key": "harvester",
+    "image": "https://sunderarmor.com/icons/harvester.png",
+    "name": "Harvester",
+    "type": "origin"
+  },
+  {
+    "key": "hexmech",
+    "image": "https://sunderarmor.com/icons/hexmech.png",
+    "name": "HexMech",
+    "type": "origin"
+  },
+  {
+    "key": "ionia",
+    "image": "https://sunderarmor.com/icons/ionia.png",
+    "name": "Ionia",
+    "type": "origin"
+  },
+  {
+    "key": "ixtal",
+    "image": "https://sunderarmor.com/icons/ixtal.png",
+    "name": "Ixtal",
+    "type": "origin"
+  },
+  {
+    "key": "noxus",
+    "image": "https://sunderarmor.com/icons/noxus.png",
+    "name": "Noxus",
+    "type": "origin"
+  },
+  {
+    "key": "piltover",
+    "image": "https://sunderarmor.com/icons/piltover.png",
+    "name": "Piltover",
+    "type": "origin"
+  },
+  {
+    "key": "rune mage",
+    "image": "https://sunderarmor.com/icons/runemage.png",
+    "name": "Rune Mage",
+    "type": "origin"
+  },
+  {
+    "key": "shadow isles",
+    "image": "https://sunderarmor.com/icons/shadowisles.png",
+    "name": "Shadow Isles",
+    "type": "origin"
+  },
+  {
+    "key": "shurima",
+    "image": "https://sunderarmor.com/icons/shurima.png",
+    "name": "Shurima",
+    "type": "origin"
+  },
+  {
+    "key": "soulbound",
+    "image": "https://sunderarmor.com/icons/soulbound.png",
+    "name": "Soulbound",
+    "type": "origin"
+  },
+  {
+    "key": "targon",
+    "image": "https://sunderarmor.com/icons/targon.png",
+    "name": "Targon",
+    "type": "origin"
+  },
+  {
+    "key": "void",
+    "image": "https://sunderarmor.com/icons/void.png",
+    "name": "Void",
+    "type": "origin"
+  },
+  {
+    "key": "world ender",
+    "image": "https://sunderarmor.com/icons/worldender.png",
+    "name": "World Ender",
+    "type": "origin"
+  },
+  {
+    "key": "yordle",
+    "image": "https://sunderarmor.com/icons/yordle.png",
+    "name": "Yordle",
+    "type": "origin"
+  },
+  {
+    "key": "zaun",
+    "image": "https://sunderarmor.com/icons/zaun.png",
+    "name": "Zaun",
+    "type": "origin"
+  },
+  {
+    "key": "arcanist",
+    "image": "https://sunderarmor.com/icons/arcanist.png",
+    "name": "Arcanist",
+    "type": "class"
+  },
+  {
+    "key": "ascendant",
+    "image": "https://sunderarmor.com/icons/ascendant.png",
+    "name": "Ascendant",
+    "type": "class"
+  },
+  {
+    "key": "bruiser",
+    "image": "https://sunderarmor.com/icons/bruiser.png",
+    "name": "Bruiser",
+    "type": "class"
+  },
+  {
+    "key": "defender",
+    "image": "https://sunderarmor.com/icons/defender.png",
+    "name": "Defender",
+    "type": "class"
+  },
+  {
+    "key": "disruptor",
+    "image": "https://sunderarmor.com/icons/disruptor.png",
+    "name": "Disruptor",
+    "type": "class"
+  },
+  {
+    "key": "gunslinger",
+    "image": "https://sunderarmor.com/icons/gunslinger.png",
+    "name": "Gunslinger",
+    "type": "class"
+  },
+  {
+    "key": "heroic",
+    "image": "https://sunderarmor.com/icons/heroic.png",
+    "name": "Heroic",
+    "type": "class"
+  },
+  {
+    "key": "huntress",
+    "image": "https://sunderarmor.com/icons/huntress.png",
+    "name": "Huntress",
+    "type": "class"
+  },
+  {
+    "key": "immortal",
+    "image": "https://sunderarmor.com/icons/immortal.png",
+    "name": "Immortal",
+    "type": "class"
+  },
+  {
+    "key": "invoker",
+    "image": "https://sunderarmor.com/icons/invoker.png",
+    "name": "Invoker",
+    "type": "class"
+  },
+  {
+    "key": "juggernaut",
+    "image": "https://sunderarmor.com/icons/juggernaut.png",
+    "name": "Juggernaut",
+    "type": "class"
+  },
+  {
+    "key": "longshot",
+    "image": "https://sunderarmor.com/icons/longshot.png",
+    "name": "Longshot",
+    "type": "class"
+  },
+  {
+    "key": "quickstriker",
+    "image": "https://sunderarmor.com/icons/quickstriker.png",
+    "name": "Quickstriker",
+    "type": "class"
+  },
+  {
+    "key": "riftscourge",
+    "image": "https://sunderarmor.com/icons/riftscourge.png",
+    "name": "Riftscourge",
+    "type": "class"
+  },
+  {
+    "key": "slayer",
+    "image": "https://sunderarmor.com/icons/slayer.png",
+    "name": "Slayer",
+    "type": "class"
+  },
+  {
+    "key": "star forger",
+    "image": "https://sunderarmor.com/icons/starforger.png",
+    "name": "Star Forger",
+    "type": "class"
+  },
+  {
+    "key": "the boss",
+    "image": "https://sunderarmor.com/icons/theboss.png",
+    "name": "The Boss",
+    "type": "class"
+  },
+  {
+    "key": "vanquisher",
+    "image": "https://sunderarmor.com/icons/vanquisher.png",
+    "name": "Vanquisher",
+    "type": "class"
+  },
+  {
+    "key": "warden",
+    "image": "https://sunderarmor.com/icons/warden.png",
+    "name": "Warden",
+    "type": "class"
+  }
+]

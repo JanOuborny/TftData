@@ -1,0 +1,1119 @@
+[
+  {
+    "championId": "TFT16_Aatrox",
+    "link": "/champions/aatrox/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Aatrox.png",
+    "name": "Aatrox",
+    "cost": 5,
+    "traits": [
+      "darkin",
+      "world ender",
+      "slayer"
+    ]
+  },
+  {
+    "championId": "TFT16_Ahri",
+    "link": "/champions/ahri/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Ahri.png",
+    "name": "Ahri",
+    "cost": 3,
+    "traits": [
+      "ionia",
+      "arcanist"
+    ]
+  },
+  {
+    "championId": "TFT16_Ambessa",
+    "link": "/champions/ambessa/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Ambessa.png",
+    "name": "Ambessa",
+    "cost": 4,
+    "traits": [
+      "noxus",
+      "vanquisher"
+    ]
+  },
+  {
+    "championId": "TFT16_Anivia",
+    "link": "/champions/anivia/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Anivia.png",
+    "name": "Anivia",
+    "cost": 1,
+    "traits": [
+      "freljord",
+      "invoker"
+    ]
+  },
+  {
+    "championId": "TFT16_Annie",
+    "link": "/champions/annie/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Annie.png",
+    "name": "Annie",
+    "cost": 5,
+    "traits": [
+      "dark child",
+      "arcanist"
+    ]
+  },
+  {
+    "championId": "TFT16_Aphelios",
+    "link": "/champions/aphelios/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Aphelios.png",
+    "name": "Aphelios",
+    "cost": 2,
+    "traits": [
+      "targon"
+    ]
+  },
+  {
+    "championId": "TFT16_Ashe",
+    "link": "/champions/ashe/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Ashe.png",
+    "name": "Ashe",
+    "cost": 2,
+    "traits": [
+      "freljord",
+      "quickstriker"
+    ]
+  },
+  {
+    "championId": "TFT16_AurelionSol",
+    "link": "/champions/aurelion_sol/",
+    "image": "https://sunderarmor.com/characters/Skin/16/AurelionSol.png",
+    "name": "Aurelion Sol",
+    "cost": 7,
+    "traits": [
+      "targon",
+      "star forger"
+    ]
+  },
+  {
+    "championId": "TFT16_Azir",
+    "link": "/champions/azir/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Azir.png",
+    "name": "Azir",
+    "cost": 5,
+    "traits": [
+      "emperor",
+      "shurima",
+      "disruptor"
+    ]
+  },
+  {
+    "championId": "TFT16_Bard",
+    "link": "/champions/bard/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Bard.png",
+    "name": "Bard",
+    "cost": 2,
+    "traits": [
+      "caretaker"
+    ]
+  },
+  {
+    "championId": "TFT16_BaronNashor",
+    "link": "/champions/baron_nashor/",
+    "image": "https://sunderarmor.com/characters/Skin/16/BaronNashor.png",
+    "name": "Baron Nashor",
+    "cost": 7,
+    "traits": [
+      "void",
+      "riftscourge"
+    ]
+  },
+  {
+    "championId": "TFT16_Belveth",
+    "link": "/champions/belveth/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Belveth.png",
+    "name": "Belveth",
+    "cost": 4,
+    "traits": [
+      "void",
+      "slayer"
+    ]
+  },
+  {
+    "championId": "TFT16_Blitzcrank",
+    "link": "/champions/blitzcrank/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Blitzcrank.png",
+    "name": "Blitzcrank",
+    "cost": 1,
+    "traits": [
+      "zaun",
+      "juggernaut"
+    ]
+  },
+  {
+    "championId": "TFT16_Braum",
+    "link": "/champions/braum/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Braum.png",
+    "name": "Braum",
+    "cost": 4,
+    "traits": [
+      "freljord",
+      "warden"
+    ]
+  },
+  {
+    "championId": "TFT16_Briar",
+    "link": "/champions/briar/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Briar.png",
+    "name": "Briar",
+    "cost": 1,
+    "traits": [
+      "noxus",
+      "juggernaut",
+      "slayer"
+    ]
+  },
+  {
+    "championId": "TFT16_Brock",
+    "link": "/champions/brock/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Brock.png",
+    "name": "Brock",
+    "cost": 7,
+    "traits": [
+      "ixtal"
+    ]
+  },
+  {
+    "championId": "TFT16_Caitlyn",
+    "link": "/champions/caitlyn/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Caitlyn.png",
+    "name": "Caitlyn",
+    "cost": 1,
+    "traits": [
+      "piltover",
+      "longshot"
+    ]
+  },
+  {
+    "championId": "TFT16_Chogath",
+    "link": "/champions/chogath/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Chogath.png",
+    "name": "Chogath",
+    "cost": 2,
+    "traits": [
+      "void",
+      "juggernaut"
+    ]
+  },
+  {
+    "championId": "TFT16_Darius",
+    "link": "/champions/darius/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Darius.png",
+    "name": "Darius",
+    "cost": 3,
+    "traits": [
+      "noxus",
+      "defender"
+    ]
+  },
+  {
+    "championId": "TFT16_Diana",
+    "link": "/champions/diana/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Diana.png",
+    "name": "Diana",
+    "cost": 4,
+    "traits": [
+      "targon"
+    ]
+  },
+  {
+    "championId": "TFT16_DrMundo",
+    "link": "/champions/dr_mundo/",
+    "image": "https://sunderarmor.com/characters/Skin/16/DrMundo.png",
+    "name": "Dr Mundo",
+    "cost": 3,
+    "traits": [
+      "zaun",
+      "bruiser"
+    ]
+  },
+  {
+    "championId": "TFT16_Draven",
+    "link": "/champions/draven/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Draven.png",
+    "name": "Draven",
+    "cost": 3,
+    "traits": [
+      "noxus",
+      "quickstriker"
+    ]
+  },
+  {
+    "championId": "TFT16_Ekko",
+    "link": "/champions/ekko/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Ekko.png",
+    "name": "Ekko",
+    "cost": 2,
+    "traits": [
+      "zaun",
+      "disruptor"
+    ]
+  },
+  {
+    "championId": "TFT16_Fiddlesticks",
+    "link": "/champions/fiddlesticks/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Fiddlesticks.png",
+    "name": "Fiddlesticks",
+    "cost": 5,
+    "traits": [
+      "harvester",
+      "vanquisher"
+    ]
+  },
+  {
+    "championId": "TFT16_Fizz",
+    "link": "/champions/fizz/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Fizz.png",
+    "name": "Fizz",
+    "cost": 4,
+    "traits": [
+      "bilgewater",
+      "yordle"
+    ]
+  },
+  {
+    "championId": "TFT16_Galio",
+    "link": "/champions/galio/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Galio.png",
+    "name": "Galio",
+    "cost": 5,
+    "traits": [
+      "demacia",
+      "heroic"
+    ]
+  },
+  {
+    "championId": "TFT16_Gangplank",
+    "link": "/champions/gangplank/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Gangplank.png",
+    "name": "Gangplank",
+    "cost": 3,
+    "traits": [
+      "bilgewater",
+      "slayer",
+      "vanquisher"
+    ]
+  },
+  {
+    "championId": "TFT16_Garen",
+    "link": "/champions/garen/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Garen.png",
+    "name": "Garen",
+    "cost": 4,
+    "traits": [
+      "demacia",
+      "defender"
+    ]
+  },
+  {
+    "championId": "TFT16_Graves",
+    "link": "/champions/graves/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Graves.png",
+    "name": "Graves",
+    "cost": 2,
+    "traits": [
+      "bilgewater",
+      "gunslinger"
+    ]
+  },
+  {
+    "championId": "TFT16_Gwen",
+    "link": "/champions/gwen/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Gwen.png",
+    "name": "Gwen",
+    "cost": 3,
+    "traits": [
+      "shadow isles",
+      "disruptor"
+    ]
+  },
+  {
+    "championId": "TFT16_Illaoi",
+    "link": "/champions/illaoi/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Illaoi.png",
+    "name": "Illaoi",
+    "cost": 1,
+    "traits": [
+      "bilgewater",
+      "bruiser"
+    ]
+  },
+  {
+    "championId": "TFT16_JarvanIV",
+    "link": "/champions/jarvan_iv/",
+    "image": "https://sunderarmor.com/characters/Skin/16/JarvanIV.png",
+    "name": "Jarvan IV",
+    "cost": 1,
+    "traits": [
+      "demacia",
+      "defender"
+    ]
+  },
+  {
+    "championId": "TFT16_Jhin",
+    "link": "/champions/jhin/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Jhin.png",
+    "name": "Jhin",
+    "cost": 1,
+    "traits": [
+      "ionia",
+      "gunslinger"
+    ]
+  },
+  {
+    "championId": "TFT16_Jinx",
+    "link": "/champions/jinx/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Jinx.png",
+    "name": "Jinx",
+    "cost": 3,
+    "traits": [
+      "zaun",
+      "gunslinger"
+    ]
+  },
+  {
+    "championId": "TFT16_Kaisa",
+    "link": "/champions/kaisa/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Kaisa.png",
+    "name": "Kaisa",
+    "cost": 4,
+    "traits": [
+      "assimilator",
+      "void",
+      "longshot"
+    ]
+  },
+  {
+    "championId": "TFT16_Kalista",
+    "link": "/champions/kalista/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Kalista.png",
+    "name": "Kalista",
+    "cost": 4,
+    "traits": [
+      "shadow isles",
+      "vanquisher"
+    ]
+  },
+  {
+    "championId": "TFT16_Kennen",
+    "link": "/champions/kennen/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Kennen.png",
+    "name": "Kennen",
+    "cost": 3,
+    "traits": [
+      "ionia",
+      "yordle",
+      "defender"
+    ]
+  },
+  {
+    "championId": "TFT16_Kindred",
+    "link": "/champions/kindred/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Kindred.png",
+    "name": "Kindred",
+    "cost": 5,
+    "traits": [
+      "eternal",
+      "quickstriker"
+    ]
+  },
+  {
+    "championId": "TFT16_KobukoYuumi",
+    "link": "/champions/kobuko_&_yuumi/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Kobuko&Yuumi.png",
+    "name": "Kobuko & Yuumi",
+    "cost": 3,
+    "traits": [
+      "yordle",
+      "bruiser",
+      "invoker"
+    ]
+  },
+  {
+    "championId": "TFT16_Kogmaw",
+    "link": "/champions/kogmaw/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Kogmaw.png",
+    "name": "Kogmaw",
+    "cost": 1,
+    "traits": [
+      "void",
+      "arcanist",
+      "longshot"
+    ]
+  },
+  {
+    "championId": "TFT16_Leblanc",
+    "link": "/champions/leblanc/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Leblanc.png",
+    "name": "Leblanc",
+    "cost": 3,
+    "traits": [
+      "noxus",
+      "invoker"
+    ]
+  },
+  {
+    "championId": "TFT16_Leona",
+    "link": "/champions/leona/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Leona.png",
+    "name": "Leona",
+    "cost": 3,
+    "traits": [
+      "targon"
+    ]
+  },
+  {
+    "championId": "TFT16_Lissandra",
+    "link": "/champions/lissandra/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Lissandra.png",
+    "name": "Lissandra",
+    "cost": 4,
+    "traits": [
+      "freljord",
+      "invoker"
+    ]
+  },
+  {
+    "championId": "TFT16_Loris",
+    "link": "/champions/loris/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Loris.png",
+    "name": "Loris",
+    "cost": 3,
+    "traits": [
+      "piltover",
+      "warden"
+    ]
+  },
+  {
+    "championId": "TFT16_LucianSenna",
+    "link": "/champions/lucian_&_senna/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Lucian&Senna.png",
+    "name": "Lucian & Senna",
+    "cost": 5,
+    "traits": [
+      "soulbound",
+      "gunslinger"
+    ]
+  },
+  {
+    "championId": "TFT16_Lulu",
+    "link": "/champions/lulu/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Lulu.png",
+    "name": "Lulu",
+    "cost": 1,
+    "traits": [
+      "yordle",
+      "arcanist"
+    ]
+  },
+  {
+    "championId": "TFT16_Lux",
+    "link": "/champions/lux/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Lux.png",
+    "name": "Lux",
+    "cost": 4,
+    "traits": [
+      "demacia",
+      "arcanist"
+    ]
+  },
+  {
+    "championId": "TFT16_Malzahar",
+    "link": "/champions/malzahar/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Malzahar.png",
+    "name": "Malzahar",
+    "cost": 3,
+    "traits": [
+      "void",
+      "disruptor"
+    ]
+  },
+  {
+    "championId": "TFT16_Mel",
+    "link": "/champions/mel/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Mel.png",
+    "name": "Mel",
+    "cost": 5,
+    "traits": [
+      "noxus",
+      "disruptor"
+    ]
+  },
+  {
+    "championId": "TFT16_Milio",
+    "link": "/champions/milio/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Milio.png",
+    "name": "Milio",
+    "cost": 3,
+    "traits": [
+      "ixtal",
+      "invoker"
+    ]
+  },
+  {
+    "championId": "TFT16_MissFortune",
+    "link": "/champions/miss_fortune/",
+    "image": "https://sunderarmor.com/characters/Skin/16/MissFortune.png",
+    "name": "Miss Fortune",
+    "cost": 4,
+    "traits": [
+      "bilgewater",
+      "gunslinger"
+    ]
+  },
+  {
+    "championId": "TFT16_Nasus",
+    "link": "/champions/nasus/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Nasus.png",
+    "name": "Nasus",
+    "cost": 4,
+    "traits": [
+      "shurima"
+    ]
+  },
+  {
+    "championId": "TFT16_Nautilus",
+    "link": "/champions/nautilus/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Nautilus.png",
+    "name": "Nautilus",
+    "cost": 3,
+    "traits": [
+      "bilgewater",
+      "juggernaut",
+      "warden"
+    ]
+  },
+  {
+    "championId": "TFT16_Neeko",
+    "link": "/champions/neeko/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Neeko.png",
+    "name": "Neeko",
+    "cost": 2,
+    "traits": [
+      "ixtal",
+      "arcanist",
+      "defender"
+    ]
+  },
+  {
+    "championId": "TFT16_Nidalee",
+    "link": "/champions/nidalee/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Nidalee.png",
+    "name": "Nidalee",
+    "cost": 4,
+    "traits": [
+      "ixtal",
+      "huntress"
+    ]
+  },
+  {
+    "championId": "TFT16_Orianna",
+    "link": "/champions/orianna/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Orianna.png",
+    "name": "Orianna",
+    "cost": 2,
+    "traits": [
+      "piltover",
+      "invoker"
+    ]
+  },
+  {
+    "championId": "TFT16_Ornn",
+    "link": "/champions/ornn/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Ornn.png",
+    "name": "Ornn",
+    "cost": 5,
+    "traits": [
+      "blacksmith",
+      "warden"
+    ]
+  },
+  {
+    "championId": "TFT16_Poppy",
+    "link": "/champions/poppy/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Poppy.png",
+    "name": "Poppy",
+    "cost": 2,
+    "traits": [
+      "demacia",
+      "yordle",
+      "juggernaut"
+    ]
+  },
+  {
+    "championId": "TFT16_Qiyana",
+    "link": "/champions/qiyana/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Qiyana.png",
+    "name": "Qiyana",
+    "cost": 1,
+    "traits": [
+      "ixtal",
+      "slayer"
+    ]
+  },
+  {
+    "championId": "TFT16_RekSai",
+    "link": "/champions/reksai/",
+    "image": "https://sunderarmor.com/characters/Skin/16/RekSai.png",
+    "name": "RekSai",
+    "cost": 2,
+    "traits": [
+      "void",
+      "vanquisher"
+    ]
+  },
+  {
+    "championId": "TFT16_Renekton",
+    "link": "/champions/renekton/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Renekton.png",
+    "name": "Renekton",
+    "cost": 4,
+    "traits": [
+      "shurima"
+    ]
+  },
+  {
+    "championId": "TFT16_RiftHerald",
+    "link": "/champions/rift_herald/",
+    "image": "https://sunderarmor.com/characters/Skin/16/RiftHerald.png",
+    "name": "Rift Herald",
+    "cost": 4,
+    "traits": [
+      "void",
+      "bruiser"
+    ]
+  },
+  {
+    "championId": "TFT16_Rumble",
+    "link": "/champions/rumble/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Rumble.png",
+    "name": "Rumble",
+    "cost": 1,
+    "traits": [
+      "yordle",
+      "defender"
+    ]
+  },
+  {
+    "championId": "TFT16_Ryze",
+    "link": "/champions/ryze/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Ryze.png",
+    "name": "Ryze",
+    "cost": 7,
+    "traits": [
+      "rune mage"
+    ]
+  },
+  {
+    "championId": "TFT16_Sejuani",
+    "link": "/champions/sejuani/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Sejuani.png",
+    "name": "Sejuani",
+    "cost": 3,
+    "traits": [
+      "freljord",
+      "defender"
+    ]
+  },
+  {
+    "championId": "TFT16_Seraphine",
+    "link": "/champions/seraphine/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Seraphine.png",
+    "name": "Seraphine",
+    "cost": 4,
+    "traits": [
+      "piltover",
+      "disruptor"
+    ]
+  },
+  {
+    "championId": "TFT16_Sett",
+    "link": "/champions/sett/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Sett.png",
+    "name": "Sett",
+    "cost": 5,
+    "traits": [
+      "ionia",
+      "the boss"
+    ]
+  },
+  {
+    "championId": "TFT16_Shen",
+    "link": "/champions/shen/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Shen.png",
+    "name": "Shen",
+    "cost": 1,
+    "traits": [
+      "ionia",
+      "bruiser"
+    ]
+  },
+  {
+    "championId": "TFT16_Shyvana",
+    "link": "/champions/shyvana/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Shyvana.png",
+    "name": "Shyvana",
+    "cost": 5,
+    "traits": [
+      "dragonborn",
+      "juggernaut"
+    ]
+  },
+  {
+    "championId": "TFT16_Singed",
+    "link": "/champions/singed/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Singed.png",
+    "name": "Singed",
+    "cost": 4,
+    "traits": [
+      "zaun",
+      "juggernaut"
+    ]
+  },
+  {
+    "championId": "TFT16_Sion",
+    "link": "/champions/sion/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Sion.png",
+    "name": "Sion",
+    "cost": 2,
+    "traits": [
+      "noxus",
+      "bruiser"
+    ]
+  },
+  {
+    "championId": "TFT16_Skarner",
+    "link": "/champions/skarner/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Skarner.png",
+    "name": "Skarner",
+    "cost": 4,
+    "traits": [
+      "ixtal"
+    ]
+  },
+  {
+    "championId": "TFT16_Sona",
+    "link": "/champions/sona/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Sona.png",
+    "name": "Sona",
+    "cost": 1,
+    "traits": [
+      "demacia",
+      "invoker"
+    ]
+  },
+  {
+    "championId": "TFT16_Swain",
+    "link": "/champions/swain/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Swain.png",
+    "name": "Swain",
+    "cost": 4,
+    "traits": [
+      "noxus",
+      "arcanist",
+      "juggernaut"
+    ]
+  },
+  {
+    "championId": "TFT16_Sylas",
+    "link": "/champions/sylas/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Sylas.png",
+    "name": "Sylas",
+    "cost": 7,
+    "traits": [
+      "chainbreaker",
+      "arcanist",
+      "defender"
+    ]
+  },
+  {
+    "championId": "TFT16_THex",
+    "link": "/champions/t-hex/",
+    "image": "https://sunderarmor.com/characters/Skin/16/T-Hex.png",
+    "name": "T-Hex",
+    "cost": 5,
+    "traits": [
+      "hexmech",
+      "piltover",
+      "gunslinger"
+    ]
+  },
+  {
+    "championId": "TFT16_TahmKench",
+    "link": "/champions/tahm_kench/",
+    "image": "https://sunderarmor.com/characters/Skin/16/TahmKench.png",
+    "name": "Tahm Kench",
+    "cost": 5,
+    "traits": [
+      "bilgewater",
+      "glutton",
+      "bruiser"
+    ]
+  },
+  {
+    "championId": "TFT16_Taric",
+    "link": "/champions/taric/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Taric.png",
+    "name": "Taric",
+    "cost": 4,
+    "traits": [
+      "targon"
+    ]
+  },
+  {
+    "championId": "TFT16_Teemo",
+    "link": "/champions/teemo/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Teemo.png",
+    "name": "Teemo",
+    "cost": 2,
+    "traits": [
+      "yordle",
+      "longshot"
+    ]
+  },
+  {
+    "championId": "TFT16_Thresh",
+    "link": "/champions/thresh/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Thresh.png",
+    "name": "Thresh",
+    "cost": 5,
+    "traits": [
+      "shadow isles",
+      "warden"
+    ]
+  },
+  {
+    "championId": "TFT16_Tibbers",
+    "link": "/champions/tibbers/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Tibbers.png",
+    "name": "Tibbers",
+    "cost": 5,
+    "traits": [
+      "arcanist"
+    ]
+  },
+  {
+    "championId": "TFT16_Tristana",
+    "link": "/champions/tristana/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Tristana.png",
+    "name": "Tristana",
+    "cost": 2,
+    "traits": [
+      "yordle",
+      "gunslinger"
+    ]
+  },
+  {
+    "championId": "TFT16_Tryndamere",
+    "link": "/champions/tryndamere/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Tryndamere.png",
+    "name": "Tryndamere",
+    "cost": 2,
+    "traits": [
+      "freljord",
+      "slayer"
+    ]
+  },
+  {
+    "championId": "TFT16_TwistedFate",
+    "link": "/champions/twisted_fate/",
+    "image": "https://sunderarmor.com/characters/Skin/16/TwistedFate.png",
+    "name": "Twisted Fate",
+    "cost": 2,
+    "traits": [
+      "bilgewater",
+      "quickstriker"
+    ]
+  },
+  {
+    "championId": "TFT16_Vayne",
+    "link": "/champions/vayne/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Vayne.png",
+    "name": "Vayne",
+    "cost": 3,
+    "traits": [
+      "demacia",
+      "longshot"
+    ]
+  },
+  {
+    "championId": "TFT16_Veigar",
+    "link": "/champions/veigar/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Veigar.png",
+    "name": "Veigar",
+    "cost": 4,
+    "traits": [
+      "yordle",
+      "arcanist"
+    ]
+  },
+  {
+    "championId": "TFT16_Vi",
+    "link": "/champions/vi/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Vi.png",
+    "name": "Vi",
+    "cost": 2,
+    "traits": [
+      "piltover",
+      "zaun",
+      "defender"
+    ]
+  },
+  {
+    "championId": "TFT16_Viego",
+    "link": "/champions/viego/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Viego.png",
+    "name": "Viego",
+    "cost": 1,
+    "traits": [
+      "shadow isles",
+      "quickstriker"
+    ]
+  },
+  {
+    "championId": "TFT16_Volibear",
+    "link": "/champions/volibear/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Volibear.png",
+    "name": "Volibear",
+    "cost": 5,
+    "traits": [
+      "freljord",
+      "bruiser"
+    ]
+  },
+  {
+    "championId": "TFT16_Warwick",
+    "link": "/champions/warwick/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Warwick.png",
+    "name": "Warwick",
+    "cost": 4,
+    "traits": [
+      "zaun",
+      "quickstriker"
+    ]
+  },
+  {
+    "championId": "TFT16_Wukong",
+    "link": "/champions/wukong/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Wukong.png",
+    "name": "Wukong",
+    "cost": 4,
+    "traits": [
+      "ionia",
+      "bruiser"
+    ]
+  },
+  {
+    "championId": "TFT16_Xerath",
+    "link": "/champions/xerath/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Xerath.png",
+    "name": "Xerath",
+    "cost": 5,
+    "traits": [
+      "shurima",
+      "ascendant"
+    ]
+  },
+  {
+    "championId": "TFT16_XinZhao",
+    "link": "/champions/xin_zhao/",
+    "image": "https://sunderarmor.com/characters/Skin/16/XinZhao.png",
+    "name": "Xin Zhao",
+    "cost": 2,
+    "traits": [
+      "demacia",
+      "ionia",
+      "warden"
+    ]
+  },
+  {
+    "championId": "TFT16_Yasuo",
+    "link": "/champions/yasuo/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Yasuo.png",
+    "name": "Yasuo",
+    "cost": 2,
+    "traits": [
+      "ionia",
+      "slayer"
+    ]
+  },
+  {
+    "championId": "TFT16_Yone",
+    "link": "/champions/yone/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Yone.png",
+    "name": "Yone",
+    "cost": 4,
+    "traits": [
+      "ionia",
+      "slayer"
+    ]
+  },
+  {
+    "championId": "TFT16_Yorick",
+    "link": "/champions/yorick/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Yorick.png",
+    "name": "Yorick",
+    "cost": 2,
+    "traits": [
+      "shadow isles",
+      "warden"
+    ]
+  },
+  {
+    "championId": "TFT16_Yunara",
+    "link": "/champions/yunara/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Yunara.png",
+    "name": "Yunara",
+    "cost": 4,
+    "traits": [
+      "ionia",
+      "quickstriker"
+    ]
+  },
+  {
+    "championId": "TFT16_Zaahen",
+    "link": "/champions/zaahen/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Zaahen.png",
+    "name": "Zaahen",
+    "cost": 7,
+    "traits": [
+      "darkin",
+      "immortal"
+    ]
+  },
+  {
+    "championId": "TFT16_Ziggs",
+    "link": "/champions/ziggs/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Ziggs.png",
+    "name": "Ziggs",
+    "cost": 5,
+    "traits": [
+      "yordle",
+      "zaun",
+      "longshot"
+    ]
+  },
+  {
+    "championId": "TFT16_Zilean",
+    "link": "/champions/zilean/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Zilean.png",
+    "name": "Zilean",
+    "cost": 5,
+    "traits": [
+      "chronokeeper",
+      "invoker"
+    ]
+  },
+  {
+    "championId": "TFT16_Zoe",
+    "link": "/champions/zoe/",
+    "image": "https://sunderarmor.com/characters/Skin/16/Zoe.png",
+    "name": "Zoe",
+    "cost": 3,
+    "traits": [
+      "targon"
+    ]
+  }
+]
